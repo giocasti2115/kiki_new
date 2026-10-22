@@ -1,0 +1,135 @@
+/* Rastreo de pedidos (prototipo de la versión HTML; temporal hasta el diseño de Marketing). */
+.tracking-hero { padding: 140px 0 40px; background: linear-gradient(180deg, #e3f3fd 0%, #ffffff 100%); }
+.tracking-hero-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  align-items: center;
+  background: #fff;
+  border-radius: 32px;
+  padding: 48px;
+  box-shadow: 0 25px 80px rgba(10, 24, 64, .08);
+}
+.tracking-hero-visual { flex: 1 1 320px; min-width: 280px; display: flex; justify-content: center; align-items: center; }
+.tracking-hero-visual img { display: block; width: 100%; max-width: 520px; height: auto; border-radius: 24px; }
+.tracking-hero-content { flex: 1 1 380px; min-width: 0; }
+.tracking-eyebrow { text-transform: uppercase; font-size: 14px; letter-spacing: .08em; font-weight: 600; color: #0f7cff; }
+.tracking-hero-content h1 { font-size: clamp(30px, 4vw, 44px); margin: 18px 0 12px; color: #122033; }
+.tracking-hero-content p.lead { font-size: 18px; color: #42526b; margin-bottom: 26px; }
+.tracking-form { display: flex; flex-direction: column; gap: 12px; margin-bottom: 18px; }
+.tracking-input-group {
+  display: flex;
+  flex-wrap: wrap;
+  background: #f8fbff;
+  border: 2px solid #d7e3ff;
+  border-radius: 999px;
+  padding: 6px;
+  gap: 8px;
+}
+.tracking-input-group:focus-within { border-color: #0f7cff; box-shadow: 0 0 0 4px rgba(15, 124, 255, .1); }
+.tracking-input {
+  flex: 1 1 240px;
+  min-width: 0;
+  border: none;
+  background: transparent;
+  padding: 12px 20px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #122033;
+  outline: none;
+  box-shadow: none;
+  appearance: none;
+}
+.tracking-input::placeholder { color: #8892a7; }
+.tracking-submit {
+  min-width: 210px;
+  border: none;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 26px;
+  background: linear-gradient(135deg, #05a5ff 0%, #0072ff 100%);
+  color: #fff;
+  cursor: pointer;
+}
+.tracking-submit[disabled] { opacity: .7; cursor: not-allowed; }
+.tracking-btn-spinner {
+  display: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, .4);
+  border-top-color: #fff;
+  animation: tracking-spin 1s linear infinite;
+}
+.tracking-submit.is-loading .tracking-btn-spinner { display: inline-flex; }
+.tracking-submit.is-loading .tracking-btn-label { opacity: .4; }
+.tracking-helper { font-size: 14px; color: #606b85; }
+.tracking-feedback { font-size: 15px; font-weight: 500; color: #21325b; }
+.tracking-feedback.error { color: #c24040; }
+.tracking-feedback.success { color: #198754; }
+
+.tracking-data { padding: 40px 0 100px; }
+.tracking-summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 18px; margin-top: 32px; }
+.tracking-summary-card { background: #fff; border-radius: 20px; padding: 22px; border: 1px solid #edf2ff; box-shadow: 0 12px 35px rgba(16, 55, 97, .08); }
+.tracking-summary-card span { font-size: 12px; letter-spacing: .08em; color: #6f7c99; text-transform: uppercase; }
+.tracking-summary-card strong { display: block; font-size: 24px; margin-top: 6px; color: #121f36; overflow-wrap: anywhere; }
+.tracking-status-pill { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 600; border-radius: 999px; padding: 6px 14px; background: #f1f5ff; color: #0f7cff; }
+.tracking-status-pill.delivered { background: #e6fbf0; color: #198754; }
+.tracking-status-pill.in-transit { background: #fff7e1; color: #f59f00; }
+.tracking-status-pill.issue { background: #fdecec; color: #c92a2a; }
+.tracking-timeline-card,
+.tracking-table-card { background: #fff; border-radius: 28px; padding: 32px; margin-top: 40px; border: 1px solid #edf2ff; box-shadow: 0 25px 60px rgba(15, 32, 77, .08); }
+.tracking-timeline { list-style: none; margin: 0; padding: 0; position: relative; }
+.tracking-timeline::before { content: ""; position: absolute; left: 16px; top: 0; bottom: 0; width: 2px; background: linear-gradient(#d9e5ff, #92b0ff); }
+.tracking-timeline-item { position: relative; padding: 0 0 30px 60px; }
+.tracking-timeline-item:last-child { padding-bottom: 0; }
+.tracking-timeline-marker { position: absolute; left: 7px; top: 0; width: 18px; height: 18px; border-radius: 50%; border: 4px solid #fff; background: #0f7cff; box-shadow: 0 0 0 6px rgba(15, 124, 255, .15); }
+.tracking-timeline-item.delivered .tracking-timeline-marker { background: #16c47f; }
+.tracking-timeline-item.issue .tracking-timeline-marker { background: #ff5f5f; }
+.tracking-timeline-item h4 { margin: 0 0 6px; font-size: 1.1rem; color: #122033; }
+.tracking-timeline-item p { margin: 0; color: #4b5570; }
+.tracking-table { width: 100%; border-collapse: collapse; }
+.tracking-table th,
+.tracking-table td { padding: 14px 18px; border-bottom: 1px solid #edf2ff; font-size: 15px; }
+.tracking-table th { font-size: 13px; color: #6f7c99; text-transform: uppercase; letter-spacing: .08em; }
+.tracking-empty-state { padding: 24px; text-align: center; border-radius: 18px; background: #f5f8ff; color: #4b5570; font-weight: 500; }
+.tracking-support-card {
+  margin-top: 40px;
+  padding: 28px;
+  border-radius: 26px;
+  background: linear-gradient(120deg, #091e42 0%, #0f3a75 100%);
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  align-items: center;
+  justify-content: space-between;
+}
+.tracking-support-card h4 { color: #fff; }
+.tracking-support-card p { margin: 0; color: rgba(255, 255, 255, .8); }
+.tracking-support-card .main_btn { background: #ffd84d; color: #0f1f3d; }
+.tracking-data .is-hidden,
+.tracking-hero .is-hidden { display: none !important; }
+
+@keyframes tracking-spin { to { transform: rotate(360deg); } }
+
+@media (max-width: 991px) {
+  .tracking-hero { padding-top: 120px; }
+  .tracking-hero-card { padding: 32px; }
+  .tracking-hero-visual { order: 2; }
+  .tracking-input-group { flex-direction: column; border-radius: 26px; }
+  .tracking-submit { width: 100%; }
+}
+@media (max-width: 575px) {
+  .tracking-hero-card { padding: 24px; }
+  .tracking-hero-visual { min-width: 0; }
+  .tracking-timeline-card, .tracking-table-card { padding: 22px; }
+  .tracking-timeline::before { left: 10px; }
+  .tracking-timeline-item { padding-left: 46px; }
+  .tracking-timeline-marker { left: 1px; }
+}

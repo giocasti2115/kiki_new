@@ -26,6 +26,7 @@ const BILINGUAL = [
   'logra-mas-entregas-efectivas', 'recauda-y-recibe',
   'almacenamiento-y-preparacion-de-pedidos', 'gestion-y-confirmacion-de-ordenes', 'distribucion-y-ultima-milla',
   'gestion-de-pagos', 'pagos-y-recaudo', 'integraciones-tecnologicas', 'logistica-internacional',
+  'rastreo',
 ];
 
 const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -100,7 +101,10 @@ const parts = {
 
 await mkdir(OUT, { recursive: true });
 for (const [file, html] of Object.entries(parts)) {
-  await writeFile(join(OUT, file), rewrite(html).trim() + '\n');
+  let out = rewrite(html);
+  // El header enlaza rastreo.html en ambos idiomas; en inglés va a la versión EN.
+  if (file.endsWith('-en.html')) out = out.replace(/href="\/rastreo\/"/g, 'href="/en/rastreo/"');
+  await writeFile(join(OUT, file), out.trim() + '\n');
   console.log(`  ${file.padEnd(16)} ${(html.length / 1024).toFixed(1)} KB`);
 }
 
