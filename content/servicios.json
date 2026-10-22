@@ -1,0 +1,3334 @@
+{
+    "almacenamiento-y-preparacion-de-pedidos:es": {
+        "title": "Almacenamiento y preparación de pedidos",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Almacenamiento y preparación de pedidos",
+                    "heading": "Tu inventario organizado y tus pedidos",
+                    "accent": "listos para salir",
+                    "subtitle": "Recibimos y almacenamos tus productos, gestionamos tu inventario y preparamos cada pedido para su despacho. Con Kiki LATAM, conectas las actividades de bodega con las necesidades de tu operación de ecommerce.",
+                    "btn_primary": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Conocer los servicios",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/almacenamiento-y-preparacion-de-pedidos/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "De la recepción de tu mercancía",
+                    "accent": "al despacho de tus pedidos",
+                    "text": [
+                        "Vender exige una operación preparada para responder a cada orden. Un inventario organizado y una preparación de pedidos coordinada ayudan a que tus productos avancen desde la bodega hacia la entrega al comprador.",
+                        "En Kiki LATAM integramos almacenamiento y preparación de pedidos para que puedas concentrarte en desarrollar tu negocio, con el respaldo de un equipo que se ocupa de la operación en bodega."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-cube",
+                            "title": "Inventario bajo control",
+                            "text": "Organiza tus existencias y cuenta con una base para planear la preparación de pedidos y la reposición de productos."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Preparación coordinada",
+                            "text": "Conecta la selección, el empaque y el despacho de tus productos en un mismo flujo de trabajo."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Continuidad hacia la entrega",
+                            "text": "Vincula la salida de tus pedidos de bodega con el servicio de distribución que necesita tu operación."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/almacenamiento-y-preparacion-de-pedidos/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Servicios incluidos",
+                    "heading": "Seis servicios.",
+                    "accent": "Una operación coordinada.",
+                    "sub": "Cada actividad cumple una función específica dentro del proceso de almacenamiento y preparación de pedidos.",
+                    "items": [
+                        {
+                            "icon": "fa-dolly",
+                            "tone": "mint",
+                            "title": "Recepción de mercancía en bodega",
+                            "text": "El punto de entrada de tus productos a la operación. Recibimos la mercancía destinada al almacenamiento y a la preparación de pedidos, de acuerdo con las condiciones de recepción definidas para tu empresa."
+                        },
+                        {
+                            "icon": "fa-warehouse",
+                            "tone": "amber",
+                            "title": "Almacenamiento",
+                            "text": "Resguardamos tus productos en bodega hasta que se requieran para atender tus pedidos. Acordamos el alcance del almacenamiento según las características de la mercancía y las necesidades de tu operación."
+                        },
+                        {
+                            "icon": "fa-clipboard-list",
+                            "tone": "violet",
+                            "title": "Gestión y control de inventarios",
+                            "text": "Gestionamos las existencias vinculadas a tu operación de bodega y sus movimientos de entrada y salida. El control del inventario permite organizar la disponibilidad de productos para la preparación de pedidos."
+                        },
+                        {
+                            "icon": "fa-hand-pointer",
+                            "tone": "rose",
+                            "title": "Picking o selección de productos",
+                            "text": "Seleccionamos las referencias y cantidades que corresponden a cada orden. Esta etapa reúne los productos que componen el pedido antes de pasar al empaque."
+                        },
+                        {
+                            "icon": "fa-box",
+                            "tone": "sky",
+                            "title": "Packing o empaque de pedidos",
+                            "text": "Empacamos los productos seleccionados para preparar el pedido para su despacho. Los materiales y requerimientos de empaque se definen según las características del producto y el alcance acordado."
+                        },
+                        {
+                            "icon": "fa-truck-ramp-box",
+                            "tone": "green",
+                            "title": "Despacho de pedidos",
+                            "text": "Gestionamos la salida de los pedidos preparados desde la bodega y su entrega al operador de distribución correspondiente. Así conectamos la preparación con la siguiente etapa del proceso logístico."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Una operación conectada",
+                    "accent": "con tu ecommerce",
+                    "text": "Complementa estos servicios con las integraciones de Kiki LATAM mediante API, Shopify o WooCommerce. El alcance de la conexión se define según tu plataforma y las necesidades de la operación.",
+                    "links": [
+                        {
+                            "label": "Conocer las integraciones tecnológicas",
+                            "svc": "integraciones-tecnologicas"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/almacenamiento-y-preparacion-de-pedidos/3.webp"
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo comenzamos",
+                    "heading": "Definimos la operación que necesitan tus productos",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Conocemos tu negocio",
+                            "text": "Cuéntanos qué productos comercializas, en qué país necesitas operar y cuál es tu volumen de inventario y pedidos."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Acordamos el alcance",
+                            "text": "Definimos los servicios de bodega, las condiciones de recepción y almacenamiento y los requerimientos de preparación y despacho."
+                        },
+                        {
+                            "icon": "fa-rocket",
+                            "title": "Coordinamos el inicio",
+                            "text": "Organizamos la recepción de tu mercancía y el flujo de trabajo para comenzar a preparar tus pedidos."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Preguntas frecuentes",
+                    "items": [
+                        {
+                            "q": "¿Qué incluye el servicio de preparación de pedidos?",
+                            "a": "Incluye la selección de productos o picking, el empaque o packing y el despacho. La recepción de mercancía, el almacenamiento y la gestión de inventarios completan los servicios de esta categoría."
+                        },
+                        {
+                            "q": "¿La entrega al comprador está incluida en esta categoría?",
+                            "a": "La entrega corresponde a Distribución y última milla. Puedes conectar ambos servicios con Kiki LATAM para dar continuidad al pedido desde la bodega hasta el comprador."
+                        },
+                        {
+                            "q": "¿Puedo conectar mi tienda online?",
+                            "a": "Kiki LATAM dispone de integraciones mediante API, Shopify y WooCommerce. Revisamos contigo la conexión que corresponde a tu plataforma."
+                        },
+                        {
+                            "q": "¿Qué información necesito para solicitar una propuesta?",
+                            "a": "Comparte el país de operación, el tipo de producto, el número de referencias, el inventario estimado, el volumen mensual de pedidos y tus necesidades de empaque. Estos datos nos ayudan a definir el alcance del servicio."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Preparemos la operación detrás de tus ventas",
+                    "text": "Cuéntanos qué productos vendes y cómo necesitas operar. Definamos una propuesta de almacenamiento y preparación de pedidos para tu empresa.",
+                    "btn": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Conocer Distribución y última milla",
+                        "svc": "distribucion-y-ultima-milla"
+                    },
+                    "img": "/assets/images/servicios/almacenamiento-y-preparacion-de-pedidos/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "gestion-y-confirmacion-de-ordenes:es": {
+        "title": "Gestión y confirmación de órdenes",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Gestión y confirmación de órdenes",
+                    "heading": "Confirma cada orden y coordina",
+                    "accent": "el siguiente paso de la entrega",
+                    "subtitle": "Conectamos con tus compradores a través de call center para confirmar sus pedidos. Complementamos la gestión con validación de direcciones y reprogramación de entregas, para ayudar a que cada orden avance con información más clara.",
+                    "btn_primary": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Conocer los servicios",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/gestion-y-confirmacion-de-ordenes/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Una orden recibida necesita gestión",
+                    "accent": "para convertirse en una entrega",
+                    "text": [
+                        "Antes de preparar o entregar un pedido, es importante conocer si el comprador mantiene su intención de recibirlo y contar con una dirección utilizable. Si sus condiciones cambian, también puede ser necesario coordinar una nueva oportunidad de entrega.",
+                        "En Kiki LATAM articulamos estas actividades con tu operación logística. El contacto con el comprador permite aclarar la información del pedido y orientar los siguientes pasos, según el alcance acordado para tu empresa."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-cart-shopping",
+                            "title": "Mayor claridad sobre la intención de compra",
+                            "text": "Confirma con el comprador si mantiene su pedido antes de continuar con el proceso acordado."
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Direcciones mejor definidas",
+                            "text": "Identifica datos que requieren revisión para facilitar la ubicación del destino."
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "title": "Coordinación ante cambios",
+                            "text": "Gestiona una nueva programación cuando el comprador necesita modificar la oportunidad de entrega."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/gestion-y-confirmacion-de-ordenes/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Servicios incluidos",
+                    "heading": "Tres servicios",
+                    "accent": "para que tus órdenes avancen.",
+                    "items": [
+                        {
+                            "icon": "fa-phone",
+                            "tone": "mint",
+                            "title": "Confirmación de órdenes a través de call center",
+                            "text": [
+                                "Nuestro equipo de call center contacta al comprador para confirmar su intención de recibir el pedido y revisar la información necesaria para continuar con la operación. Esta interacción ayuda a aclarar dudas sobre la orden antes de avanzar al siguiente paso.",
+                                "En los pedidos con pago contra entrega, la conversación también permite recordar al comprador la modalidad de pago y el valor asociado a su compra, de acuerdo con el proceso definido para la operación."
+                            ]
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "tone": "amber",
+                            "title": "Validación de direcciones",
+                            "text": [
+                                "Revisamos la información de la dirección de entrega para identificar datos incompletos o que requieren aclaración. Una dirección mejor definida facilita la coordinación del envío y ayuda a reducir dificultades de ubicación.",
+                                "La validación de la dirección se complementa con la revisión de cobertura que corresponda a la operación. No implica una garantía de entrega."
+                            ]
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "tone": "violet",
+                            "title": "Reprogramación de entregas",
+                            "text": [
+                                "Coordinamos una nueva oportunidad de entrega cuando el comprador requiere un cambio o cuando el proceso operativo contempla una reprogramación. La nueva fecha se gestiona según la cobertura, las rutas y la disponibilidad del operador correspondiente.",
+                                "Este servicio permite dar continuidad al pedido cuando las condiciones iniciales de recepción cambian."
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo se conecta la gestión de una orden",
+                    "heading": "Tres pasos para continuar.",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Revisamos la información disponible",
+                            "text": "Partimos de los datos del pedido necesarios para la confirmación y la coordinación de entrega."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Contactamos al comprador",
+                            "text": "El call center confirma la intención de recibir el pedido y aclara la información que requiere revisión."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Coordinamos el siguiente paso",
+                            "text": "Según el resultado del contacto, continuamos con el flujo acordado o gestionamos la reprogramación que corresponda."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Continuidad con la",
+                    "accent": "operación logística",
+                    "text": "Complementa la gestión de órdenes con almacenamiento y preparación de pedidos, o con distribución y última milla. Conecta la confirmación del comprador con la preparación y entrega de sus productos.",
+                    "links": [
+                        {
+                            "label": "Conocer Almacenamiento y preparación de pedidos",
+                            "svc": "almacenamiento-y-preparacion-de-pedidos"
+                        },
+                        {
+                            "label": "Conocer Distribución y última milla",
+                            "svc": "distribucion-y-ultima-milla"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/gestion-y-confirmacion-de-ordenes/3.webp",
+                    "photo": true
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo comenzamos",
+                    "heading": "Definamos la gestión que necesitan tus pedidos",
+                    "sky": true,
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Conocemos tu operación",
+                            "text": "Cuéntanos dónde vendes, qué productos comercializas, tu volumen de órdenes y las modalidades de pago que utilizas."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Acordamos el proceso de contacto",
+                            "text": "Definimos la información que se revisará con el comprador y los criterios para confirmar o reprogramar, según las necesidades de tu empresa."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Coordinamos la conexión logística",
+                            "text": "Acordamos cómo se relaciona la gestión de órdenes con la preparación y la entrega de los pedidos."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Preguntas frecuentes",
+                    "items": [
+                        {
+                            "q": "¿Qué incluye esta categoría?",
+                            "a": "Incluye confirmación de órdenes a través de call center, validación de direcciones y reprogramación de entregas. El alcance y las condiciones se definen en la propuesta para tu operación."
+                        },
+                        {
+                            "q": "¿La confirmación se realiza mediante call center?",
+                            "a": "Sí. El servicio contempla contacto a través de call center para confirmar la intención de recibir el pedido y aclarar la información necesaria para continuar con la operación."
+                        },
+                        {
+                            "q": "¿Una orden confirmada garantiza la entrega?",
+                            "a": "No. La confirmación permite conocer la intención del comprador en el momento del contacto. La entrega también depende de factores como su disponibilidad, la dirección, la cobertura y las condiciones operativas."
+                        },
+                        {
+                            "q": "¿Se puede reprogramar para cualquier fecha?",
+                            "a": "La nueva programación depende de las opciones disponibles para el destino y del operador de distribución. Se coordina según las condiciones de la operación."
+                        },
+                        {
+                            "q": "¿Qué información necesito para solicitar una propuesta?",
+                            "a": "Comparte el país de operación, los productos que vendes, el volumen mensual de órdenes, las modalidades de pago y cómo gestionas hoy la confirmación y los cambios de entrega."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Demos a tus pedidos el seguimiento humano que necesitan",
+                    "text": "Cuéntanos cómo recibes y gestionas tus órdenes. Definamos una propuesta de confirmación mediante call center, validación de direcciones y reprogramación de entregas para tu empresa.",
+                    "btn": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Conocer Distribución y última milla",
+                        "svc": "distribucion-y-ultima-milla"
+                    },
+                    "img": "/assets/images/servicios/gestion-y-confirmacion-de-ordenes/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "distribucion-y-ultima-milla:es": {
+        "title": "Distribución y última milla",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Distribución y última milla",
+                    "heading": "Tus pedidos en camino.",
+                    "accent": "Tu operación conectada.",
+                    "subtitle": "Entrega tus pedidos prepagados o con pago contra entrega con Kiki LATAM. Conectamos la asignación de órdenes, la planeación de rutas y la trazabilidad de los envíos para coordinar la distribución hasta el comprador.",
+                    "btn_primary": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Conocer los servicios",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/distribucion-y-ultima-milla/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "La entrega también forma parte",
+                    "accent": "de la experiencia de compra",
+                    "text": [
+                        "Después de preparar un pedido, comienza una etapa decisiva: llevarlo al destino y concretar su recepción. La modalidad de pago, la dirección y la disponibilidad del comprador influyen en ese proceso.",
+                        "En Kiki LATAM coordinamos la distribución de tus pedidos con los operadores logísticos, de acuerdo con las necesidades de tu negocio y las condiciones de cada destino."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-cart-shopping",
+                            "title": "Flexibilidad para vender",
+                            "text": "Atiende pedidos prepagados y pedidos con pago contra entrega."
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Distribución coordinada",
+                            "text": "Conecta la asignación de pedidos con la planeación de rutas."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Visibilidad de los envíos",
+                            "text": "Consulta la información de seguimiento para conocer el avance de las entregas."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/distribucion-y-ultima-milla/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Servicios incluidos",
+                    "heading": "Cinco servicios",
+                    "accent": "para conectar tus ventas con tus compradores.",
+                    "items": [
+                        {
+                            "icon": "fa-cube",
+                            "title": "Entrega de pedidos prepagados",
+                            "text": [
+                                "Distribuimos pedidos cuyo pago se realizó antes de la entrega. Coordinamos su envío al destino indicado, según la cobertura y las condiciones del servicio acordado.",
+                                "Esta modalidad conecta tus ventas pagadas por anticipado con la entrega física de los productos."
+                            ]
+                        },
+                        {
+                            "icon": "fa-money-bill-wave",
+                            "title": "Entrega de pedidos con pago contra entrega (COD)",
+                            "text": [
+                                "Llevamos los productos al comprador bajo la modalidad de pago contra entrega. La recepción del pedido se coordina con el cobro correspondiente, según las condiciones disponibles para la operación.",
+                                "El recaudo, la conciliación y la liquidación del dinero se explican en las categorías de servicios de pagos."
+                            ]
+                        },
+                        {
+                            "icon": "fa-users-gear",
+                            "title": "Asignación inteligente de pedidos a operadores logísticos",
+                            "text": [
+                                "Asignamos los pedidos al operador correspondiente según los criterios definidos para tu operación y las opciones disponibles para atender cada destino.",
+                                "Esta asignación conecta las necesidades de distribución de tu negocio con la red de operadores."
+                            ]
+                        },
+                        {
+                            "icon": "fa-route",
+                            "title": "Planeación y optimización de rutas",
+                            "text": [
+                                "Organizamos los recorridos de distribución para coordinar la atención de los destinos y el uso de los recursos disponibles.",
+                                "La planeación considera las condiciones de la operación y puede requerir ajustes durante la ejecución de las entregas."
+                            ]
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Seguimiento y trazabilidad de envíos",
+                            "text": [
+                                "Facilitamos el seguimiento de los pedidos mediante la información disponible durante su recorrido logístico.",
+                                "La trazabilidad permite conocer los estados reportados del envío y contar con información para coordinar la atención de novedades."
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo conectamos la distribución",
+                    "heading": "Del despacho a la entrega.",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Recibimos los pedidos para distribución",
+                            "text": "Partimos de los pedidos preparados y de la información necesaria para gestionar su envío, incluida la dirección y la modalidad de pago."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Asignamos y coordinamos el recorrido",
+                            "text": "Definimos el operador correspondiente y organizamos la distribución según las condiciones de la operación."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Gestionamos la entrega y su trazabilidad",
+                            "text": "Coordinamos la entrega al comprador y el seguimiento de los estados reportados durante el proceso."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Una entrega respaldada por",
+                    "accent": "la gestión previa del pedido",
+                    "text": [
+                        "La distribución funciona mejor cuando el pedido cuenta con información clara desde el inicio. Complementa este servicio con confirmación mediante call center, validación de direcciones y reprogramación de entregas.",
+                        "También puedes conectar la última milla con almacenamiento y preparación de pedidos para dar continuidad a la operación desde la bodega."
+                    ],
+                    "links": [
+                        {
+                            "label": "Conocer Gestión y confirmación de órdenes",
+                            "svc": "gestion-y-confirmacion-de-ordenes"
+                        },
+                        {
+                            "label": "Conocer Almacenamiento y preparación de pedidos",
+                            "svc": "almacenamiento-y-preparacion-de-pedidos"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/distribucion-y-ultima-milla/3.webp",
+                    "photo": true
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo comenzamos",
+                    "heading": "Definamos la distribución que necesita tu negocio",
+                    "sky": true,
+                    "steps": [
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Conocemos tus destinos y volúmenes",
+                            "text": "Cuéntanos desde dónde despachas, a dónde necesitas entregar, qué productos comercializas y cuántos pedidos gestionas al mes."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Revisamos las condiciones del servicio",
+                            "text": "Evaluamos la cobertura, las características de los paquetes y las modalidades de pago que requiere tu operación."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Coordinamos el inicio",
+                            "text": "Acordamos la conexión entre el despacho, la asignación de pedidos y el proceso de distribución."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Preguntas frecuentes",
+                    "items": [
+                        {
+                            "q": "¿Puedo entregar pedidos prepagados y con pago contra entrega?",
+                            "a": "Sí. Kiki LATAM contempla ambas modalidades. Su disponibilidad y condiciones se definen según el destino y el alcance acordado para tu operación."
+                        },
+                        {
+                            "q": "¿La entrega COD incluye la liquidación del dinero de mis ventas?",
+                            "a": "La entrega COD se coordina con el recaudo al comprador. La conciliación y la liquidación corresponden a servicios de pagos que deben quedar definidos en tu propuesta."
+                        },
+                        {
+                            "q": "¿Cómo se asignan los pedidos a los operadores logísticos?",
+                            "a": "La asignación se realiza según los criterios establecidos para tu operación y las opciones disponibles para atender cada destino."
+                        },
+                        {
+                            "q": "¿Puedo conocer el avance de un envío?",
+                            "a": "Sí. El servicio contempla seguimiento y trazabilidad con base en los estados reportados durante el recorrido logístico."
+                        },
+                        {
+                            "q": "¿Se puede reprogramar una entrega?",
+                            "a": "La reprogramación forma parte de Gestión y confirmación de órdenes. Se coordina según las opciones disponibles para el destino y el operador correspondiente."
+                        },
+                        {
+                            "q": "¿Qué información necesito para solicitar una propuesta?",
+                            "a": "Comparte el origen de los despachos, los destinos, el tipo de producto, el peso y las dimensiones de los paquetes, el volumen mensual de pedidos y la proporción de envíos prepagados y COD."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Conectemos tus pedidos con su destino",
+                    "text": "Cuéntanos dónde están tus compradores y cómo necesitas entregar. Definamos una propuesta de distribución y última milla para tu empresa.",
+                    "btn": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Conocer Gestión y confirmación de órdenes",
+                        "svc": "gestion-y-confirmacion-de-ordenes"
+                    },
+                    "img": "/assets/images/servicios/distribucion-y-ultima-milla/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "gestion-de-pagos:es": {
+        "title": "Gestión de pagos",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Gestión de pagos",
+                    "heading": "Conecta el pago con",
+                    "accent": "el siguiente paso de cada pedido",
+                    "subtitle": "Confirma los pagos de tus compradores y concilia los cobros a través de Subwallets. Cuando una compra no se completa, reenvía el enlace de pago, convierte la orden a pago contra entrega cuando aplique o anúlala según el proceso de tu operación.",
+                    "btn_primary": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Conocer los servicios",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/gestion-de-pagos/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Del intento de pago a la",
+                    "accent": "continuidad de la venta",
+                    "text": [
+                        "Enviar un enlace de pago es solo una parte del proceso. También necesitas confirmar el cobro, conciliarlo con tu operación y definir qué hacer cuando el comprador no completa el pago.",
+                        "Kiki LATAM reúne herramientas para gestionar estos pasos y conectar el proceso de pago con la continuidad del pedido. Su aplicación depende de los medios habilitados y de las condiciones acordadas para tu empresa."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Confirmación del cobro",
+                            "text": "Cuenta con la confirmación automática de los pagos realizados a través del flujo habilitado."
+                        },
+                        {
+                            "icon": "fa-coins",
+                            "title": "Conciliación mediante Subwallets",
+                            "text": "Organiza la conciliación de los pagos dentro del esquema definido para tu operación."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Opciones para dar continuidad al pedido",
+                            "text": "Reenvía el enlace o utiliza COD cuando esa modalidad esté disponible. Si el pedido no continuará, gestiona su anulación."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/gestion-de-pagos/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Funcionalidades",
+                    "heading": "Cinco funcionalidades",
+                    "accent": "para gestionar los pagos de tus pedidos.",
+                    "items": [
+                        {
+                            "icon": "fa-file-circle-check",
+                            "title": "Confirmación automática de pagos",
+                            "text": [
+                                "El flujo de pago contempla una confirmación automática cuando el comprador completa la transacción. Esto permite comunicar el resultado del pago y dar continuidad al pedido según el proceso acordado.",
+                                "La confirmación corresponde al pago realizado. La preparación, el despacho y la entrega siguen las condiciones de la operación logística."
+                            ]
+                        },
+                        {
+                            "icon": "fa-wallet",
+                            "title": "Conciliación de pagos a través de Subwallets",
+                            "text": [
+                                "Conciliamos los pagos a través de Subwallets, como parte de la gestión de los cobros de tu operación. Definimos contigo el alcance de este esquema y su relación con los pedidos que gestionas con Kiki LATAM.",
+                                "La conciliación ayuda a relacionar los pagos recibidos con la operación correspondiente. Las condiciones de liquidación del dinero de las ventas se definen por separado."
+                            ]
+                        },
+                        {
+                            "icon": "fa-link",
+                            "title": "Reenvío de enlaces de pago",
+                            "text": [
+                                "Cuando el comprador no ha completado el pago, puedes reenviar el enlace para ofrecer una nueva oportunidad de finalizar la compra, de acuerdo con las condiciones del flujo habilitado.",
+                                "El proceso contempla un máximo de dos reenvíos. La disponibilidad del enlace depende de su vigencia y de las condiciones del medio de pago."
+                            ]
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Conversión de órdenes pendientes de pago a COD",
+                            "text": [
+                                "Si el comprador no completa el pago anticipado, la orden puede convertirse a pago contra entrega cuando esta modalidad esté habilitada para el destino y la operación.",
+                                "Esta alternativa permite continuar la venta con cobro al recibir el producto. Debe coordinarse con el comprador y con las condiciones del servicio de entrega COD."
+                            ]
+                        },
+                        {
+                            "icon": "fa-circle-xmark",
+                            "title": "Anulación de órdenes",
+                            "text": [
+                                "Permite anular una orden que no continuará en el proceso, conforme a las condiciones operativas aplicables.",
+                                "La anulación de una orden no equivale a un reembolso. Si existe un pago realizado o un despacho en curso, el tratamiento correspondiente debe revisarse antes de proceder."
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo se conecta el pago con la orden",
+                    "heading": "Cómo se conecta el pago con la gestión del pedido",
+                    "steps": [
+                        {
+                            "icon": "fa-mobile-screen",
+                            "title": "El comprador recibe el enlace y realiza el pago",
+                            "text": "La compra continúa a través de los medios de pago habilitados para el país y la operación."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Se confirma el pago y se concilia mediante Subwallets",
+                            "text": "El pago completado genera su confirmación. La conciliación se realiza a través del esquema de Subwallets definido para tu empresa."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Se define la continuidad de la orden",
+                            "text": "El pedido pagado continúa con el proceso acordado. Si el pago no se completa, pueden utilizarse el reenvío del enlace, la conversión a COD o la anulación de la orden, según corresponda."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Una gestión conectada con",
+                    "accent": "tus medios de pago y tu logística",
+                    "text": [
+                        "Complementa estas funcionalidades con los servicios de Pagos y recaudo disponibles para tu operación. Los medios habilitados varían por país.",
+                        "Conecta también la gestión del pago con la confirmación de órdenes y la entrega de tus productos. Si necesitas conocer cómo recibes el dinero de tus ventas, consulta los servicios de recaudo y liquidación internacional."
+                    ],
+                    "links": [
+                        {
+                            "label": "Conocer Pagos y recaudo",
+                            "svc": "pagos-y-recaudo"
+                        },
+                        {
+                            "label": "Conocer Gestión y confirmación de órdenes",
+                            "svc": "gestion-y-confirmacion-de-ordenes"
+                        },
+                        {
+                            "label": "Conocer Distribución y última milla",
+                            "svc": "distribucion-y-ultima-milla"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/gestion-de-pagos/3.webp"
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo comenzamos",
+                    "heading": "Definamos la gestión de pagos que necesita tu negocio",
+                    "sky": true,
+                    "steps": [
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Conocemos tu proceso de venta",
+                            "text": "Cuéntanos en qué países vendes, cómo reciben los compradores sus enlaces y qué modalidades de pago utilizas."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Acordamos las opciones para cada orden",
+                            "text": "Definimos el alcance de la conciliación mediante Subwallets y las condiciones de reenvío, conversión a COD y anulación de órdenes."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Conectamos el proceso con la operación",
+                            "text": "Coordinamos cómo se relaciona la gestión de pagos con la confirmación, la preparación y la entrega de los pedidos."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Preguntas frecuentes",
+                    "items": [
+                        {
+                            "q": "¿Qué incluye Gestión de pagos?",
+                            "a": "Incluye confirmación automática de pagos, conciliación a través de Subwallets, reenvío de enlaces de pago, conversión de órdenes pendientes de pago a COD y anulación de órdenes, según el alcance habilitado para tu operación."
+                        },
+                        {
+                            "q": "¿Cómo se realiza la conciliación de pagos?",
+                            "a": "Se realiza a través de Subwallets. El alcance y las condiciones de este esquema se definen para tu operación con Kiki LATAM."
+                        },
+                        {
+                            "q": "¿Cuántas veces puedo reenviar un enlace de pago?",
+                            "a": "El proceso contempla un máximo de dos reenvíos. Su utilización depende de la vigencia del enlace y de las condiciones del flujo de pago."
+                        },
+                        {
+                            "q": "¿Puedo convertir cualquier orden a pago contra entrega?",
+                            "a": "La conversión aplica a órdenes pendientes de pago cuando COD está disponible para el destino y la operación. Debe coordinarse con el comprador y con el servicio de distribución."
+                        },
+                        {
+                            "q": "¿Anular una orden genera un reembolso?",
+                            "a": "No. La anulación de la orden y el reembolso de un pago son procesos distintos. Si la orden ya tiene un pago o un despacho asociado, debe revisarse su tratamiento antes de anularla."
+                        },
+                        {
+                            "q": "¿Esta categoría define cuándo recibo el dinero de mis ventas?",
+                            "a": "No. Las condiciones de liquidación se definen dentro de los servicios de recaudo y liquidación internacional y en la propuesta acordada para tu empresa."
+                        },
+                        {
+                            "q": "¿Qué información necesito para solicitar una propuesta?",
+                            "a": "Comparte los países donde vendes, el volumen mensual de órdenes, las modalidades de pago, cómo envías los enlaces y cómo gestionas actualmente las compras que no completan el pago."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Conectemos tus pagos con la continuidad de tus ventas",
+                    "text": "Cuéntanos cómo cobras y qué ocurre cuando un comprador no completa su compra. Definamos una propuesta de gestión de pagos para tu operación.",
+                    "btn": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Conocer Pagos y recaudo",
+                        "svc": "pagos-y-recaudo"
+                    },
+                    "img": "/assets/images/servicios/gestion-de-pagos/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "pagos-y-recaudo:es": {
+        "title": "Pagos y recaudo",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Pagos y recaudo",
+                    "heading": "Más formas de pagar.",
+                    "accent": "Más oportunidades para vender.",
+                    "subtitle": "Ofrece a tus compradores opciones para pagar antes de la entrega o al recibir sus productos. Con Kiki LATAM, conecta el recaudo contra entrega con medios de pago locales disponibles en México, Colombia y Perú, según las condiciones de tu operación.",
+                    "btn_primary": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Conocer los medios de pago",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/pagos-y-recaudo/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Acerca el pago a la forma",
+                    "accent": "de comprar de tus clientes",
+                    "text": [
+                        "Las preferencias de pago cambian según el mercado y el comprador. Algunas personas prefieren usar tarjeta o transferencia; otras necesitan financiar su compra o pagar cuando reciben el producto.",
+                        "Kiki LATAM reúne estas opciones dentro de su solución Kiki Pay y las conecta con la operación logística. Define los medios que corresponden a tu país de venta y ofrece alternativas para completar la compra."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Opciones locales para cobrar",
+                            "text": "Ofrece los métodos habilitados para cada mercado, como SPEI en México, PSE en Colombia y QR de Yape en Perú."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Flexibilidad en el momento del pago",
+                            "text": "Combina cobro anticipado y pago contra entrega cuando estén disponibles para tu operación."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Pago conectado con la entrega",
+                            "text": "Articula la modalidad elegida por el comprador con la preparación y distribución de su pedido."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/pagos-y-recaudo/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Servicios incluidos",
+                    "heading": "Servicios de pagos y recaudo",
+                    "layout": "grid2",
+                    "items": [
+                        {
+                            "icon": "fa-money-bill-wave",
+                            "title": "Recaudo contra entrega (COD)",
+                            "text": [
+                                "Cobra al comprador cuando recibe su pedido, de acuerdo con las condiciones del servicio de entrega COD. Esta modalidad permite atender a clientes que prefieren pagar al recibir el producto.",
+                                "La disponibilidad se valida por destino y operación. El medio específico de cobro al recibir se define en la propuesta del servicio."
+                            ]
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Cobro con tarjetas en México mediante Openpay",
+                            "text": "Permite a tus compradores pagar con tarjetas de crédito y débito mediante Openpay. El pago se realiza antes de la entrega, a través del flujo habilitado para tu operación en México."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Cobro con tarjetas en Colombia mediante Tumipay",
+                            "text": "Ofrece pago con tarjetas a tus compradores en Colombia mediante Tumipay. Las condiciones de aceptación se definen según el servicio habilitado para tu empresa."
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "title": "Financiamiento Buy Now Pay Later (BNPL) en México",
+                            "text": "Ofrece a tus compradores la posibilidad de financiar su compra mediante Openpay, hasta en 12 cuotas. La aprobación y las condiciones del financiamiento dependen del proveedor y del perfil del comprador."
+                        },
+                        {
+                            "icon": "fa-building-columns",
+                            "title": "Cobro mediante transferencia SPEI en México",
+                            "text": "Recibe pagos por transferencia SPEI mediante Tumipay. El flujo genera una CLABE dinámica para que el comprador realice la transferencia dentro de la ventana de pago definida."
+                        },
+                        {
+                            "icon": "fa-building-columns",
+                            "title": "Cobro mediante PSE en Colombia",
+                            "text": "Permite al comprador pagar desde su cuenta bancaria mediante PSE, a través de Tumipay. Es una alternativa de pago anticipado para tu operación en Colombia."
+                        },
+                        {
+                            "icon": "fa-qrcode",
+                            "title": "Cobro mediante QR de Yape en Perú",
+                            "text": "Ofrece pago mediante QR de Yape a través de Tumipay. El comprador utiliza el código presentado en el flujo habilitado para completar su compra en Perú."
+                        },
+                        {
+                            "icon": "fa-link",
+                            "title": "Generación y envío de enlaces de pago",
+                            "text": [
+                                "Genera enlaces para que el comprador acceda al checkout con los medios habilitados para su país. El flujo contempla el envío del enlace por WhatsApp para facilitar el acceso al pago.",
+                                "Los medios que aparecen en el checkout dependen del mercado y de las condiciones acordadas para tu operación."
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "paises",
+                "data": {
+                    "eyebrow": "Medios de pago por país",
+                    "heading": "Qué medios puedes ofrecer en cada país",
+                    "items": [
+                        {
+                            "code": "mx",
+                            "pais": "México",
+                            "methods": [
+                                [
+                                    "fa-credit-card",
+                                    "Tarjetas de crédito y débito · Openpay"
+                                ],
+                                [
+                                    "fa-calendar-days",
+                                    "BNPL · Openpay · Hasta 12 cuotas"
+                                ],
+                                [
+                                    "fa-building-columns",
+                                    "SPEI · Tumipay"
+                                ]
+                            ]
+                        },
+                        {
+                            "code": "co",
+                            "pais": "Colombia",
+                            "methods": [
+                                [
+                                    "fa-credit-card",
+                                    "Tarjetas · Tumipay"
+                                ],
+                                [
+                                    "fa-building-columns",
+                                    "PSE · Tumipay"
+                                ]
+                            ]
+                        },
+                        {
+                            "code": "pe",
+                            "pais": "Perú",
+                            "methods": [
+                                [
+                                    "fa-qrcode",
+                                    "QR de Yape · Tumipay"
+                                ]
+                            ]
+                        }
+                    ],
+                    "note": "El recaudo contra entrega se valida por destino y operación. Los enlaces de pago permiten acceder a los medios habilitados para el país correspondiente."
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo funciona",
+                    "heading": "Cómo conectamos el cobro con tu operación",
+                    "sky": true,
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Definimos los medios de pago",
+                            "text": "Revisamos tu país de venta, los productos que comercializas y las modalidades que necesitas ofrecer a tus compradores."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "El comprador elige cómo pagar",
+                            "text": "Puede completar el pago anticipado mediante las opciones habilitadas o utilizar pago contra entrega cuando esta modalidad esté disponible."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Conectamos el pago con el pedido",
+                            "text": "La modalidad de pago se articula con el proceso de preparación y entrega acordado para tu operación."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Complementa el cobro con",
+                    "accent": "la gestión de tus pagos",
+                    "text": [
+                        "Conecta estos servicios con confirmación automática de pagos, conciliación a través de Subwallets, reenvío de enlaces, conversión de órdenes pendientes a COD y anulación de órdenes.",
+                        "Estas funcionalidades se explican en Gestión de pagos. Las condiciones para recibir el dinero de tus ventas se definen en los servicios de recaudo y liquidación internacional y en tu propuesta."
+                    ],
+                    "links": [
+                        {
+                            "label": "Conocer Gestión de pagos",
+                            "svc": "gestion-de-pagos"
+                        },
+                        {
+                            "label": "Conocer Distribución y última milla",
+                            "svc": "distribucion-y-ultima-milla"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/pagos-y-recaudo/3.webp",
+                    "photo": true
+                }
+            },
+            {
+                "type": "franja",
+                "data": {
+                    "heading": "Definamos cómo quieres cobrar en cada mercado",
+                    "text": "Comparte los países donde vendes, tu volumen mensual de órdenes, el valor promedio de compra y las modalidades de pago que utilizas. Con esta información definimos el alcance de los servicios de pagos y recaudo para tu empresa.",
+                    "btn": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Conocer Gestión de pagos",
+                        "svc": "gestion-de-pagos"
+                    }
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Preguntas frecuentes",
+                    "items": [
+                        {
+                            "q": "¿Están disponibles los mismos medios en todos los países?",
+                            "a": "No. México contempla tarjetas, BNPL y SPEI; Colombia, tarjetas y PSE; Perú, QR de Yape. La disponibilidad final depende de las condiciones habilitadas para tu operación."
+                        },
+                        {
+                            "q": "¿Puedo combinar pago anticipado y pago contra entrega?",
+                            "a": "Sí, cuando ambas modalidades estén disponibles para tu destino y operación. El proceso debe coordinarse con la gestión y la entrega del pedido."
+                        },
+                        {
+                            "q": "¿Dónde está disponible el financiamiento BNPL?",
+                            "a": "En México, mediante Openpay, hasta en 12 cuotas. La aprobación y las condiciones corresponden al proveedor de financiamiento."
+                        },
+                        {
+                            "q": "¿Cómo recibe el comprador el enlace de pago?",
+                            "a": "El flujo contempla su envío por WhatsApp. El enlace dirige al checkout con los medios habilitados para el país de la compra."
+                        },
+                        {
+                            "q": "¿Cómo se concilian los pagos recibidos?",
+                            "a": "La conciliación se realiza a través de Subwallets y se explica en la sección Gestión de pagos. Su alcance se define para tu operación."
+                        },
+                        {
+                            "q": "¿Cuándo recibo el dinero de mis ventas?",
+                            "a": "La frecuencia, la moneda y las condiciones de liquidación se establecen en la propuesta de recaudo y liquidación correspondiente. No son iguales por defecto para todos los medios o mercados."
+                        },
+                        {
+                            "q": "¿Qué información necesito para solicitar una propuesta?",
+                            "a": "Comparte los países de venta, los productos, el volumen mensual de órdenes, el valor promedio de compra, los medios que necesitas y si requieres pago contra entrega."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Conectemos tus ventas con más formas de pagar",
+                    "text": "Cuéntanos en qué mercados quieres vender y cómo prefieren pagar tus compradores. Definamos una propuesta de pagos y recaudo conectada con tu operación logística.",
+                    "btn": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Conocer Gestión de pagos",
+                        "svc": "gestion-de-pagos"
+                    },
+                    "img": "/assets/images/servicios/pagos-y-recaudo/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "integraciones-tecnologicas:es": {
+        "title": "Integraciones tecnológicas",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Integraciones tecnológicas",
+                    "heading": "Conecta tu ecommerce",
+                    "accent": "con tu operación logística",
+                    "subtitle": "Integra tu tienda con Kiki LATAM mediante API, Shopify o WooCommerce. Define una conexión que facilite la gestión de tus pedidos y dé continuidad a la operación desde la venta hasta la entrega.",
+                    "btn_primary": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Conocer las integraciones",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/integraciones-tecnologicas/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Una conexión entre lo que vendes",
+                    "accent": "y lo que necesitas operar",
+                    "text": [
+                        "Cada pedido que recibe tu ecommerce necesita avanzar hacia su preparación y entrega. Conectar tu plataforma de ventas con la operación logística ayuda a reducir la transferencia manual de información y a organizar ese proceso.",
+                        "En Kiki LATAM revisamos tu plataforma y las necesidades de tu negocio para definir el alcance de la integración, los datos que se intercambiarán y los pasos necesarios para ponerla en funcionamiento."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Menos tareas manuales",
+                            "text": "Reduce la necesidad de trasladar información entre tu tienda y la operación logística, según el alcance de la conexión."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Continuidad en la gestión de pedidos",
+                            "text": "Vincula las órdenes de tu ecommerce con los servicios contratados."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Una conexión acorde con tu negocio",
+                            "text": "Define los requerimientos de integración según tu plataforma y proceso operativo."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/integraciones-tecnologicas/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Servicios incluidos",
+                    "heading": "Tres opciones para conectar tu operación",
+                    "layout": "tall",
+                    "items": [
+                        {
+                            "icon": "fa-code",
+                            "title": "Integración mediante API",
+                            "text": [
+                                "Conecta tus sistemas con Kiki LATAM mediante una API. Esta opción permite plantear una integración adaptada a las necesidades de tu negocio, con participación de tu equipo de desarrollo o proveedor tecnológico.",
+                                "Revisamos contigo la información que necesitas intercambiar, los requerimientos técnicos y la viabilidad de los flujos solicitados antes de definir su implementación."
+                            ],
+                            "ideal": "Ideal para empresas que necesitan conectar sistemas propios o desarrollar una integración específica.",
+                            "ideal_icon": "fa-users"
+                        },
+                        {
+                            "logo": "/assets/images/servicios/logos/shopify.png",
+                            "title": "Integración con Shopify",
+                            "text": [
+                                "Conecta tu tienda Shopify con Kiki LATAM para vincular la gestión de pedidos con tu operación logística.",
+                                "Definimos la configuración y el alcance de la conexión según las características de tu tienda y los servicios que utilizarás."
+                            ],
+                            "ideal": "Ideal para marcas y comercios que gestionan sus ventas mediante Shopify.",
+                            "ideal_icon": "fa-store"
+                        },
+                        {
+                            "logo": "/assets/images/servicios/logos/woocommerce.png",
+                            "title": "Integración con WooCommerce",
+                            "text": [
+                                "Integra tu tienda WooCommerce con Kiki LATAM para conectar los pedidos de tu ecommerce con el proceso logístico acordado.",
+                                "Revisamos la configuración de tu tienda y los requerimientos de conexión para coordinar la implementación."
+                            ],
+                            "ideal": "Ideal para empresas que venden mediante WooCommerce y buscan vincular su tienda con la operación logística.",
+                            "ideal_icon": "fa-cart-shopping"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "alcance",
+                "data": {
+                    "eyebrow": "Alcance",
+                    "heading": "Primero definimos el alcance de la conexión",
+                    "sub": "La integración debe responder a tu forma de operar. Antes de implementarla, acordamos:",
+                    "items": [
+                        {
+                            "icon": "fa-database",
+                            "title": "Los datos que se intercambiarán",
+                            "text": "Qué información necesita recibir o enviar cada sistema."
+                        },
+                        {
+                            "icon": "fa-diagram-project",
+                            "title": "Los pasos del proceso",
+                            "text": "Qué ocurre desde que se genera un pedido y cómo continúa dentro de la operación."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Los responsables de la implementación",
+                            "text": "Qué actividades corresponden a Kiki LATAM, a tu equipo y a tu proveedor tecnológico."
+                        },
+                        {
+                            "icon": "fa-circle-check",
+                            "title": "Las pruebas de funcionamiento",
+                            "text": "Cómo verificaremos los flujos incluidos antes de comenzar a operar."
+                        }
+                    ],
+                    "note": "Las funciones específicas, los tiempos de implementación y los requisitos técnicos se establecen para cada proyecto."
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo comenzamos",
+                    "heading": "Cómo comenzamos",
+                    "layout": "cards",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Conocemos tu plataforma",
+                            "text": "Cuéntanos si utilizas Shopify, WooCommerce o un sistema propio, qué servicios necesitas conectar y cómo gestionas hoy tus pedidos."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Definimos la integración",
+                            "text": "Revisamos los requerimientos técnicos y acordamos los datos, los flujos y las responsabilidades de la conexión."
+                        },
+                        {
+                            "icon": "fa-flask",
+                            "title": "Configuramos y probamos",
+                            "text": "Coordinamos la implementación y verificamos el funcionamiento de los procesos incluidos en el alcance."
+                        },
+                        {
+                            "icon": "fa-circle-play",
+                            "title": "Iniciamos la operación",
+                            "text": "Una vez validados los flujos acordados, coordinamos el inicio de la conexión con tu operación logística."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "eyebrow": "Servicios relacionados",
+                    "heading": "Conecta tu tecnología",
+                    "accent": "con los servicios que necesitas",
+                    "text": [
+                        "La integración es el punto de conexión con los servicios contratados para tu empresa. Define cómo se relacionará tu ecommerce con el almacenamiento, la preparación de pedidos y la distribución.",
+                        "Si tu operación también contempla confirmación de órdenes o servicios de pagos, revisamos sus requerimientos dentro del alcance correspondiente."
+                    ],
+                    "links": [
+                        {
+                            "label": "Conocer Almacenamiento y preparación de pedidos",
+                            "svc": "almacenamiento-y-preparacion-de-pedidos"
+                        },
+                        {
+                            "label": "Conocer Gestión y confirmación de órdenes",
+                            "svc": "gestion-y-confirmacion-de-ordenes"
+                        },
+                        {
+                            "label": "Conocer Distribución y última milla",
+                            "svc": "distribucion-y-ultima-milla"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/integraciones-tecnologicas/3.webp"
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Preguntas frecuentes",
+                    "items": [
+                        {
+                            "q": "¿Con qué plataformas puedo integrar mi tienda?",
+                            "a": "Kiki LATAM dispone de opciones de integración mediante API, Shopify y WooCommerce. La configuración y el alcance se revisan según tu operación."
+                        },
+                        {
+                            "q": "¿Puedo conectar un sistema propio?",
+                            "a": "Podemos evaluar una conexión mediante API. Para definir su viabilidad, necesitamos revisar los requerimientos con tu equipo técnico o proveedor de desarrollo."
+                        },
+                        {
+                            "q": "¿Qué información se sincroniza?",
+                            "a": "Los datos y los flujos de intercambio se definen durante la revisión técnica. La disponibilidad de funciones específicas debe confirmarse antes de la implementación."
+                        },
+                        {
+                            "q": "¿La integración incluye sincronización de inventarios y estados de envío?",
+                            "a": "Estas funciones deben validarse para la plataforma y el alcance solicitado. No se consideran incluidas por defecto."
+                        },
+                        {
+                            "q": "¿Necesito un equipo de desarrollo?",
+                            "a": "Depende de la opción de integración y de las características de tu tienda. Las conexiones mediante API requieren participación técnica; para Shopify y WooCommerce, revisamos los recursos necesarios durante la definición del proyecto."
+                        },
+                        {
+                            "q": "¿Cuánto tarda la implementación?",
+                            "a": "El plazo depende de la plataforma, la configuración existente, los requerimientos y las pruebas necesarias. Se establece una vez definido el alcance técnico."
+                        },
+                        {
+                            "q": "¿Qué información necesito para solicitar una propuesta?",
+                            "a": "Comparte la plataforma que utilizas, los países donde operas, tu volumen mensual de pedidos, los servicios logísticos que necesitas y los datos o procesos que quieres conectar."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Conectemos tu tienda con el siguiente paso de tu operación",
+                    "text": "Cuéntanos cómo vendes y qué necesitas integrar. Revisemos una conexión mediante API, Shopify o WooCommerce para tu empresa.",
+                    "btn": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Conocer Almacenamiento y preparación de pedidos",
+                        "svc": "almacenamiento-y-preparacion-de-pedidos"
+                    },
+                    "img": "/assets/images/servicios/integraciones-tecnologicas/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "logistica-internacional:es": {
+        "title": "Logística internacional",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Logística internacional",
+                    "heading": "Conecta tus productos con",
+                    "accent": "nuevas oportunidades en LATAM",
+                    "subtitle": [
+                        "Expande tu ecommerce con servicios de Merchant of Record en LATAM, logística cross border y asesoría para el transporte internacional de mercancía.",
+                        "Con Kiki LATAM, define una operación según tu producto, el mercado de destino y las necesidades de tu negocio."
+                    ],
+                    "btn_primary": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Conocer los servicios",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/logistica-internacional/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Tu expansión comienza",
+                    "accent": "antes del primer envío",
+                    "text": [
+                        "Vender en otro país requiere resolver cómo ingresan tus productos, qué requisitos deben cumplir y cómo llegan a manos de tus compradores.",
+                        "En Kiki LATAM coordinamos los servicios y los participantes de cada etapa contratada para conectar tu operación internacional con el mercado de destino."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-coins",
+                            "title": "Planeación de costos",
+                            "text": "Identifica los impuestos y cargos logísticos aplicables para incorporarlos a tu precio de venta."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Preparación antes del despacho",
+                            "text": "Revisa los requisitos del producto y la documentación necesaria."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Continuidad hasta el comprador",
+                            "text": "Conecta la etapa internacional con la distribución y la entrega local."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/logistica-internacional/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Servicios incluidos",
+                    "heading": "Tres servicios para acompañar tu operación internacional",
+                    "layout": "tall",
+                    "items": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Merchant of Record en LATAM",
+                            "text": [
+                                "Evalúa un esquema de Merchant of Record para estructurar la comercialización de tus productos en los mercados donde el servicio esté disponible.",
+                                "Definimos qué entidad actúa frente al comprador y qué responsabilidades comerciales, de facturación y tributarias asume cada parte.",
+                                "La viabilidad y las condiciones se revisan según el país, la categoría de producto y el modelo de venta."
+                            ],
+                            "ideal": "Ideal para empresas que buscan evaluar una estructura de comercialización en LATAM con un aliado local.",
+                            "ideal_icon": "fa-store"
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Kiki Cross Border",
+                            "text": [
+                                "Coordinamos tus envíos internacionales bajo el modelo courier, conectando la gestión aduanera con la distribución y la entrega local.",
+                                "Articulamos los operadores y la información que necesita cada envío para avanzar desde la orden de compra hasta la entrega al consumidor final."
+                            ],
+                            "ideal": "Ideal para ecommerce, marcas y comercializadores que venden desde el exterior y necesitan entregar productos a compradores en Colombia, México y Perú.",
+                            "ideal_icon": "fa-cart-shopping"
+                        },
+                        {
+                            "icon": "fa-plane",
+                            "title": "Asesoría para el transporte internacional de mercancía",
+                            "text": [
+                                "Recibe orientación para planear el transporte de tus productos al país donde necesitas operar.",
+                                "Revisamos el origen, el destino, las características de la carga y tus necesidades de abastecimiento para identificar los aspectos que debes coordinar con los proveedores correspondientes.",
+                                "Definimos contigo los puntos de conexión entre el traslado internacional y la recepción de la mercancía en destino."
+                            ],
+                            "ideal": "Ideal para empresas que necesitan preparar su primer envío o revisar su esquema de abastecimiento internacional.",
+                            "ideal_icon": "fa-chart-simple"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "crossborder",
+                "data": {
+                    "id": "cross-border",
+                    "eyebrow": "Kiki Cross Border",
+                    "heading": "Tu ecommerce vende.",
+                    "accent": "Conectamos tu operación con tus compradores en Colombia, México y Perú.",
+                    "flags": [
+                        [
+                            "co",
+                            "Colombia"
+                        ],
+                        [
+                            "mx",
+                            "México"
+                        ],
+                        [
+                            "pe",
+                            "Perú"
+                        ]
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-calculator",
+                            "title": "Conoce los costos antes de despachar",
+                            "text": "Evaluamos los productos y los requisitos de ingreso al país de destino para identificar los impuestos y cargos logísticos aplicables. Esta información te permite incorporarlos a tu precio de venta y planear mejor el margen de cada operación."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Prepara tus envíos para el mercado de destino",
+                            "text": "Coordinamos con el operador especializado la revisión del catálogo, la clasificación arancelaria y la documentación requerida. Identificar restricciones antes del despacho ayuda a reducir contratiempos durante la importación."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Conecta la importación con la entrega local",
+                            "text": "Coordinamos el proceso de nacionalización y la entrega de los paquetes a los operadores de última milla para dar continuidad al recorrido hasta el comprador."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Cuenta con opciones cuando una entrega no se completa",
+                            "text": "El modelo contempla reintentos de entrega y gestión de paquetes devueltos en destino. Según las condiciones acordadas, podrás decidir su reenvío, almacenamiento o disposición."
+                        }
+                    ],
+                    "btn": {
+                        "label": "Evaluar mi operación Cross Border",
+                        "url": "#evaluacion"
+                    },
+                    "audience": "Para ecommerce, marcas y comercializadores que venden desde el exterior."
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "Cómo funciona",
+                    "heading": "Cómo funciona Kiki Cross Border",
+                    "layout": "timeline",
+                    "steps": [
+                        {
+                            "icon": "fa-magnifying-glass",
+                            "title": "Evaluamos tu operación",
+                            "text": "Revisamos tu catálogo, país de origen, destinos en Colombia, México o Perú y volumen estimado de envíos."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Definimos las condiciones",
+                            "text": "Validamos los requisitos, los costos y el anticipo necesario para ejecutar la operación."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Preparamos la información del despacho",
+                            "text": "Coordinamos órdenes, guías, etiquetas y documentos con los operadores correspondientes."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Coordinamos la importación y la distribución",
+                            "text": "Articulamos los trámites aduaneros y el paso de los paquetes a la red de entrega local."
+                        },
+                        {
+                            "icon": "fa-circle-check",
+                            "title": "Cerramos la operación",
+                            "text": "Gestionamos las novedades y conciliamos los servicios prestados con el anticipo recibido."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "alcance",
+                "data": {
+                    "eyebrow": "Definamos el alcance",
+                    "heading": "Definamos el alcance que necesita tu negocio",
+                    "sub": "Cada servicio responde a una necesidad distinta. Para estructurar tu propuesta, revisamos:",
+                    "items": [
+                        {
+                            "icon": "fa-cart-shopping",
+                            "title": "Productos y mercados",
+                            "text": "Qué vendes, desde dónde despachas y a qué país quieres llegar."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Requisitos de ingreso",
+                            "text": "Documentación, restricciones y validaciones aplicables."
+                        },
+                        {
+                            "icon": "fa-coins",
+                            "title": "Costos y condiciones comerciales",
+                            "text": "Cargos previstos y anticipos correspondientes."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Responsabilidades",
+                            "text": "Actividades que ejecuta cada participante."
+                        },
+                        {
+                            "icon": "fa-globe",
+                            "title": "Operación en destino",
+                            "text": "Entrega local y tratamiento de paquetes no entregados, según el servicio contratado."
+                        }
+                    ],
+                    "note": "El alcance de Merchant of Record, Kiki Cross Border y la asesoría de transporte se establece por separado en la propuesta. Los requisitos y las condiciones de Cross Border se validan para cada país de destino."
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "eyebrow": "Servicios relacionados",
+                    "heading": "Conecta tu expansión",
+                    "accent": "con los servicios locales",
+                    "text": [
+                        "Complementa tu operación internacional con los servicios de Kiki LATAM que necesite tu negocio: almacenamiento, preparación de pedidos, confirmación de órdenes, distribución y opciones de pago.",
+                        "Su contratación y disponibilidad se definen según el modelo operativo y el mercado."
+                    ],
+                    "links": [
+                        {
+                            "label": "Conocer Almacenamiento y preparación de pedidos",
+                            "svc": "almacenamiento-y-preparacion-de-pedidos"
+                        },
+                        {
+                            "label": "Conocer Gestión y confirmación de órdenes",
+                            "svc": "gestion-y-confirmacion-de-ordenes"
+                        },
+                        {
+                            "label": "Conocer Distribución y última milla",
+                            "svc": "distribucion-y-ultima-milla"
+                        },
+                        {
+                            "label": "Conocer Pagos y recaudo",
+                            "svc": "pagos-y-recaudo"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/logistica-internacional/3.webp",
+                    "photo": true
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Preguntas frecuentes",
+                    "items": [
+                        {
+                            "q": "¿A qué mercados puedo llegar con Kiki Cross Border?",
+                            "a": "Kiki Cross Border está disponible para entregas a compradores en Colombia, México y Perú, sujeto a validación del producto, requisitos aduaneros, cobertura y condiciones comerciales por país."
+                        },
+                        {
+                            "q": "¿Bajo qué modelo opera Kiki Cross Border?",
+                            "a": "Opera bajo el modelo courier. Coordinamos a los operadores correspondientes para conectar la gestión aduanera con la distribución y la entrega local."
+                        },
+                        {
+                            "q": "¿Las condiciones son iguales para los tres países?",
+                            "a": "Los requisitos de ingreso, impuestos, cargos logísticos, cobertura y condiciones comerciales se revisan para cada destino. La propuesta se construye según el producto y la operación solicitada."
+                        },
+                        {
+                            "q": "¿Puedo conocer los costos antes del despacho?",
+                            "a": "Evaluamos el producto y los requisitos del destino para identificar los impuestos y cargos logísticos aplicables. Las condiciones y el anticipo necesario se definen antes de ejecutar la operación."
+                        },
+                        {
+                            "q": "¿Qué ocurre si un paquete no se entrega?",
+                            "a": "El modelo contempla reintentos y gestión de paquetes devueltos en destino. Las opciones de reenvío, almacenamiento o disposición dependen de las condiciones acordadas."
+                        },
+                        {
+                            "q": "¿Puedo enviar cualquier producto?",
+                            "a": "La viabilidad requiere revisar el catálogo, la clasificación arancelaria, la documentación y las restricciones del país de destino antes de confirmar el servicio."
+                        },
+                        {
+                            "q": "¿Merchant of Record y Cross Border son el mismo servicio?",
+                            "a": "Son servicios con alcances distintos. Merchant of Record se relaciona con la estructura de comercialización y las responsabilidades acordadas frente a la venta. Cross Border coordina los envíos internacionales bajo el modelo courier y su conexión con la entrega local."
+                        },
+                        {
+                            "q": "¿Qué información necesito para solicitar una propuesta?",
+                            "a": "Comparte tu catálogo, país de origen, destinos, peso y dimensiones de los productos, volumen estimado y frecuencia de envíos. Indica también si necesitas evaluar Merchant of Record, Cross Border o asesoría de transporte."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Conversemos sobre tu próxima operación internacional",
+                    "text": "Cuéntanos qué productos vendes, desde dónde los despachas y a qué mercado quieres llegar. Evaluaremos la viabilidad y las condiciones para construir tu propuesta.",
+                    "btn": {
+                        "label": "Solicitar propuesta",
+                        "url": "#evaluacion"
+                    },
+                    "btn2": {
+                        "label": "Evaluar mi operación Cross Border",
+                        "url": "#cross-border"
+                    },
+                    "note": "Servicio Cross Border sujeto a validación del producto, requisitos aduaneros, cobertura y condiciones comerciales por país.",
+                    "img": "/assets/images/servicios/logistica-internacional/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "almacenamiento-y-preparacion-de-pedidos:en": {
+        "title": "Warehousing and Order Fulfillment",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Warehousing and Order Fulfillment",
+                    "heading": "Your inventory organized and your orders",
+                    "accent": "ready to go",
+                    "subtitle": "We receive and store your products, manage your inventory and prepare each order for dispatch. With Kiki LATAM, you connect warehouse activities with the needs of your ecommerce operation.",
+                    "btn_primary": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explore the Services",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/almacenamiento-y-preparacion-de-pedidos/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "From receiving your goods",
+                    "accent": "to dispatching your orders",
+                    "text": [
+                        "Sales depend on an operation that is ready to handle each order. Organized inventory and coordinated order preparation help your products move from the warehouse toward delivery to the customer.",
+                        "At Kiki LATAM, we bring warehousing and order fulfillment together so you can focus on developing your business, supported by a team that handles warehouse operations."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-cube",
+                            "title": "Inventory under control",
+                            "text": "Organize your stock and establish a basis for planning order preparation and product replenishment."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Coordinated order preparation",
+                            "text": "Connect product selection, packing and dispatch within a single workflow."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Continuity through to delivery",
+                            "text": "Connect outbound warehouse orders with the distribution service your operation needs."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/almacenamiento-y-preparacion-de-pedidos/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Included services",
+                    "heading": "Six services.",
+                    "accent": "One coordinated operation.",
+                    "sub": "Each activity serves a specific purpose within the warehousing and order fulfillment process.",
+                    "items": [
+                        {
+                            "icon": "fa-dolly",
+                            "tone": "mint",
+                            "title": "Goods receiving",
+                            "text": "The entry point for your products into the operation. We receive goods intended for storage and order preparation in accordance with the receiving requirements agreed for your business."
+                        },
+                        {
+                            "icon": "fa-warehouse",
+                            "tone": "amber",
+                            "title": "Warehousing",
+                            "text": "We store your products in the warehouse until they are needed to fulfill your orders. We agree on the scope of storage based on the characteristics of your goods and the needs of your operation."
+                        },
+                        {
+                            "icon": "fa-clipboard-list",
+                            "tone": "violet",
+                            "title": "Inventory management and control",
+                            "text": "We manage stock associated with your warehouse operation and its inbound and outbound movements. Inventory control helps organize product availability for order preparation."
+                        },
+                        {
+                            "icon": "fa-hand-pointer",
+                            "tone": "rose",
+                            "title": "Picking",
+                            "text": "We select the product references and quantities required for each order. This stage brings together the products that make up the order before they move on to packing."
+                        },
+                        {
+                            "icon": "fa-box",
+                            "tone": "sky",
+                            "title": "Packing",
+                            "text": "We pack the selected products to prepare the order for dispatch. Packing materials and requirements are defined according to the characteristics of the product and the agreed scope of service."
+                        },
+                        {
+                            "icon": "fa-truck-ramp-box",
+                            "tone": "green",
+                            "title": "Order dispatch",
+                            "text": "We manage the release of prepared orders from the warehouse and their handover to the relevant distribution provider. This connects order preparation with the next stage of the logistics process."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "An operation connected",
+                    "accent": "to your ecommerce business",
+                    "text": "Complement these services with Kiki LATAM integrations through API, Shopify or WooCommerce. The scope of the connection is defined according to your platform and operational needs.",
+                    "links": [
+                        {
+                            "label": "Explore Technology Integrations",
+                            "svc": "integraciones-tecnologicas"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/almacenamiento-y-preparacion-de-pedidos/3.webp"
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How we get started",
+                    "heading": "Defining the operation your products need",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Understanding your business",
+                            "text": "Tell us which products you sell, the country where you need to operate, and your inventory and order volumes."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Agreeing on the scope",
+                            "text": "We define warehouse services, receiving and storage requirements, and order preparation and dispatch needs."
+                        },
+                        {
+                            "icon": "fa-rocket",
+                            "title": "Coordinating the launch",
+                            "text": "We organize the receipt of your goods and the workflow needed to begin preparing your orders."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Frequently asked questions",
+                    "items": [
+                        {
+                            "q": "What does order fulfillment include?",
+                            "a": "It includes picking, packing and dispatch. Goods receiving, warehousing and inventory management complete the services in this category."
+                        },
+                        {
+                            "q": "Is delivery to the customer included in this category?",
+                            "a": "Delivery belongs to Distribution and Last-Mile Delivery. You can connect both services through Kiki LATAM to provide continuity from the warehouse to the customer."
+                        },
+                        {
+                            "q": "Can I connect my online store?",
+                            "a": "Kiki LATAM offers integrations through API, Shopify and WooCommerce. We work with you to review the appropriate connection for your platform."
+                        },
+                        {
+                            "q": "What information do I need to request a proposal?",
+                            "a": "Share the country of operation, product type, number of product references, estimated inventory, monthly order volume and packing requirements. These details help us define the scope of service."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Let us prepare the operation behind your sales",
+                    "text": "Tell us which products you sell and how you need to operate. Let us develop a warehousing and order fulfillment proposal for your business.",
+                    "btn": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Explore Distribution and Last-Mile Delivery",
+                        "svc": "distribucion-y-ultima-milla"
+                    },
+                    "img": "/assets/images/servicios/almacenamiento-y-preparacion-de-pedidos/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "gestion-y-confirmacion-de-ordenes:en": {
+        "title": "Order Management and Confirmation",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Order Management and Confirmation",
+                    "heading": "Confirm each order and coordinate",
+                    "accent": "the next step toward delivery",
+                    "subtitle": "We contact your customers through our call center to confirm their orders. We complement this service with address validation and delivery rescheduling to help each order move forward with clearer information.",
+                    "btn_primary": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explore the Services",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/gestion-y-confirmacion-de-ordenes/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Every order needs coordination",
+                    "accent": "on its way to delivery",
+                    "text": [
+                        "Before preparing or delivering an order, it is important to know whether the customer still intends to receive it and to have a usable delivery address. If their circumstances change, a new delivery attempt may also need to be coordinated.",
+                        "At Kiki LATAM, we connect these activities with your logistics operation. Contact with the customer helps clarify order details and determine the next steps, according to the scope agreed for your business."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-cart-shopping",
+                            "title": "Clearer purchase intent",
+                            "text": "Confirm whether the customer still wants their order before continuing with the agreed process."
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Clearer delivery addresses",
+                            "text": "Identify details that need review to help locate the destination."
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "title": "Coordination when plans change",
+                            "text": "Arrange a new delivery schedule when the customer needs to change their availability."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/gestion-y-confirmacion-de-ordenes/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Included services",
+                    "heading": "Three services",
+                    "accent": "to keep your orders moving.",
+                    "items": [
+                        {
+                            "icon": "fa-phone",
+                            "tone": "mint",
+                            "title": "Order confirmation through a call center",
+                            "text": [
+                                "Our call center team contacts the customer to confirm their intention to receive the order and review the information needed to continue with the operation. This conversation helps clarify questions about the order before moving to the next step.",
+                                "For cash-on-delivery orders, the conversation also provides an opportunity to remind the customer of the payment method and order amount, according to the process defined for the operation."
+                            ]
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "tone": "amber",
+                            "title": "Address validation",
+                            "text": [
+                                "We review delivery address information to identify missing details or information that needs clarification. A clearer address supports shipment coordination and helps reduce difficulties locating the destination.",
+                                "Address validation is complemented by the coverage review applicable to the operation. It does not guarantee delivery."
+                            ]
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "tone": "violet",
+                            "title": "Delivery rescheduling",
+                            "text": [
+                                "We coordinate a new delivery opportunity when the customer requests a change or when the operational process allows rescheduling. The new date is arranged according to coverage, routes and the relevant delivery provider’s availability.",
+                                "This service helps keep the order moving when the original delivery arrangements change."
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How order management connects the process",
+                    "heading": "Three steps to keep going.",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Review the available information",
+                            "text": "We start with the order details needed for confirmation and delivery coordination."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Contact the customer",
+                            "text": "The call center confirms the customer’s intention to receive the order and clarifies any information that needs review."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Coordinate the next step",
+                            "text": "Depending on the outcome of the conversation, we continue with the agreed workflow or arrange rescheduling where applicable."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Continuity with your",
+                    "accent": "logistics operation",
+                    "text": "Complement order management with warehousing and order fulfillment, or with distribution and last-mile delivery. Connect customer confirmation with the preparation and delivery of their products.",
+                    "links": [
+                        {
+                            "label": "Explore Warehousing and Order Fulfillment",
+                            "svc": "almacenamiento-y-preparacion-de-pedidos"
+                        },
+                        {
+                            "label": "Explore Distribution and Last-Mile Delivery",
+                            "svc": "distribucion-y-ultima-milla"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/gestion-y-confirmacion-de-ordenes/3.webp",
+                    "photo": true
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How we get started",
+                    "heading": "Defining the support your orders need",
+                    "sky": true,
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Understand your operation",
+                            "text": "Tell us where you sell, which products you offer, your order volume and the payment methods you use."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Agree on the contact process",
+                            "text": "We define the information to review with the customer and the criteria for confirmation or rescheduling, according to your business needs."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Coordinate the logistics connection",
+                            "text": "We agree on how order management connects with order preparation and delivery."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Frequently asked questions",
+                    "items": [
+                        {
+                            "q": "What does this category include?",
+                            "a": "It includes order confirmation through a call center, address validation and delivery rescheduling. The scope and conditions are defined in the proposal for your operation."
+                        },
+                        {
+                            "q": "Are orders confirmed through a call center?",
+                            "a": "Yes. The service includes call center contact to confirm the customer’s intention to receive the order and clarify the information needed to continue with the operation."
+                        },
+                        {
+                            "q": "Does a confirmed order guarantee delivery?",
+                            "a": "No. Confirmation establishes the customer’s intention at the time of contact. Delivery also depends on factors such as their availability, the address, coverage and operational conditions."
+                        },
+                        {
+                            "q": "Can delivery be rescheduled for any date?",
+                            "a": "The new schedule depends on the options available for the destination and the delivery provider. It is coordinated according to operational conditions."
+                        },
+                        {
+                            "q": "What information do I need to request a proposal?",
+                            "a": "Share your country of operation, the products you sell, monthly order volume, payment methods and how you currently manage confirmation and delivery changes."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Give your orders the human support they need",
+                    "text": "Tell us how you receive and manage your orders. Let us define a proposal for call center confirmation, address validation and delivery rescheduling for your business.",
+                    "btn": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Explore Distribution and Last-Mile Delivery",
+                        "svc": "distribucion-y-ultima-milla"
+                    },
+                    "img": "/assets/images/servicios/gestion-y-confirmacion-de-ordenes/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "distribucion-y-ultima-milla:en": {
+        "title": "Distribution and Last-Mile Delivery",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Distribution and Last-Mile Delivery",
+                    "heading": "Your orders on the move.",
+                    "accent": "Your operation connected.",
+                    "subtitle": "Deliver your prepaid and cash-on-delivery orders with Kiki LATAM. We connect order assignment, route planning and shipment traceability to coordinate distribution through to the customer.",
+                    "btn_primary": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explore the Services",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/distribucion-y-ultima-milla/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Delivery is part of",
+                    "accent": "the shopping experience",
+                    "text": [
+                        "Once an order is prepared, a critical stage begins: getting it to its destination and into the customer’s hands. The payment method, address and customer availability all influence this process.",
+                        "At Kiki LATAM, we coordinate order distribution with logistics providers according to your business needs and the conditions at each destination."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-cart-shopping",
+                            "title": "Flexibility to sell",
+                            "text": "Handle both prepaid and cash-on-delivery orders."
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Coordinated distribution",
+                            "text": "Connect order assignment with route planning."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Shipment visibility",
+                            "text": "Access tracking information to understand delivery progress."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/distribucion-y-ultima-milla/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Included services",
+                    "heading": "Five services",
+                    "accent": "to connect your sales with your customers.",
+                    "items": [
+                        {
+                            "icon": "fa-cube",
+                            "title": "Prepaid order delivery",
+                            "text": [
+                                "We distribute orders paid for before delivery. We coordinate shipment to the specified destination according to coverage and the agreed service conditions.",
+                                "This model connects your prepaid sales with the physical delivery of your products."
+                            ]
+                        },
+                        {
+                            "icon": "fa-money-bill-wave",
+                            "title": "Cash-on-delivery order delivery",
+                            "text": [
+                                "We deliver products to the customer under the cash-on-delivery model. Receipt of the order is coordinated with the corresponding payment collection, according to the conditions available for the operation.",
+                                "Payment collection, reconciliation and settlement are explained in the payment service categories."
+                            ]
+                        },
+                        {
+                            "icon": "fa-users-gear",
+                            "title": "Smart order assignment to logistics providers",
+                            "text": [
+                                "We assign orders to the appropriate provider based on the criteria defined for your operation and the options available to serve each destination.",
+                                "This assignment connects your business’s distribution needs with the provider network."
+                            ]
+                        },
+                        {
+                            "icon": "fa-route",
+                            "title": "Route planning and optimization",
+                            "text": [
+                                "We organize distribution routes to coordinate service to destinations and the use of available resources.",
+                                "Planning takes operational conditions into account and may require adjustments during delivery execution."
+                            ]
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Shipment tracking and traceability",
+                            "text": [
+                                "We facilitate order tracking through the information available during the logistics journey.",
+                                "Traceability provides access to reported shipment statuses and information to help coordinate the handling of delivery issues."
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How we connect distribution",
+                    "heading": "From dispatch to delivery.",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Receive orders for distribution",
+                            "text": "We start with prepared orders and the information needed to manage their shipment, including the address and payment method."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Assign orders and coordinate routes",
+                            "text": "We identify the appropriate provider and organize distribution according to operational conditions."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Manage delivery and traceability",
+                            "text": "We coordinate delivery to the customer and tracking of the statuses reported throughout the process."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Delivery supported by",
+                    "accent": "order management",
+                    "text": [
+                        "Distribution works better when clear order information is available from the start. Complement this service with call center confirmation, address validation and delivery rescheduling.",
+                        "You can also connect last-mile delivery with warehousing and order fulfillment to provide operational continuity from the warehouse onward."
+                    ],
+                    "links": [
+                        {
+                            "label": "Explore Order Management and Confirmation",
+                            "svc": "gestion-y-confirmacion-de-ordenes"
+                        },
+                        {
+                            "label": "Explore Warehousing and Order Fulfillment",
+                            "svc": "almacenamiento-y-preparacion-de-pedidos"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/distribucion-y-ultima-milla/3.webp",
+                    "photo": true
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How we get started",
+                    "heading": "Let us define the distribution your business needs",
+                    "sky": true,
+                    "steps": [
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Understand your destinations and volumes",
+                            "text": "Tell us where you dispatch from, where you need to deliver, which products you sell and how many orders you handle each month."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Review service conditions",
+                            "text": "We assess coverage, parcel characteristics and the payment methods your operation requires."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Coordinate the launch",
+                            "text": "We agree on the connection between dispatch, order assignment and the distribution process."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Frequently asked questions",
+                    "items": [
+                        {
+                            "q": "Can I deliver both prepaid and cash-on-delivery orders?",
+                            "a": "Yes. Kiki LATAM supports both models. Availability and conditions are defined according to the destination and the agreed scope of your operation."
+                        },
+                        {
+                            "q": "Does COD delivery include settlement of my sales proceeds?",
+                            "a": "COD delivery is coordinated with payment collection from the customer. Reconciliation and settlement are payment services that must be defined in your proposal."
+                        },
+                        {
+                            "q": "How are orders assigned to logistics providers?",
+                            "a": "Assignment follows the criteria established for your operation and the options available to serve each destination."
+                        },
+                        {
+                            "q": "Can I track shipment progress?",
+                            "a": "Yes. The service includes tracking and traceability based on the statuses reported during the logistics journey."
+                        },
+                        {
+                            "q": "Can a delivery be rescheduled?",
+                            "a": "Rescheduling is part of Order Management and Confirmation. It is coordinated according to the options available for the destination and the relevant provider."
+                        },
+                        {
+                            "q": "What information do I need to request a proposal?",
+                            "a": "Share your dispatch origin, destinations, product type, parcel weight and dimensions, monthly order volume and the proportion of prepaid and COD shipments."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Let us connect your orders with their destination",
+                    "text": "Tell us where your customers are and how you need to deliver. Let us define a distribution and last-mile delivery proposal for your business.",
+                    "btn": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Explore Order Management and Confirmation",
+                        "svc": "gestion-y-confirmacion-de-ordenes"
+                    },
+                    "img": "/assets/images/servicios/distribucion-y-ultima-milla/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "gestion-de-pagos:en": {
+        "title": "Payment Management",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Payment Management",
+                    "heading": "Connect payment with",
+                    "accent": "the next step for every order",
+                    "subtitle": "Confirm customer payments and reconcile collections through Subwallets. When a purchase is not completed, resend the payment link, convert the order to cash on delivery where applicable, or cancel it according to your operational process.",
+                    "btn_primary": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explore the Services",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/gestion-de-pagos/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "From a payment attempt",
+                    "accent": "to keeping the sale moving",
+                    "text": [
+                        "Sending a payment link is only part of the process. You also need to confirm the payment, reconcile it with your operation and decide what to do when the customer does not complete it.",
+                        "Kiki LATAM brings together tools to manage these steps and connect the payment process with the next stage of the order. Their use depends on the enabled payment methods and the conditions agreed for your business."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Payment confirmation",
+                            "text": "Receive automatic confirmation of payments completed through the enabled payment flow."
+                        },
+                        {
+                            "icon": "fa-coins",
+                            "title": "Reconciliation through Subwallets",
+                            "text": "Organize payment reconciliation within the structure defined for your operation."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Options to keep orders moving",
+                            "text": "Resend the link or use COD when that option is available. If the order will not proceed, manage its cancellation."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/gestion-de-pagos/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Features",
+                    "heading": "Five features",
+                    "accent": "to manage payments for your orders.",
+                    "items": [
+                        {
+                            "icon": "fa-file-circle-check",
+                            "title": "Automatic payment confirmation",
+                            "text": [
+                                "The payment flow includes automatic confirmation when the customer completes the transaction. This communicates the payment outcome and allows the order to continue according to the agreed process.",
+                                "Confirmation relates to the completed payment. Preparation, dispatch and delivery follow the conditions of the logistics operation."
+                            ]
+                        },
+                        {
+                            "icon": "fa-wallet",
+                            "title": "Payment reconciliation through Subwallets",
+                            "text": [
+                                "We reconcile payments through Subwallets as part of managing your operation’s collections. We work with you to define the scope of this structure and how it relates to the orders you manage with Kiki LATAM.",
+                                "Reconciliation helps associate received payments with the corresponding operation. Settlement terms for sales proceeds are defined separately."
+                            ]
+                        },
+                        {
+                            "icon": "fa-link",
+                            "title": "Resending payment links",
+                            "text": [
+                                "When the customer has not completed payment, you can resend the link to provide another opportunity to finish the purchase, according to the conditions of the enabled payment flow.",
+                                "The process allows a maximum of two resends. Link availability depends on its validity period and the conditions of the payment method."
+                            ]
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Converting unpaid orders to COD",
+                            "text": [
+                                "If the customer does not complete advance payment, the order can be converted to cash on delivery when that payment model is enabled for the destination and operation.",
+                                "This alternative allows the sale to continue with payment collected when the product is received. It must be coordinated with the customer and the conditions of the COD delivery service."
+                            ]
+                        },
+                        {
+                            "icon": "fa-circle-xmark",
+                            "title": "Order cancellation",
+                            "text": [
+                                "Cancel an order that will not proceed, in accordance with the applicable operational conditions.",
+                                "Cancelling an order is not the same as issuing a refund. If a payment has been completed or dispatch is underway, the appropriate handling must be reviewed before proceeding."
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How payment connects with the order",
+                    "heading": "How payment connects with order management",
+                    "steps": [
+                        {
+                            "icon": "fa-mobile-screen",
+                            "title": "The customer receives the link and pays",
+                            "text": "The purchase proceeds through the payment methods enabled for the country and operation."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Payment is confirmed and reconciled through Subwallets",
+                            "text": "A completed payment generates confirmation. Reconciliation takes place through the Subwallets structure defined for your business."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "The next step for the order is determined",
+                            "text": "A paid order continues through the agreed process. If payment is not completed, the link can be resent, the order converted to COD or the order cancelled, as appropriate."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Management connected with",
+                    "accent": "your payment methods and logistics",
+                    "text": [
+                        "Complement these features with the Payments and Collections services available for your operation. Enabled payment methods vary by country.",
+                        "Also connect payment management with order confirmation and product delivery. To understand how you receive your sales proceeds, explore the international collection and settlement services."
+                    ],
+                    "links": [
+                        {
+                            "label": "Explore Payments and Collections",
+                            "svc": "pagos-y-recaudo"
+                        },
+                        {
+                            "label": "Explore Order Management and Confirmation",
+                            "svc": "gestion-y-confirmacion-de-ordenes"
+                        },
+                        {
+                            "label": "Explore Distribution and Last-Mile Delivery",
+                            "svc": "distribucion-y-ultima-milla"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/gestion-de-pagos/3.webp"
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How we get started",
+                    "heading": "Let us define the payment management your business needs",
+                    "sky": true,
+                    "steps": [
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Understand your sales process",
+                            "text": "Tell us which countries you sell in, how customers receive payment links and which payment methods you use."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Agree on the options for each order",
+                            "text": "We define the scope of reconciliation through Subwallets and the conditions for resending links, converting orders to COD and cancelling orders."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Connect the process with your operation",
+                            "text": "We coordinate how payment management relates to order confirmation, preparation and delivery."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Frequently asked questions",
+                    "items": [
+                        {
+                            "q": "What does Payment Management include?",
+                            "a": "It includes automatic payment confirmation, reconciliation through Subwallets, resending payment links, converting unpaid orders to COD and order cancellation, according to the scope enabled for your operation."
+                        },
+                        {
+                            "q": "How are payments reconciled?",
+                            "a": "Through Subwallets. The scope and conditions of this structure are defined for your operation with Kiki LATAM."
+                        },
+                        {
+                            "q": "How many times can I resend a payment link?",
+                            "a": "The process allows a maximum of two resends. Use depends on the link’s validity period and the conditions of the payment flow."
+                        },
+                        {
+                            "q": "Can I convert any order to cash on delivery?",
+                            "a": "Conversion applies to unpaid orders when COD is available for the destination and operation. It must be coordinated with the customer and the distribution service."
+                        },
+                        {
+                            "q": "Does cancelling an order trigger a refund?",
+                            "a": "No. Order cancellation and payment refunds are separate processes. If the order already has an associated payment or dispatch, its handling must be reviewed before cancellation."
+                        },
+                        {
+                            "q": "Does this category define when I receive my sales proceeds?",
+                            "a": "No. Settlement terms are defined within the international collection and settlement services and in the proposal agreed for your business."
+                        },
+                        {
+                            "q": "What information do I need to request a proposal?",
+                            "a": "Share the countries where you sell, monthly order volume, payment methods, how you send links and how you currently manage purchases where payment is not completed."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Connect your payments with the next step in your sales",
+                    "text": "Tell us how you collect payments and what happens when a customer does not complete their purchase. Let us define a payment management proposal for your operation.",
+                    "btn": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Explore Payments and Collections",
+                        "svc": "pagos-y-recaudo"
+                    },
+                    "img": "/assets/images/servicios/gestion-de-pagos/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "pagos-y-recaudo:en": {
+        "title": "Payments and Collections",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Payments and Collections",
+                    "heading": "More ways to pay.",
+                    "accent": "More opportunities to sell.",
+                    "subtitle": "Give your customers options to pay before delivery or when they receive their products. With Kiki LATAM, connect cash-on-delivery collection with local payment methods available in Mexico, Colombia and Peru, according to your operational conditions.",
+                    "btn_primary": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explore Payment Methods",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/pagos-y-recaudo/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Match payment options to the way",
+                    "accent": "your customers shop",
+                    "text": [
+                        "Payment preferences vary by market and customer. Some people prefer cards or bank transfers; others need to finance their purchase or pay when they receive the product.",
+                        "Kiki LATAM brings these options together within its Kiki Pay solution and connects them with logistics operations. Define the methods appropriate for your sales market and offer alternatives to complete the purchase."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Local collection options",
+                            "text": "Offer the methods enabled for each market, such as SPEI in Mexico, PSE in Colombia and Yape QR in Peru."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Flexibility in when customers pay",
+                            "text": "Combine advance payment and cash on delivery when available for your operation."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Payment connected with delivery",
+                            "text": "Connect the customer’s chosen payment model with order preparation and distribution."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/pagos-y-recaudo/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Our services",
+                    "heading": "Payment and collection services",
+                    "layout": "grid2",
+                    "items": [
+                        {
+                            "icon": "fa-money-bill-wave",
+                            "title": "Cash-on-delivery collection (COD)",
+                            "text": [
+                                "Collect payment from the customer when they receive their order, according to the conditions of the COD delivery service. This model serves customers who prefer to pay upon receiving the product.",
+                                "Availability is validated by destination and operation. The specific payment method accepted at delivery is defined in the service proposal."
+                            ]
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Card payments in Mexico through Openpay",
+                            "text": "Allow your customers to pay with credit and debit cards through Openpay. Payment takes place before delivery through the flow enabled for your operation in Mexico."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Card payments in Colombia through Tumipay",
+                            "text": "Offer card payments to your customers in Colombia through Tumipay. Acceptance conditions are defined according to the service enabled for your business."
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "title": "Buy Now Pay Later (BNPL) financing in Mexico",
+                            "text": "Offer your customers the option to finance their purchase through Openpay in up to 12 installments. Approval and financing terms depend on the provider and the customer’s profile."
+                        },
+                        {
+                            "icon": "fa-building-columns",
+                            "title": "SPEI bank transfer payments in Mexico",
+                            "text": "Accept SPEI transfers through Tumipay. The flow generates a dynamic CLABE bank account number so the customer can complete the transfer within the defined payment window."
+                        },
+                        {
+                            "icon": "fa-building-columns",
+                            "title": "PSE payments in Colombia",
+                            "text": "Allow customers to pay from their bank account using PSE through Tumipay. This is an advance payment option for your operation in Colombia."
+                        },
+                        {
+                            "icon": "fa-qrcode",
+                            "title": "Yape QR payments in Peru",
+                            "text": "Offer Yape QR payments through Tumipay. Customers use the code displayed in the enabled payment flow to complete their purchase in Peru."
+                        },
+                        {
+                            "icon": "fa-link",
+                            "title": "Payment link generation and delivery",
+                            "text": [
+                                "Generate links that take customers to a checkout with the payment methods enabled for their country. The flow includes sending the link through WhatsApp to make payment easier to access.",
+                                "The methods displayed at checkout depend on the market and the conditions agreed for your operation."
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "paises",
+                "data": {
+                    "eyebrow": "Payment methods by country",
+                    "heading": "Payment methods you can offer in each country",
+                    "items": [
+                        {
+                            "code": "mx",
+                            "pais": "Mexico",
+                            "methods": [
+                                [
+                                    "fa-credit-card",
+                                    "Credit and debit cards · Openpay"
+                                ],
+                                [
+                                    "fa-calendar-days",
+                                    "BNPL · Openpay · Up to 12 installments"
+                                ],
+                                [
+                                    "fa-building-columns",
+                                    "SPEI · Tumipay"
+                                ]
+                            ]
+                        },
+                        {
+                            "code": "co",
+                            "pais": "Colombia",
+                            "methods": [
+                                [
+                                    "fa-credit-card",
+                                    "Cards · Tumipay"
+                                ],
+                                [
+                                    "fa-building-columns",
+                                    "PSE · Tumipay"
+                                ]
+                            ]
+                        },
+                        {
+                            "code": "pe",
+                            "pais": "Peru",
+                            "methods": [
+                                [
+                                    "fa-qrcode",
+                                    "Yape QR · Tumipay"
+                                ]
+                            ]
+                        }
+                    ],
+                    "note": "Cash-on-delivery collection is validated by destination and operation. Payment links provide access to the methods enabled for the relevant country."
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How it works",
+                    "heading": "How we connect collection with your operation",
+                    "sky": true,
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Define payment methods",
+                            "text": "We review your sales market, the products you sell and the payment options you need to offer your customers."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "The customer chooses how to pay",
+                            "text": "They can complete advance payment using the enabled options or choose cash on delivery when that model is available."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Connect payment with the order",
+                            "text": "The payment model connects with the preparation and delivery process agreed for your operation."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "heading": "Complement collection with",
+                    "accent": "payment management",
+                    "text": [
+                        "Connect these services with automatic payment confirmation, reconciliation through Subwallets, resending links, converting unpaid orders to COD and order cancellation.",
+                        "These features are explained under Payment Management. The conditions for receiving your sales proceeds are defined in the international collection and settlement services and in your proposal."
+                    ],
+                    "links": [
+                        {
+                            "label": "Explore Payment Management",
+                            "svc": "gestion-de-pagos"
+                        },
+                        {
+                            "label": "Explore Distribution and Last-Mile Delivery",
+                            "svc": "distribucion-y-ultima-milla"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/pagos-y-recaudo/3.webp",
+                    "photo": true
+                }
+            },
+            {
+                "type": "franja",
+                "data": {
+                    "heading": "Let us define how you want to collect payments in each market",
+                    "text": "Share the countries where you sell, monthly order volume, average order value and the payment methods you use. This information helps us define the scope of payment and collection services for your business.",
+                    "btn": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Explore Payment Management",
+                        "svc": "gestion-de-pagos"
+                    }
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Frequently asked questions",
+                    "items": [
+                        {
+                            "q": "Are the same payment methods available in every country?",
+                            "a": "No. Mexico includes cards, BNPL and SPEI; Colombia includes cards and PSE; Peru includes Yape QR. Final availability depends on the conditions enabled for your operation."
+                        },
+                        {
+                            "q": "Can I combine advance payment and cash on delivery?",
+                            "a": "Yes, when both models are available for your destination and operation. The process must be coordinated with order management and delivery."
+                        },
+                        {
+                            "q": "Where is BNPL financing available?",
+                            "a": "In Mexico, through Openpay, in up to 12 installments. Approval and terms are determined by the financing provider."
+                        },
+                        {
+                            "q": "How does the customer receive the payment link?",
+                            "a": "The flow includes sending it through WhatsApp. The link directs customers to a checkout with the methods enabled for the country of purchase."
+                        },
+                        {
+                            "q": "How are received payments reconciled?",
+                            "a": "Reconciliation takes place through Subwallets and is explained in the Payment Management section. Its scope is defined for your operation."
+                        },
+                        {
+                            "q": "When do I receive my sales proceeds?",
+                            "a": "Settlement frequency, currency and conditions are established in the relevant collection and settlement proposal. They are not automatically the same across all methods or markets."
+                        },
+                        {
+                            "q": "What information do I need to request a proposal?",
+                            "a": "Share your sales countries, products, monthly order volume, average order value, required payment methods and whether you need cash on delivery."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Connect your sales with more ways to pay",
+                    "text": "Tell us which markets you want to sell in and how your customers prefer to pay. Let us define a payment and collection proposal connected with your logistics operation.",
+                    "btn": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Explore Payment Management",
+                        "svc": "gestion-de-pagos"
+                    },
+                    "img": "/assets/images/servicios/pagos-y-recaudo/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "integraciones-tecnologicas:en": {
+        "title": "Technology Integrations",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "Technology Integrations",
+                    "heading": "Connect your ecommerce business",
+                    "accent": "with your logistics operation",
+                    "subtitle": "Integrate your store with Kiki LATAM through API, Shopify or WooCommerce. Define a connection that supports order management and keeps your operation connected from sale to delivery.",
+                    "btn_primary": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explore the Integrations",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/integraciones-tecnologicas/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "A connection between what you sell",
+                    "accent": "and how you operate",
+                    "text": [
+                        "Every order your ecommerce business receives needs to move toward preparation and delivery. Connecting your sales platform with logistics helps reduce manual information transfers and organize that process.",
+                        "At Kiki LATAM, we review your platform and business needs to define the scope of the integration, the data to be exchanged and the steps required to get it running."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Fewer manual tasks",
+                            "text": "Reduce the need to transfer information between your store and your logistics operation, according to the scope of the connection."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Continuity in order management",
+                            "text": "Link orders from your ecommerce business with your contracted services."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "A connection suited to your business",
+                            "text": "Define integration requirements according to your platform and operational process."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/integraciones-tecnologicas/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Included services",
+                    "heading": "Three options to connect your operation",
+                    "layout": "tall",
+                    "items": [
+                        {
+                            "icon": "fa-code",
+                            "title": "API integration",
+                            "text": [
+                                "Connect your systems with Kiki LATAM through an API. This option enables an integration tailored to your business needs, with participation from your development team or technology provider.",
+                                "We review the information you need to exchange, the technical requirements and the feasibility of the requested workflows with you before defining implementation."
+                            ],
+                            "ideal": "Ideal for companies that need to connect their own systems or develop a specific integration.",
+                            "ideal_icon": "fa-users"
+                        },
+                        {
+                            "logo": "/assets/images/servicios/logos/shopify.png",
+                            "title": "Shopify integration",
+                            "text": [
+                                "Connect your Shopify store with Kiki LATAM to link order management with your logistics operation.",
+                                "We define the configuration and scope of the connection according to your store’s characteristics and the services you will use."
+                            ],
+                            "ideal": "Ideal for brands and merchants that manage sales through Shopify.",
+                            "ideal_icon": "fa-store"
+                        },
+                        {
+                            "logo": "/assets/images/servicios/logos/woocommerce.png",
+                            "title": "WooCommerce integration",
+                            "text": [
+                                "Integrate your WooCommerce store with Kiki LATAM to connect ecommerce orders with the agreed logistics process.",
+                                "We review your store configuration and connection requirements to coordinate implementation."
+                            ],
+                            "ideal": "Ideal for companies selling through WooCommerce that want to connect their store with logistics operations.",
+                            "ideal_icon": "fa-cart-shopping"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "alcance",
+                "data": {
+                    "eyebrow": "Scope",
+                    "heading": "First we define the scope of the connection",
+                    "sub": "The integration should support the way you operate. Before implementing it, we agree on:",
+                    "items": [
+                        {
+                            "icon": "fa-database",
+                            "title": "Data to be exchanged",
+                            "text": "The information each system needs to receive or send."
+                        },
+                        {
+                            "icon": "fa-diagram-project",
+                            "title": "Process steps",
+                            "text": "What happens when an order is created and how it continues through the operation."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Implementation responsibilities",
+                            "text": "Which activities belong to Kiki LATAM, your team and your technology provider."
+                        },
+                        {
+                            "icon": "fa-circle-check",
+                            "title": "Functional testing",
+                            "text": "How we will verify the included workflows before operations begin."
+                        }
+                    ],
+                    "note": "Specific features, implementation timelines and technical requirements are established for each project."
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How we get started",
+                    "heading": "How we get started",
+                    "layout": "cards",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Understand your platform",
+                            "text": "Tell us whether you use Shopify, WooCommerce or your own system, which services you need to connect and how you currently manage orders."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Define the integration",
+                            "text": "We review technical requirements and agree on the data, workflows and responsibilities for the connection."
+                        },
+                        {
+                            "icon": "fa-flask",
+                            "title": "Configure and test",
+                            "text": "We coordinate implementation and verify that the processes included in the scope work as intended."
+                        },
+                        {
+                            "icon": "fa-circle-play",
+                            "title": "Begin operations",
+                            "text": "Once the agreed workflows have been validated, we coordinate the launch of the connection with your logistics operation."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "eyebrow": "Related services",
+                    "heading": "Connect your technology",
+                    "accent": "with the services you need",
+                    "text": [
+                        "The integration connects your business with its contracted services. Define how your ecommerce platform will link with warehousing, order fulfillment and distribution.",
+                        "If your operation also includes order confirmation or payment services, we review their requirements within the relevant scope."
+                    ],
+                    "links": [
+                        {
+                            "label": "Explore Warehousing and Order Fulfillment",
+                            "svc": "almacenamiento-y-preparacion-de-pedidos"
+                        },
+                        {
+                            "label": "Explore Order Management and Confirmation",
+                            "svc": "gestion-y-confirmacion-de-ordenes"
+                        },
+                        {
+                            "label": "Explore Distribution and Last-Mile Delivery",
+                            "svc": "distribucion-y-ultima-milla"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/integraciones-tecnologicas/3.webp"
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Frequently asked questions",
+                    "items": [
+                        {
+                            "q": "Which platforms can I integrate my store with?",
+                            "a": "Kiki LATAM offers integration options through API, Shopify and WooCommerce. Configuration and scope are reviewed according to your operation."
+                        },
+                        {
+                            "q": "Can I connect my own system?",
+                            "a": "We can evaluate an API connection. To determine feasibility, we need to review requirements with your technical team or development provider."
+                        },
+                        {
+                            "q": "What information is synchronized?",
+                            "a": "Data and exchange workflows are defined during the technical review. Availability of specific features must be confirmed before implementation."
+                        },
+                        {
+                            "q": "Does the integration include inventory and shipment status synchronization?",
+                            "a": "These features must be validated for the platform and requested scope. They are not included by default."
+                        },
+                        {
+                            "q": "Do I need a development team?",
+                            "a": "It depends on the integration option and your store’s characteristics. API connections require technical participation. For Shopify and WooCommerce, we review the resources needed during project definition."
+                        },
+                        {
+                            "q": "How long does implementation take?",
+                            "a": "The timeline depends on the platform, existing configuration, requirements and testing needed. It is established once the technical scope has been defined."
+                        },
+                        {
+                            "q": "What information do I need to request a proposal?",
+                            "a": "Share your platform, operating countries, monthly order volume, required logistics services and the data or processes you want to connect."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Connect your store with the next step in your operation",
+                    "text": "Tell us how you sell and what you need to integrate. Let us review an API, Shopify or WooCommerce connection for your business.",
+                    "btn": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "link": {
+                        "label": "Explore Warehousing and Order Fulfillment",
+                        "svc": "almacenamiento-y-preparacion-de-pedidos"
+                    },
+                    "img": "/assets/images/servicios/integraciones-tecnologicas/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "logistica-internacional:en": {
+        "title": "International Logistics",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "eyebrow": "International Logistics",
+                    "heading": "Connect your products with",
+                    "accent": "new opportunities in LATAM",
+                    "subtitle": [
+                        "Expand your ecommerce business with Merchant of Record services in LATAM, cross-border logistics and advisory services for international goods transportation.",
+                        "With Kiki LATAM, define an operation around your products, destination market and business needs."
+                    ],
+                    "btn_primary": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explore the Services",
+                        "url": "#servicios"
+                    },
+                    "img": "/assets/images/servicios/logistica-internacional/1.webp"
+                }
+            },
+            {
+                "type": "intro",
+                "data": {
+                    "heading": "Your expansion begins",
+                    "accent": "before the first shipment",
+                    "text": [
+                        "Selling in another country means determining how your products enter the market, which requirements they must meet and how they reach your customers.",
+                        "At Kiki LATAM, we coordinate the services and participants in each contracted stage to connect your international operation with the destination market."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-coins",
+                            "title": "Cost planning",
+                            "text": "Identify applicable taxes and logistics charges so you can incorporate them into your selling price."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Preparation before dispatch",
+                            "text": "Review product requirements and the necessary documentation."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Continuity through to the customer",
+                            "text": "Connect the international stage with local distribution and delivery."
+                        }
+                    ],
+                    "img": "/assets/images/servicios/logistica-internacional/2.webp"
+                }
+            },
+            {
+                "type": "servicios",
+                "data": {
+                    "eyebrow": "Included services",
+                    "heading": "Three services to support your international operation",
+                    "layout": "tall",
+                    "items": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Merchant of Record in LATAM",
+                            "text": [
+                                "Evaluate a Merchant of Record model to structure product sales in markets where the service is available.",
+                                "We define which entity acts as the seller to the customer and which commercial, invoicing and tax responsibilities each party assumes.",
+                                "Feasibility and conditions are reviewed according to the country, product category and sales model."
+                            ],
+                            "ideal": "Ideal for companies looking to evaluate a sales structure in LATAM with a local partner.",
+                            "ideal_icon": "fa-store"
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Kiki Cross Border",
+                            "text": [
+                                "We coordinate your international shipments under the courier model, connecting customs processes with local distribution and delivery.",
+                                "We coordinate the providers and information each shipment needs to move from purchase order to delivery to the end customer."
+                            ],
+                            "ideal": "Ideal for ecommerce businesses, brands and merchants selling from abroad that need to deliver products to customers in Colombia, Mexico and Peru.",
+                            "ideal_icon": "fa-cart-shopping"
+                        },
+                        {
+                            "icon": "fa-plane",
+                            "title": "Advisory services for international goods transportation",
+                            "text": [
+                                "Get guidance on planning transportation of your products to the country where you need to operate.",
+                                "We review origin, destination, cargo characteristics and replenishment needs to identify the aspects you should coordinate with the relevant providers.",
+                                "We work with you to define the connection points between international transportation and receipt of goods at destination."
+                            ],
+                            "ideal": "Ideal for companies preparing their first shipment or reviewing their international replenishment model.",
+                            "ideal_icon": "fa-chart-simple"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "crossborder",
+                "data": {
+                    "id": "cross-border",
+                    "eyebrow": "Kiki Cross Border",
+                    "heading": "Your ecommerce business sells.",
+                    "accent": "We connect your operation with customers in Colombia, Mexico and Peru.",
+                    "flags": [
+                        [
+                            "co",
+                            "Colombia"
+                        ],
+                        [
+                            "mx",
+                            "Mexico"
+                        ],
+                        [
+                            "pe",
+                            "Peru"
+                        ]
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-calculator",
+                            "title": "Understand costs before dispatch",
+                            "text": "We assess products and destination entry requirements to identify applicable taxes and logistics charges. This information helps you incorporate them into your selling price and better plan the margin for each operation."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Prepare shipments for the destination market",
+                            "text": "We coordinate catalog review, tariff classification and required documentation with the specialist provider. Identifying restrictions before dispatch helps reduce setbacks during importation."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Connect importation with local delivery",
+                            "text": "We coordinate customs clearance and the handover of parcels to last-mile providers to keep shipments moving toward the customer."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Have options when delivery cannot be completed",
+                            "text": "The model includes delivery reattempts and management of parcels returned at destination. Depending on the agreed conditions, you can decide on reshipment, storage or disposition."
+                        }
+                    ],
+                    "btn": {
+                        "label": "Assess My Cross Border Operation",
+                        "url": "#evaluacion"
+                    },
+                    "audience": "For ecommerce businesses, brands and merchants selling from abroad."
+                }
+            },
+            {
+                "type": "pasos",
+                "data": {
+                    "eyebrow": "How it works",
+                    "heading": "How Kiki Cross Border works",
+                    "layout": "timeline",
+                    "steps": [
+                        {
+                            "icon": "fa-magnifying-glass",
+                            "title": "Assess your operation",
+                            "text": "We review your catalog, origin country, destinations in Colombia, Mexico or Peru and estimated shipment volume."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Define the conditions",
+                            "text": "We validate requirements, costs and the advance payment needed to carry out the operation."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Prepare shipment information",
+                            "text": "We coordinate orders, waybills, labels and documents with the relevant providers."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Coordinate importation and distribution",
+                            "text": "We coordinate customs procedures and the handover of parcels to the local delivery network."
+                        },
+                        {
+                            "icon": "fa-circle-check",
+                            "title": "Close out the operation",
+                            "text": "We handle operational issues and reconcile the services provided against the advance payment received."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "alcance",
+                "data": {
+                    "eyebrow": "Defining the scope",
+                    "heading": "Let us define the scope your business needs",
+                    "sub": "Each service addresses a different need. To structure your proposal, we review:",
+                    "items": [
+                        {
+                            "icon": "fa-cart-shopping",
+                            "title": "Products and markets",
+                            "text": "What you sell, where you dispatch from and which country you want to reach."
+                        },
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Entry requirements",
+                            "text": "Applicable documentation, restrictions and validations."
+                        },
+                        {
+                            "icon": "fa-coins",
+                            "title": "Costs and commercial conditions",
+                            "text": "Expected charges and corresponding advance payments."
+                        },
+                        {
+                            "icon": "fa-users",
+                            "title": "Responsibilities",
+                            "text": "Activities carried out by each participant."
+                        },
+                        {
+                            "icon": "fa-globe",
+                            "title": "Destination operations",
+                            "text": "Local delivery and handling of undelivered parcels, according to the contracted service."
+                        }
+                    ],
+                    "note": "The scope of Merchant of Record, Kiki Cross Border and transportation advisory services is established separately in the proposal. Cross Border requirements and conditions are validated for each destination country."
+                }
+            },
+            {
+                "type": "conexion",
+                "data": {
+                    "eyebrow": "Related services",
+                    "heading": "Connect your expansion",
+                    "accent": "with local services",
+                    "text": [
+                        "Complement your international operation with the Kiki LATAM services your business needs: warehousing, order fulfillment, order confirmation, distribution and payment options.",
+                        "Contracting and availability are defined according to the operating model and market."
+                    ],
+                    "links": [
+                        {
+                            "label": "Explore Warehousing and Order Fulfillment",
+                            "svc": "almacenamiento-y-preparacion-de-pedidos"
+                        },
+                        {
+                            "label": "Explore Order Management and Confirmation",
+                            "svc": "gestion-y-confirmacion-de-ordenes"
+                        },
+                        {
+                            "label": "Explore Distribution and Last-Mile Delivery",
+                            "svc": "distribucion-y-ultima-milla"
+                        },
+                        {
+                            "label": "Explore Payments and Collections",
+                            "svc": "pagos-y-recaudo"
+                        }
+                    ],
+                    "img": "/assets/images/servicios/logistica-internacional/3.webp",
+                    "photo": true
+                }
+            },
+            {
+                "type": "faq",
+                "data": {
+                    "heading": "Frequently asked questions",
+                    "items": [
+                        {
+                            "q": "Which markets can I reach with Kiki Cross Border?",
+                            "a": "Kiki Cross Border is available for deliveries to customers in Colombia, Mexico and Peru, subject to product validation, customs requirements, coverage and commercial conditions in each country."
+                        },
+                        {
+                            "q": "Which model does Kiki Cross Border use?",
+                            "a": "It operates under the courier model. We coordinate the relevant providers to connect customs processes with local distribution and delivery."
+                        },
+                        {
+                            "q": "Are conditions the same in all three countries?",
+                            "a": "Entry requirements, taxes, logistics charges, coverage and commercial conditions are reviewed for each destination. The proposal is built around the product and requested operation."
+                        },
+                        {
+                            "q": "Can I know the costs before dispatch?",
+                            "a": "We assess the product and destination requirements to identify applicable taxes and logistics charges. Conditions and the necessary advance payment are defined before execution."
+                        },
+                        {
+                            "q": "What happens if a parcel is not delivered?",
+                            "a": "The model includes reattempts and management of parcels returned at destination. Reshipment, storage or disposition options depend on the agreed conditions."
+                        },
+                        {
+                            "q": "Can I ship any product?",
+                            "a": "Feasibility requires reviewing the catalog, tariff classification, documentation and destination restrictions before confirming the service."
+                        },
+                        {
+                            "q": "Are Merchant of Record and Cross Border the same service?",
+                            "a": "They have different scopes. Merchant of Record concerns the sales structure and agreed responsibilities for the sale. Cross Border coordinates international courier shipments and their connection with local delivery."
+                        },
+                        {
+                            "q": "What information do I need to request a proposal?",
+                            "a": "Share your catalog, origin country, destinations, product weight and dimensions, estimated volume and shipping frequency. Also indicate whether you need to evaluate Merchant of Record, Cross Border or transportation advisory services."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cta",
+                "data": {
+                    "heading": "Let us discuss your next international operation",
+                    "text": "Tell us what you sell, where you dispatch from and which market you want to reach. We will evaluate feasibility and conditions to build your proposal.",
+                    "btn": {
+                        "label": "Request a Proposal",
+                        "url": "#evaluacion"
+                    },
+                    "btn2": {
+                        "label": "Assess My Cross Border Operation",
+                        "url": "#cross-border"
+                    },
+                    "note": "Cross Border service is subject to product validation, customs requirements, coverage and commercial conditions in each country.",
+                    "img": "/assets/images/servicios/logistica-internacional/4.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    }
+}

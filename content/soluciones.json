@@ -1,0 +1,3596 @@
+{
+    "expandirse-en-latam:es": {
+        "title": "Expandirse en LATAM",
+        "lang": "es",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "crumb": "Expansión regional",
+                    "heading": "Expande tus ventas en LATAM con una sola operación conectada",
+                    "subtitle": "Llega a México, Colombia y Perú con una solución diseñada alrededor de tu producto, tus canales de venta y tu volumen de pedidos. Kiki coordina las etapas necesarias para poner tus productos al alcance del comprador: desde la entrada al mercado y el inventario hasta la entrega, el recaudo y la liquidación.",
+                    "btn_primary": {
+                        "label": "Diseñar mi expansión",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Ver cómo funciona",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/expandirse-en-latam/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "eyebrow": "Por qué expandir con Kiki",
+                    "heading": "Entrar a un nuevo mercado no debería implicar empezar de cero",
+                    "text": "Vender en otro país exige resolver varias decisiones a la vez: cómo ingresar el producto, dónde almacenar inventario, quién prepara los pedidos, cómo llegan al cliente y cómo recibes el dinero. Cuando cada etapa depende de un proveedor distinto, aumentan las tareas de coordinación y se pierde visibilidad.",
+                    "solucion": "Kiki conecta esas etapas en una operación diseñada para tu negocio.",
+                    "items": [
+                        {
+                            "icon": "fa-store",
+                            "title": "Entrada al mercado",
+                            "text": "Te ayudamos a definir el esquema logístico y operativo para tus productos y el mercado de destino."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Pedidos y entregas",
+                            "text": "Conectamos inventario, preparación de pedidos, entregas y seguimiento en un proceso coordinado."
+                        },
+                        {
+                            "icon": "fa-wallet",
+                            "title": "Recaudo y liquidación",
+                            "text": "Integramos las opciones de pago disponibles para tu operación y consolidamos la información para conciliar órdenes, cobros y fondos."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/expandirse-en-latam/2.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "Cómo funciona",
+                    "heading": "Una ruta de expansión, de principio a fin",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Definimos el mercado y el modelo operativo",
+                            "text": "Revisamos tus productos, países de interés, canales de venta, volumen esperado y necesidades de recaudo. Con esa información estructuramos una ruta viable para comenzar."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Preparamos la entrada del producto",
+                            "text": "Coordinamos los componentes logísticos y documentales que correspondan a tu operación, así como la recepción y ubicación del inventario en el mercado de destino."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Procesamos y entregamos cada pedido",
+                            "text": "Conectamos tus canales de venta con la preparación de órdenes, la asignación de entregas y el seguimiento de cada pedido."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Gestionamos el recaudo y la liquidación",
+                            "text": "Integramos las modalidades de pago disponibles para tu operación y consolidamos la información necesaria para conciliar ventas, entregas y fondos."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "paises",
+                "data": {
+                    "id": "mercados",
+                    "eyebrow": "Cobertura",
+                    "heading": "Adapta la operación a cada país, sin perder el control regional",
+                    "items": [
+                        {
+                            "code": "mx",
+                            "pais": "México",
+                            "text": "Diseña una operación que conecte inventario, preparación de pedidos, cobertura de entrega y alternativas de pago para tus compradores."
+                        },
+                        {
+                            "code": "co",
+                            "pais": "Colombia",
+                            "text": "Gestiona pedidos, entregas y recaudo con visibilidad sobre el desempeño de tu operación."
+                        },
+                        {
+                            "code": "pe",
+                            "pais": "Perú",
+                            "text": "Incorpora un nuevo mercado a tu estrategia regional con procesos de fulfillment, distribución y seguimiento coordinados."
+                        }
+                    ],
+                    "photos": "/assets/images/soluciones/expandirse-en-latam/4.webp",
+                    "nota": "La configuración final de cada país depende del producto, el modelo comercial y los requisitos aplicables."
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "theme": "dark",
+                    "eyebrow": "Tu operación en una sola vista",
+                    "heading": "Crece con una visión de toda tu operación",
+                    "text": "Consulta el estado de tus pedidos y coordina las etapas de la operación desde un mismo punto de contacto. Al expandirte a otro mercado, trabajamos sobre un modelo regional que puedes adaptar, en lugar de organizar una red nueva de proveedores por tu cuenta.",
+                    "btn": {
+                        "label": "Conocer la plataforma",
+                        "url": "#evaluacion"
+                    },
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-house",
+                                "Inicio"
+                            ],
+                            [
+                                "fa-table-cells-large",
+                                "Pedidos"
+                            ],
+                            [
+                                "fa-warehouse",
+                                "Inventario"
+                            ],
+                            [
+                                "fa-truck",
+                                "Envíos"
+                            ],
+                            [
+                                "fa-wallet",
+                                "Recaudos"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reportes"
+                            ]
+                        ],
+                        "nav_on": 1,
+                        "title": "Pedidos",
+                        "tabs": [
+                            "Todos",
+                            "México",
+                            "Colombia",
+                            "Perú"
+                        ],
+                        "filters": [
+                            "search:Buscar pedido, cliente o guía…",
+                            "Últimos 30 días"
+                        ],
+                        "columns": [
+                            "Pedido",
+                            "País",
+                            "Cliente",
+                            "Estado",
+                            "Fecha"
+                        ],
+                        "rows": [
+                            [
+                                "KI-78456",
+                                "MX",
+                                "Ana Torres",
+                                {
+                                    "pill": "info",
+                                    "text": "En tránsito"
+                                },
+                                "12 abr 2026"
+                            ],
+                            [
+                                "KI-78455",
+                                "CO",
+                                "Juan Pérez",
+                                {
+                                    "pill": "ok",
+                                    "text": "Entregado"
+                                },
+                                "11 abr 2026"
+                            ],
+                            [
+                                "KI-78454",
+                                "PE",
+                                "María López",
+                                {
+                                    "pill": "warn",
+                                    "text": "Preparando"
+                                },
+                                "11 abr 2026"
+                            ],
+                            [
+                                "KI-78453",
+                                "MX",
+                                "Carlos Ruiz",
+                                {
+                                    "pill": "ok",
+                                    "text": "Entregado"
+                                },
+                                "10 abr 2026"
+                            ],
+                            [
+                                "KI-78452",
+                                "CO",
+                                "Sofía Ramírez",
+                                {
+                                    "pill": "info",
+                                    "text": "En tránsito"
+                                },
+                                "10 abr 2026"
+                            ]
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Tu siguiente mercado",
+                    "heading": "Hablemos de tu próximo mercado",
+                    "text": "Cuéntanos qué vendes, dónde quieres operar y cuántos pedidos proyectas. Revisaremos contigo la ruta logística y de recaudo más adecuada para iniciar.",
+                    "btn": {
+                        "label": "Diseñar mi expansión",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/expandirse-en-latam/3.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "escalar-mi-operacion:es": {
+        "title": "Escalar mi operación",
+        "lang": "es",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "heading": "Haz crecer tus ventas. Mantén el control de cada pedido.",
+                    "subtitle": "Expande tu operación en México, Colombia, Perú y Estados Unidos con una solución logística que conecta inventario, preparación de pedidos y entregas. Kiki coordina los procesos y te da visibilidad para tomar decisiones a medida que crece tu volumen.",
+                    "btn_primary": {
+                        "label": "Diseñar mi solución logística",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Ver cómo funciona",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/escalar-mi-operacion/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "heading": "Vender más exige una operación capaz de responder.",
+                    "text": "Cuando aumentan los pedidos o abres un nuevo mercado, también crecen las tareas de almacenamiento, preparación, despacho y seguimiento. Gestionarlas por separado dificulta detectar problemas y mantener una experiencia consistente para tus clientes.",
+                    "solucion": "Kiki conecta estas etapas para que puedas ampliar tu alcance con mayor claridad sobre lo que sucede en cada mercado.",
+                    "items": [
+                        {
+                            "icon": "fa-building-columns",
+                            "title": "Inventario preparado para crecer",
+                            "text": "Organizamos el almacenamiento y la gestión de tus productos según los mercados y el volumen de tu operación."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Pedidos conectados con la operación",
+                            "text": "Centralizamos la información de tus órdenes para facilitar su preparación, despacho y seguimiento."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Entregas con visibilidad",
+                            "text": "Coordinamos la última milla y te ayudamos a consultar el estado de tus envíos, desde la salida del pedido hasta su entrega."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/escalar-mi-operacion/2.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "Un proceso simple y conectado",
+                    "heading": "De tus productos a nuevos mercados",
+                    "sub": "Conectamos las etapas de tu operación logística para que puedas gestionar más pedidos y ampliar tu cobertura.",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Entendemos tu operación",
+                            "text": "Revisamos dónde vendes, qué productos manejas, tu volumen de pedidos y los mercados a los que quieres llegar."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "Preparamos la operación",
+                            "text": "Definimos el modelo de almacenamiento, gestión de inventario y procesamiento de pedidos adecuado para tu negocio."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Coordinamos cada pedido",
+                            "text": "Conectamos la preparación, el despacho y la entrega con la información necesaria para darles seguimiento."
+                        },
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Acompañamos tu crecimiento",
+                            "text": "Revisamos el desempeño de la operación y ajustamos el modelo conforme cambian tus volúmenes y necesidades."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibilidad y control",
+                    "heading": "Una visión clara de tu operación",
+                    "text": "Consulta tus pedidos, inventario y envíos desde una misma plataforma. Identifica qué órdenes están en preparación, cuáles van en camino y cuáles ya fueron entregadas para actuar con información oportuna.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Pedidos"
+                            ],
+                            [
+                                "fa-warehouse",
+                                "Inventario"
+                            ],
+                            [
+                                "fa-file-lines",
+                                "Fulfillment"
+                            ],
+                            [
+                                "fa-truck",
+                                "Envíos"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reportes"
+                            ]
+                        ],
+                        "title": "Pedidos",
+                        "filters": [
+                            "Todos los mercados",
+                            "Todos los estados",
+                            "Todo el periodo",
+                            "search:"
+                        ],
+                        "columns": [
+                            "Pedido",
+                            "Mercado",
+                            "Estado",
+                            "Entrega"
+                        ],
+                        "rows": [
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx",
+                                    "text": "México"
+                                },
+                                {
+                                    "pill": "warn",
+                                    "text": "En preparación"
+                                },
+                                "—"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co",
+                                    "text": "Colombia"
+                                },
+                                {
+                                    "pill": "info",
+                                    "text": "En camino"
+                                },
+                                "—"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "pe",
+                                    "text": "Perú"
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Entregado"
+                                },
+                                "—"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                "Estados Unidos",
+                                {
+                                    "pill": "warn",
+                                    "text": "En preparación"
+                                },
+                                "—"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx",
+                                    "text": "México"
+                                },
+                                {
+                                    "pill": "info",
+                                    "text": "En camino"
+                                },
+                                "—"
+                            ]
+                        ],
+                        "aside": {
+                            "title": "Operación",
+                            "cards": [
+                                {
+                                    "icon": "fa-check",
+                                    "tone": "ok",
+                                    "title": "Listos para enviar",
+                                    "bar": 72
+                                },
+                                {
+                                    "icon": "fa-truck",
+                                    "title": "En camino",
+                                    "bar": 48
+                                },
+                                {
+                                    "icon": "fa-warehouse",
+                                    "title": "Inventario disponible",
+                                    "bar": 85
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "Una operación. Más posibilidades de crecimiento.",
+                    "heading": "Crece en más mercados con una operación conectada.",
+                    "text": "Coordina inventario, fulfillment y última milla en México, Colombia, Perú y Estados Unidos. Ten una visión conjunta de tus pedidos mientras adaptas la operación al ritmo de tu negocio.",
+                    "btn": {
+                        "label": "Diseñar mi solución logística",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/escalar-mi-operacion/5.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Empieza hoy",
+                    "heading": "Hablemos de cómo escalar tu operación",
+                    "text": "Cuéntanos en qué mercados vendes, cuántos pedidos gestionas y hacia dónde quieres crecer. Revisaremos contigo la solución logística más adecuada para tu negocio.",
+                    "btn": {
+                        "label": "Diseñar mi solución logística",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/expandirse-en-latam/3.webp",
+                    "labels": [
+                        [
+                            "fa-location-dot",
+                            "Dónde vendes"
+                        ],
+                        [
+                            "fa-chart-simple",
+                            "Volumen de pedidos"
+                        ],
+                        [
+                            "fa-earth-americas",
+                            "Mercados de expansión"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "planear-mi-expansion:es": {
+        "title": "Planear mi expansión",
+        "lang": "es",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "heading": "Lleva tus ofertas a LATAM con un plan para cada mercado.",
+                    "subtitle": "México, Colombia y Perú ofrecen oportunidades distintas para una red CPA. Kiki te ayuda a evaluar dónde lanzar, cómo preparar la operación de cada oferta y qué información necesitas para decidir si es momento de escalar.",
+                    "btn_primary": {
+                        "label": "Planear mi expansión",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explorar los mercados",
+                        "url": "#mercados"
+                    },
+                    "img": "/assets/images/soluciones/planear-mi-expansion/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "heading": "Una buena oferta necesita más que tráfico para crecer.",
+                    "text": [
+                        "El interés del consumidor es solo una parte de la decisión. Antes de activar una campaña, necesitas entender el tamaño de la oportunidad, el precio posible, las formas de pago, las condiciones de entrega y los requisitos del producto en cada país.",
+                        "Con Kiki puedes convertir esa evaluación en un plan operativo: elegir mercados, preparar inventario y fulfillment, definir el recorrido del pedido y seguir los resultados que realmente generan ingresos."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-users",
+                            "title": "Mercado y consumidor",
+                            "text": "Revisa la demanda digital y adapta el mensaje, el precio y la experiencia de compra a cada país."
+                        },
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Viabilidad de la oferta",
+                            "text": "Evalúa producto, documentación, modelo de pago, costos y margen antes de comprometer presupuesto de medios."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Operación para el lanzamiento",
+                            "text": "Prepara inventario, gestión de pedidos, confirmación, entregas y recaudo según las condiciones de la oferta."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/planear-mi-expansion/2.webp"
+                }
+            },
+            {
+                "type": "paises",
+                "data": {
+                    "id": "mercados",
+                    "eyebrow": "Tres mercados para explorar",
+                    "heading": "¿Dónde podría funcionar tu próxima oferta?",
+                    "items": [
+                        {
+                            "code": "mx",
+                            "pais": "México",
+                            "stats": [
+                                {
+                                    "value": "77,2 M",
+                                    "label": "compradores digitales"
+                                },
+                                {
+                                    "value": "MXN 941 mil millones",
+                                    "label": "ventas online retail"
+                                }
+                            ],
+                            "source": "2025 · AMVO",
+                            "eval_label": "Ver qué evaluar",
+                            "eval": [
+                                "77,2 millones de compradores digitales y MXN 941 mil millones en ventas de comercio electrónico minorista son las cifras destacadas por AMVO para 2025. INEGI estimó 104,9 millones de personas usuarias de internet, equivalentes al 86,1 % de la población de seis años o más, ese mismo año.",
+                                "Qué evaluar para una oferta CPA: segmentos y regiones prioritarias, precio en pesos mexicanos, demanda de la categoría, costo de adquisición, cobertura de entrega y resultado final de los pedidos. El tamaño del mercado hace especialmente útil probar por zonas y audiencias antes de ampliar la inversión."
+                            ],
+                            "enfoque": "Enfoque de prueba: una oferta, una audiencia definida y métricas de pedidos confirmados, entregados y rentables.",
+                            "enfoque_icon": "fa-crosshairs"
+                        },
+                        {
+                            "code": "co",
+                            "pais": "Colombia",
+                            "stats": [
+                                {
+                                    "value": "684,6 M",
+                                    "label": "compras online"
+                                },
+                                {
+                                    "value": "COP 105,7 billones",
+                                    "label": "ventas online"
+                                }
+                            ],
+                            "source": "2025 · CCCE",
+                            "eval_label": "Ver qué evaluar",
+                            "eval": [
+                                "Durante 2025, la Cámara Colombiana de Comercio Electrónico registró COP 105,7 billones en ventas en línea a valor real y 684,6 millones de compras. El ticket nominal promedio fue COP 212.373. En valor de transacciones, el débito a cuenta bancaria o PSE representó el 57,2 %.",
+                                "Qué evaluar para una oferta CPA: precio en pesos colombianos, preferencia de pago del público objetivo, confirmación del pedido, cobertura por ciudad y costo de entrega. El ticket promedio del comercio electrónico general es una referencia de contexto; no predice el precio óptimo de una oferta concreta."
+                            ],
+                            "enfoque": "Enfoque de prueba: medir el recorrido desde el lead hasta el pedido entregado y el dinero efectivamente recaudado.",
+                            "enfoque_icon": "fa-truck"
+                        },
+                        {
+                            "code": "pe",
+                            "pais": "Perú",
+                            "stats": [
+                                {
+                                    "value": "18,7 M",
+                                    "label": "compradores online"
+                                },
+                                {
+                                    "value": "8,8 %",
+                                    "label": "penetración en retail"
+                                }
+                            ],
+                            "source": "2024–2025 · CAPECE",
+                            "eval_label": "Ver qué evaluar",
+                            "eval": [
+                                "El Observatorio Ecommerce Perú 2024–2025 de CAPECE reporta 18,7 millones de compradores en línea, 335.000 comercios que venden online y una penetración del comercio electrónico de 8,8 % en el retail. El observatorio estima además que los marketplaces concentran el 40 % del comercio electrónico.",
+                                "Qué evaluar para una oferta CPA: precio en soles, demanda por región, disponibilidad del producto, alternativas de pago y desempeño de la entrega. La concentración en marketplaces es una señal para estudiar las expectativas de compra y confianza del consumidor, incluso si la oferta se vende mediante una landing propia."
+                            ],
+                            "enfoque": "Enfoque de prueba: validar una región y un segmento antes de ampliar cobertura y presupuesto.",
+                            "enfoque_icon": "fa-credit-card"
+                        }
+                    ],
+                    "btn": {
+                        "label": "Evaluar mi oferta para LATAM",
+                        "url": "#evaluacion"
+                    }
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "Un proceso para tomar decisiones",
+                    "heading": "De la oportunidad al lanzamiento",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Evaluamos la oferta",
+                            "text": "Revisamos categoría, producto, público, propuesta de valor, precio objetivo y mercados de interés."
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Definimos el mercado de prueba",
+                            "text": "Contrastamos demanda, condiciones comerciales, formas de pago, cobertura y requisitos aplicables al producto."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Preparamos la operación",
+                            "text": "Acordamos cómo se gestionarán inventario, pedidos, confirmación, fulfillment, entrega y recaudo."
+                        },
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Medimos antes de escalar",
+                            "text": "Comparamos inversión y resultados por país para decidir qué oferta, audiencia o mercado merece más presupuesto."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibilidad para redes CPA",
+                    "heading": "Mira más allá de los leads.",
+                    "text": "Una campaña puede generar registros y aun así no producir pedidos rentables. Para decidir dónde escalar, conecta el desempeño del tráfico con el resultado de la operación.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-earth-americas",
+                                "Mercados"
+                            ],
+                            [
+                                "fa-tag",
+                                "Ofertas"
+                            ],
+                            [
+                                "fa-table-cells-large",
+                                "Pedidos"
+                            ],
+                            [
+                                "fa-truck",
+                                "Entregas"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reportes"
+                            ]
+                        ],
+                        "title": "Mercados",
+                        "filters": [
+                            "Todos los países",
+                            "Todas las ofertas",
+                            "Últimos 30 días",
+                            "search:"
+                        ],
+                        "columns": [
+                            "País",
+                            "Oferta",
+                            "Leads",
+                            "Confirmados",
+                            "Entregados",
+                            "Recaudado",
+                            "Margen"
+                        ],
+                        "rows": [
+                            [
+                                {
+                                    "map": "mx",
+                                    "text": "México"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "bar": 62
+                                }
+                            ],
+                            [
+                                {
+                                    "map": "co",
+                                    "text": "Colombia"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "bar": 48
+                                }
+                            ],
+                            [
+                                {
+                                    "map": "pe",
+                                    "text": "Perú"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "bar": 55
+                                }
+                            ]
+                        ],
+                        "aside": {
+                            "title": "Información clave",
+                            "icon": "fa-circle-info",
+                            "cards": [
+                                {
+                                    "icon": "fa-users",
+                                    "title": "Tasa de confirmación",
+                                    "bar": 68
+                                },
+                                {
+                                    "icon": "fa-truck",
+                                    "title": "Tasa de entrega",
+                                    "bar": 74
+                                },
+                                {
+                                    "icon": "fa-dollar-sign",
+                                    "tone": "ok",
+                                    "title": "Margen por pedido entregado",
+                                    "bar": 52
+                                }
+                            ]
+                        }
+                    },
+                    "summary_title": "Vista sugerida por país y oferta:",
+                    "summary": [
+                        [
+                            "Adquisición",
+                            "Inversión, leads y CPL"
+                        ],
+                        [
+                            "Pedidos",
+                            "Creados y confirmados"
+                        ],
+                        [
+                            "Operación",
+                            "Despachados, entregados y devueltos"
+                        ],
+                        [
+                            "Resultado",
+                            "Recaudo, costo total y margen"
+                        ]
+                    ],
+                    "note": "Compara la tasa de confirmación, la tasa de entrega sobre pedidos confirmados y el margen por pedido entregado. Así podrás distinguir una oferta que atrae clics de una que sostiene el crecimiento del negocio."
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "Una estrategia para cada mercado",
+                    "heading": "Prueba con criterio. Escala con información.",
+                    "text": "México, Colombia y Perú no requieren la misma combinación de precio, mensaje, pago y operación. Kiki conecta la planeación de mercado con la ejecución logística para ayudarte a lanzar ofertas, observar su desempeño y ampliar las que demuestren potencial.",
+                    "btn": {
+                        "label": "Planear mi expansión",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/planear-mi-expansion/5.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Empieza hoy",
+                    "heading": "Hablemos de tu próxima oferta en LATAM.",
+                    "text": "Cuéntanos qué producto quieres lanzar, a qué público te diriges, en qué países te interesa operar y qué volumen esperas. Revisaremos contigo las condiciones comerciales y operativas necesarias para diseñar una prueba de mercado.",
+                    "btn": {
+                        "label": "Planear mi expansión",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/expandirse-en-latam/3.webp",
+                    "labels": [
+                        [
+                            "fa-cube",
+                            "Tu oferta"
+                        ],
+                        [
+                            "fa-location-dot",
+                            "Países de interés"
+                        ],
+                        [
+                            "fa-chart-simple",
+                            "Volumen esperado"
+                        ],
+                        [
+                            "fa-dollar-sign",
+                            "Modelo de pago"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "vender-con-cod:es": {
+        "title": "Vender con COD",
+        "lang": "es",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "crumb": "Pago contra entrega",
+                    "heading": "Vende con pago contra entrega en LATAM",
+                    "subtitle": "Permite que tus clientes paguen cuando reciban su pedido. Kiki conecta la confirmación de órdenes, el fulfillment, la entrega, el recaudo y la conciliación en una operación COD coordinada para México, Colombia y Perú.",
+                    "btn_primary": {
+                        "label": "Diseñar mi operación COD",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Ver cómo funciona",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/vender-con-cod/2.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "eyebrow": "Por qué vender con COD",
+                    "heading": "Una operación COD va más allá del momento de compra",
+                    "text": "Un pedido realizado todavía no es un pedido entregado ni pagado. Las direcciones incorrectas, las entregas fallidas y los registros de recaudo incompletos pueden afectar tus resultados. Kiki te ayuda a gestionar cada etapa para que sepas qué ocurrió con cada orden y cuánto se recaudó.",
+                    "items": [
+                        {
+                            "icon": "fa-mobile-screen",
+                            "title": "Confirmar pedidos",
+                            "text": "Verificamos los datos de la orden y contactamos al comprador antes del despacho, según el flujo definido para tu negocio."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Coordinar entregas",
+                            "text": "Preparamos los pedidos, asignamos las entregas y hacemos seguimiento a su estado en los mercados donde operas."
+                        },
+                        {
+                            "icon": "fa-wallet",
+                            "title": "Controlar el recaudo",
+                            "text": "Relacionamos el resultado de cada entrega con sus registros de pago para facilitar la conciliación y liquidación."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/vender-con-cod/1.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "Cómo funciona",
+                    "heading": "Del pedido al recaudo: un proceso conectado",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Configuramos tu operación COD",
+                            "text": "Definimos los países, productos, flujo de pedidos y condiciones de pago adecuados para tu negocio."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Confirmamos y preparamos los pedidos",
+                            "text": "Las órdenes ingresan al proceso de confirmación, asignación de inventario y preparación."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Entregamos y gestionamos incidencias",
+                            "text": "Coordinamos la última milla y damos seguimiento a los problemas de entrega o reprogramaciones cuando sea necesario."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Conciliamos y liquidamos",
+                            "text": "Consolidamos la información de pedidos, entregas y recaudos para que puedas revisar los resultados y conciliar los fondos recibidos."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibilidad de tu operación",
+                    "heading": "Conoce qué pasa después de cada compra",
+                    "text": "Consulta qué pedidos están confirmados, en tránsito, entregados, reprogramados o devueltos. Relacionar estos resultados con el recaudo te ayuda a identificar dónde se pierden órdenes y a tomar mejores decisiones sobre campañas, productos y mercados.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Pedidos"
+                            ],
+                            [
+                                "fa-warehouse",
+                                "Inventario"
+                            ],
+                            [
+                                "fa-truck",
+                                "Envíos"
+                            ],
+                            [
+                                "fa-wallet",
+                                "Recaudos"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reportes"
+                            ]
+                        ],
+                        "title": "Pedidos",
+                        "tabs": [
+                            "Todos",
+                            "Confirmado",
+                            "En tránsito",
+                            "Entregado",
+                            "Reprogramado",
+                            "Devuelto"
+                        ],
+                        "filters": [
+                            "search:Buscar pedidos, cliente o guía…",
+                            "Últimos 30 días"
+                        ],
+                        "columns": [
+                            "Pedido",
+                            "Cliente",
+                            "País",
+                            "Estado",
+                            "Última actualización"
+                        ],
+                        "rows": [
+                            [
+                                "KI-101248",
+                                "Ana Torres",
+                                "México",
+                                {
+                                    "pill": "info",
+                                    "text": "Confirmado"
+                                },
+                                "12 abr 2026"
+                            ],
+                            [
+                                "KI-101247",
+                                "Luis García",
+                                "Colombia",
+                                {
+                                    "pill": "warn",
+                                    "text": "En tránsito"
+                                },
+                                "11 abr 2026"
+                            ],
+                            [
+                                "KI-101246",
+                                "Sofía Ramírez",
+                                "Perú",
+                                {
+                                    "pill": "ok",
+                                    "text": "Entregado"
+                                },
+                                "10 abr 2026"
+                            ],
+                            [
+                                "KI-101245",
+                                "Carlos Díaz",
+                                "México",
+                                {
+                                    "pill": "warn",
+                                    "text": "Reprogramado"
+                                },
+                                "10 abr 2026"
+                            ],
+                            [
+                                "KI-101244",
+                                "Valentina Cruz",
+                                "Colombia",
+                                {
+                                    "pill": "bad",
+                                    "text": "Devuelto"
+                                },
+                                "09 abr 2026"
+                            ]
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "Una solución para marcas en LATAM",
+                    "heading": "COD para tu crecimiento regional",
+                    "text": "Si tienes una marca de venta directa o gestionas ofertas de alto volumen, necesitas una operación COD ajustada a tus pedidos y países de destino. Kiki conecta la logística y el recaudo para que puedas expandirte con mayor visibilidad sobre las entregas y los pagos.",
+                    "btn": {
+                        "label": "Diseñar mi operación COD",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/vender-con-cod/5.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Comienza hoy",
+                    "heading": "Diseñemos tu operación COD",
+                    "text": "Cuéntanos qué vendes, dónde quieres entregar y cuántos pedidos esperas al mes. Revisaremos el modelo operativo que se ajusta a tu negocio.",
+                    "btn": {
+                        "label": "Diseñar mi operación COD",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/vender-con-cod/6.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "kiki-pay:es": {
+        "title": "Kiki Pay",
+        "lang": "es",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "heading": "Más formas de pagar. Una operación conectada.",
+                    "subtitle": "Ofrece a tus compradores opciones de pago adecuadas a su mercado desde una experiencia de checkout desarrollada por Kiki. El resultado del pago se vincula con la orden para que tu equipo pueda seguir el proceso comercial y logístico desde un mismo lugar.",
+                    "btn_primary": {
+                        "label": "Conocer Kiki Pay",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Ver cómo funciona",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/kiki-pay/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "heading": "Una venta no termina cuando el comprador hace el pedido.",
+                    "text": "Al momento de pagar, una persona puede preferir una transferencia, necesitar usar una tarjeta o buscar una alternativa familiar en su país. Si la opción disponible no se ajusta a su situación, completar la compra se vuelve más difícil.",
+                    "solucion": "Kiki Pay reúne las opciones habilitadas para tu operación en un checkout y conecta el resultado con la gestión del pedido. Así, tu equipo puede distinguir entre una orden creada, un intento de pago y un pago confirmado.",
+                    "items": [
+                        {
+                            "icon": "fa-globe",
+                            "title": "Opciones adaptadas al mercado",
+                            "text": "Presenta las alternativas disponibles para tu operación según el país y las integraciones habilitadas."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Una experiencia de checkout bajo Kiki",
+                            "text": "El comprador consulta su pedido y elige cómo desea pagar. Los pasos finales se completan en el entorno del proveedor correspondiente."
+                        },
+                        {
+                            "icon": "fa-link",
+                            "title": "Pagos vinculados con órdenes",
+                            "text": "Consulta el estado del pago junto con la información del pedido para dar seguimiento al siguiente paso de la operación."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/kiki-pay/2.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "Una experiencia conectada",
+                    "heading": "Del pedido al resultado del pago",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Recibimos la orden",
+                            "text": "La información del pedido ingresa a la plataforma de Kiki."
+                        },
+                        {
+                            "icon": "fa-link",
+                            "title": "Compartimos el enlace de pago",
+                            "text": "El comprador accede a un checkout donde puede revisar su compra y las opciones habilitadas."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "El comprador elige cómo pagar",
+                            "text": "Selecciona una alternativa y completa los pasos requeridos por el proveedor que presta el servicio de pago."
+                        },
+                        {
+                            "icon": "fa-circle-check",
+                            "title": "Actualizamos el seguimiento",
+                            "text": "El resultado informado se vincula con la orden para que tu equipo pueda continuar su gestión."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "paises",
+                "data": {
+                    "id": "mercados",
+                    "layout": "split",
+                    "eyebrow": "México, Colombia y Perú",
+                    "heading": "Una solución pensada para distintos hábitos de pago.",
+                    "text": "Los compradores no pagan de la misma manera en todos los mercados. Kiki Pay está diseñado para reunir alternativas locales en México, Colombia y Perú, de acuerdo con los métodos e integraciones disponibles para cada operación.",
+                    "items": [
+                        {
+                            "code": "mx",
+                            "pais": "México",
+                            "text": "Explora las opciones habilitadas para tus compradores y acompaña el seguimiento del pago junto con el pedido."
+                        },
+                        {
+                            "code": "co",
+                            "pais": "Colombia",
+                            "text": "Ofrece alternativas acordes con el mercado local y consulta el resultado de cada intento en la gestión de la orden."
+                        },
+                        {
+                            "code": "pe",
+                            "pais": "Perú",
+                            "text": "Incorpora las opciones disponibles para tu operación en una experiencia de compra conectada con Kiki."
+                        }
+                    ],
+                    "btn": {
+                        "label": "Consultar opciones disponibles para mi operación",
+                        "url": "#evaluacion"
+                    }
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibilidad y control",
+                    "heading": "Conoce el estado de cada intento de pago.",
+                    "text": "Consulta qué órdenes tienen un pago confirmado, cuáles requieren seguimiento y cuáles presentan un intento fallido o vencido. Mantener separados el intento y la confirmación te ayuda a tomar decisiones antes de continuar con la gestión del pedido.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Órdenes"
+                            ],
+                            [
+                                "fa-wallet",
+                                "Cobros"
+                            ],
+                            [
+                                "fa-scale-balanced",
+                                "Conciliación"
+                            ],
+                            [
+                                "fa-building-columns",
+                                "Liquidación"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reportes"
+                            ]
+                        ],
+                        "title": "Órdenes",
+                        "filters": [
+                            "Todos los países",
+                            "Todas las opciones",
+                            "Todos los estados"
+                        ],
+                        "columns": [
+                            "Orden",
+                            "País",
+                            "Opción elegida",
+                            "Estado del pago",
+                            "Siguiente acción"
+                        ],
+                        "rows": [
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Pago confirmado"
+                                },
+                                "Continuar con la operación"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "warn",
+                                    "text": "Pendiente"
+                                },
+                                "Revisar estado"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "pe"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "bad",
+                                    "text": "Intento fallido"
+                                },
+                                "Reintentar pago"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "mute",
+                                    "text": "Vencido"
+                                },
+                                "Revisar con el comprador"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Pago confirmado"
+                                },
+                                "Continuar con la operación"
+                            ]
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "Pagos y pedidos en una misma operación",
+                    "heading": "Conecta la experiencia de pago con lo que sucede después.",
+                    "text": "Kiki Pay une el checkout con la gestión de órdenes de Kiki LATAM. Tu equipo puede seguir el resultado del pago y contar con información para coordinar el siguiente paso, desde el seguimiento de una incidencia hasta la preparación del pedido, según las condiciones definidas para tu operación.",
+                    "btn": {
+                        "label": "Conocer Kiki Pay",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/kiki-pay/6.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Empieza hoy",
+                    "heading": "Hablemos de cómo pagan tus compradores.",
+                    "text": "Cuéntanos en qué países vendes, cómo recibes tus pedidos y qué opciones de pago necesitas ofrecer. Revisaremos contigo los métodos disponibles, el recorrido del comprador y la forma de conectar el pago con tu operación logística.",
+                    "btn": {
+                        "label": "Consultar Kiki Pay para mi negocio",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/kiki-pay/5.webp",
+                    "labels": [
+                        [
+                            "fa-location-dot",
+                            "Países donde vendes"
+                        ],
+                        [
+                            "fa-store",
+                            "Canales de venta"
+                        ],
+                        [
+                            "fa-credit-card",
+                            "Opciones de pago"
+                        ],
+                        [
+                            "fa-table-cells-large",
+                            "Gestión de pedidos"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "logra-mas-entregas-efectivas:es": {
+        "title": "Logra más entregas efectivas",
+        "lang": "es",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "crumb": "Efectividad en entregas",
+                    "heading": "Logra más entregas efectivas",
+                    "subtitle": "Cada pedido que no llega al comprador afecta tus resultados. Kiki combina validación de direcciones, gestión de call center y una plataforma desde la que puedes reasignar entregas no efectivas para darles una nueva oportunidad.",
+                    "btn_primary": {
+                        "label": "Mejorar mi efectividad de entrega",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Ver cómo funciona",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/logra-mas-entregas-efectivas/2.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "eyebrow": "Prevenir y resolver problemas",
+                    "heading": "Actúa antes y después de cada intento de entrega",
+                    "text": "Una dirección incompleta puede impedir que el pedido llegue a destino. Un comprador que no está disponible puede hacer fallar la entrega. Y una orden no efectiva que queda sin gestionar puede terminar en una devolución.",
+                    "solucion": "Nuestra solución interviene en tres momentos:",
+                    "items": [
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Validador de direcciones",
+                            "text": "Identifica direcciones incompletas o inconsistentes antes del despacho para que puedas corregir la información y evitar intentos fallidos por problemas en el destino."
+                        },
+                        {
+                            "icon": "fa-headset",
+                            "title": "Call center",
+                            "text": "Contacta a los compradores según el flujo definido para tu operación. La confirmación de datos y el seguimiento de pedidos ayudan a resolver dudas antes de que afecten la entrega."
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "title": "Reasignación desde la plataforma",
+                            "text": "Cuando una entrega resulta no efectiva, puedes revisar la orden en la plataforma de Kiki y asignarla nuevamente para otro día. Un nuevo intento aumenta la oportunidad de completar esa entrega."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/logra-mas-entregas-efectivas/1.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "Un proceso simple y conectado",
+                    "heading": "Así gestionas cada pedido",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Validamos la dirección",
+                            "text": "Revisamos los datos de destino para identificar información que requiere corrección."
+                        },
+                        {
+                            "icon": "fa-user",
+                            "title": "Confirmamos la información",
+                            "text": "El call center interviene según las reglas acordadas para tu operación y registra el resultado del contacto."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Seguimos el intento de entrega",
+                            "text": "Puedes consultar si el pedido fue entregado o quedó marcado como no efectivo."
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "title": "Decides si haces un nuevo intento",
+                            "text": "Desde la plataforma, revisas las entregas no efectivas y reasignas las órdenes seleccionadas para entrega otro día."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Reasignación de entregas",
+                    "heading": "De un intento no efectivo a una nueva oportunidad",
+                    "text": "Tu equipo decide qué pedidos reasignar en la plataforma.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Pedidos"
+                            ],
+                            [
+                                "fa-warehouse",
+                                "Inventario"
+                            ],
+                            [
+                                "fa-truck",
+                                "Envíos"
+                            ],
+                            [
+                                "fa-user",
+                                "Compradores"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reportes"
+                            ]
+                        ],
+                        "title": "Detalle del pedido",
+                        "back": true,
+                        "detail": {
+                            "order": "Pedido KI-38472",
+                            "status": "Entrega no efectiva",
+                            "info": {
+                                "Comprador": "Mariana Torres",
+                                "Dirección": "Av. Siempre Viva 1234, Lima, Perú",
+                                "Último intento": "12 mar. 2026, 2:15 p. m."
+                            },
+                            "link": "Ver historial de entrega",
+                            "action": {
+                                "title": "Reasignar entrega",
+                                "text": "Selecciona otra fecha para un nuevo intento de entrega.",
+                                "field": "Selecciona otra fecha",
+                                "value": "18 mar. 2026",
+                                "btn": "Reasignar entrega"
+                            },
+                            "result": {
+                                "title": "Programado para otro intento",
+                                "text": "El pedido ha sido reasignado y está programado para un nuevo intento de entrega.",
+                                "field": "Nueva fecha de entrega",
+                                "value": "18 mar. 2026",
+                                "link": "Ver pedido"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "Visibilidad en todos los resultados de pedidos",
+                    "heading": "La efectividad es el indicador central",
+                    "text": "Identifica cuántos pedidos se entregan y cuáles quedan pendientes tras un intento. Al ver las causas de no efectividad y gestionar nuevamente las órdenes que tienen posibilidad de entrega, puedes tomar decisiones para mejorar el resultado de tu operación.",
+                    "btn": {
+                        "label": "Mejorar mi efectividad de entrega",
+                        "url": "#evaluacion"
+                    },
+                    "chips": [
+                        {
+                            "icon": "fa-truck",
+                            "label": "Intento de entrega"
+                        },
+                        {
+                            "icon": "fa-circle-xmark",
+                            "label": "Entrega no efectiva",
+                            "tone": "bad"
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "label": "Reasignado por tu equipo"
+                        },
+                        {
+                            "icon": "fa-truck-fast",
+                            "label": "Nuevo intento"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Comienza hoy",
+                    "heading": "Dale seguimiento a las entregas que aún puedes completar",
+                    "text": "Cuéntanos cuál es tu efectividad actual, cuántos pedidos despachas y en qué mercados operas. Revisaremos cómo integrar el validador de direcciones, el call center y la reasignación de entregas a tu proceso.",
+                    "btn": {
+                        "label": "Mejorar mi efectividad de entrega",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/logra-mas-entregas-efectivas/5.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "recauda-y-recibe:es": {
+        "title": "Recauda y recibe",
+        "lang": "es",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "crumb": "Recaudo y liquidación",
+                    "heading": "Recauda en los mercados de LATAM. Recibe en tu moneda.",
+                    "subtitle": "Vende en México, Colombia y Perú mientras Kiki coordina el recaudo y la liquidación internacional de tus ventas. Mantén una visión clara de lo que se cobró, lo que está pendiente y el dinero que recibirás según las condiciones acordadas para tu operación.",
+                    "btn_primary": {
+                        "label": "Diseñar mi solución de recaudo",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Ver cómo funciona",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/recauda-y-recibe/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "heading": "Saber cuánto vendiste no basta. Necesitas saber cuánto se recaudó.",
+                    "text": "Entre una orden creada y el dinero recibido hay varias etapas que deben coincidir. Si los pedidos, las entregas y los cobros se revisan por separado, resulta difícil identificar diferencias y conocer el resultado financiero de cada mercado.",
+                    "solucion": "Kiki conecta esa información para que puedas seguir el recorrido del dinero de tus ventas.",
+                    "items": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Recaudo vinculado a tus pedidos",
+                            "text": "Relacionamos cada cobro con su orden y, cuando corresponde, con el resultado de la entrega."
+                        },
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Conciliación de ventas y cobros",
+                            "text": "Consolidamos la información para que puedas revisar lo vendido, lo recaudado y las órdenes que requieren atención."
+                        },
+                        {
+                            "icon": "fa-globe",
+                            "title": "Liquidación internacional",
+                            "text": "Organizamos la transferencia del dinero de tus ventas de acuerdo con la moneda, el calendario y las condiciones establecidas para tu negocio."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/recauda-y-recibe/2.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "Un proceso simple y conectado",
+                    "heading": "Del pedido a la liquidación",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Registramos la venta",
+                            "text": "La orden ingresa a la operación con la información necesaria para darle seguimiento."
+                        },
+                        {
+                            "icon": "fa-magnifying-glass",
+                            "title": "Identificamos el recaudo",
+                            "text": "Registramos el estado del cobro y lo relacionamos con el pedido correspondiente."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Conciliamos la información",
+                            "text": "Contrastamos órdenes, resultados de entrega y cobros para identificar diferencias antes de la liquidación."
+                        },
+                        {
+                            "icon": "fa-building-columns",
+                            "title": "Liquidamos tus ventas",
+                            "text": "Preparamos la liquidación y el envío del dinero de tus ventas según las condiciones acordadas."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibilidad y control",
+                    "heading": "Una visión clara de lo que cobrarás",
+                    "text": "Consulta qué órdenes ya fueron cobradas, cuáles están pendientes y qué ventas forman parte de cada liquidación. Esta visibilidad te ayuda a revisar diferencias y a planear tu operación con información más precisa.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Pedidos"
+                            ],
+                            [
+                                "fa-wallet",
+                                "Recaudos"
+                            ],
+                            [
+                                "fa-scale-balanced",
+                                "Conciliación"
+                            ],
+                            [
+                                "fa-building-columns",
+                                "Liquidación"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reportes"
+                            ]
+                        ],
+                        "title": "Pedidos",
+                        "filters": [
+                            "Todos los países",
+                            "Todos los estados del recaudo",
+                            "Todas las liquidaciones"
+                        ],
+                        "columns": [
+                            "Pedido",
+                            "País",
+                            "Estado del recaudo",
+                            "Liquidación"
+                        ],
+                        "rows": [
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx",
+                                    "text": "MX"
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Recaudado"
+                                },
+                                {
+                                    "link": "Incluido en liquidación"
+                                }
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co",
+                                    "text": "CO"
+                                },
+                                {
+                                    "pill": "warn",
+                                    "text": "Pendiente"
+                                },
+                                "En revisión"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "pe",
+                                    "text": "PE"
+                                },
+                                {
+                                    "pill": "mute",
+                                    "text": "En revisión"
+                                },
+                                "En revisión"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx",
+                                    "text": "MX"
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Recaudado"
+                                },
+                                {
+                                    "link": "Incluido en liquidación"
+                                }
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co",
+                                    "text": "CO"
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Recaudado"
+                                },
+                                {
+                                    "link": "Incluido en liquidación"
+                                }
+                            ]
+                        ],
+                        "aside": {
+                            "title": "Liquidación",
+                            "icon": "fa-building-columns",
+                            "cards": [
+                                {
+                                    "icon": "fa-check",
+                                    "tone": "ok",
+                                    "title": "Incluido en liquidación",
+                                    "text": "Órdenes con cobros exitosos incluidas en tu liquidación, según los términos acordados para tu operación."
+                                },
+                                {
+                                    "icon": "fa-clock",
+                                    "tone": "warn",
+                                    "title": "En revisión",
+                                    "text": "Órdenes pendientes o con cobros en revisión que se incluirán en una próxima liquidación una vez resueltas."
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "heading": "Una visión de todos tus mercados",
+                    "text": "Conecta pedidos y recaudos de México, Colombia y Perú y concilia tus ventas en un solo lugar.",
+                    "btn": {
+                        "label": "Diseñar mi solución de recaudo",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/recauda-y-recibe/5.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Empieza hoy",
+                    "heading": "Hablemos de tu operación de recaudo",
+                    "text": "Cuéntanos en qué mercados vendes, cuánto volumen gestionas y en qué moneda necesitas recibir el dinero de tus ventas. Revisaremos el modelo de recaudo y liquidación adecuado para tu negocio.",
+                    "btn": {
+                        "label": "Diseñar mi solución de recaudo",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/recauda-y-recibe/6.webp",
+                    "labels": [
+                        [
+                            "fa-location-dot",
+                            "Dónde vendes"
+                        ],
+                        [
+                            "fa-chart-simple",
+                            "Volumen de pedidos"
+                        ],
+                        [
+                            "fa-dollar-sign",
+                            "Moneda de recepción"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "expandirse-en-latam:en": {
+        "title": "Expand Across LATAM",
+        "lang": "en",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "crumb": "Regional expansion",
+                    "heading": "Expand across LATAM with one connected operation",
+                    "subtitle": "Reach Mexico, Colombia and Peru with an operation designed around your products, sales channels and order volume. Kiki coordinates the steps needed to serve customers in each market, from inventory and fulfillment to delivery, payment collection and settlement.",
+                    "btn_primary": {
+                        "label": "Plan my expansion",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "See how it works",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/expandirse-en-latam/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "eyebrow": "Why expand with Kiki",
+                    "heading": "Entering a new market should not mean starting from scratch",
+                    "text": "Expanding into another country brings several decisions at once: how to bring in your products, where to store them, who will prepare and deliver orders, and how you will collect payments. Working with separate providers for every step adds complexity and makes it harder to see how the operation is performing.",
+                    "solucion": "Kiki brings these steps together in a model built for your business.",
+                    "items": [
+                        {
+                            "icon": "fa-store",
+                            "title": "Market entry",
+                            "text": "We help define the logistics and operational setup for your products and target market."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Orders and deliveries",
+                            "text": "We connect inventory, order fulfillment, delivery and tracking in a coordinated process."
+                        },
+                        {
+                            "icon": "fa-wallet",
+                            "title": "Payments and settlement",
+                            "text": "We integrate the payment options available for your operation and provide the information needed to reconcile orders, collections and funds."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/expandirse-en-latam/2.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "How it works",
+                    "heading": "Your expansion roadmap, from start to finish",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Define the operation",
+                            "text": "We review your products, target countries, sales channels, expected volume and payment needs to design a practical route to market."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Prepare your inventory",
+                            "text": "We coordinate the logistics and documentation relevant to your operation, followed by inventory receipt and storage in the destination market."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Process and deliver orders",
+                            "text": "We connect your sales channels to order preparation, carrier assignment and shipment tracking."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Manage payments",
+                            "text": "We coordinate the available payment methods for your model and consolidate the information needed for reconciliation and settlement."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "paises",
+                "data": {
+                    "id": "mercados",
+                    "eyebrow": "Coverage",
+                    "heading": "Adapt your operation to each market",
+                    "items": [
+                        {
+                            "code": "mx",
+                            "pais": "Mexico",
+                            "text": "Connect inventory, fulfillment, delivery coverage and payment options in an operation designed for your customers in Mexico."
+                        },
+                        {
+                            "code": "co",
+                            "pais": "Colombia",
+                            "text": "Manage orders, deliveries and collections with visibility into your operation’s performance."
+                        },
+                        {
+                            "code": "pe",
+                            "pais": "Peru",
+                            "text": "Add Peru to your regional strategy with coordinated fulfillment, distribution and order tracking."
+                        }
+                    ],
+                    "photos": "/assets/images/soluciones/expandirse-en-latam/4.webp",
+                    "nota": "The setup in each country depends on your products, commercial model and applicable requirements."
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "theme": "dark",
+                    "eyebrow": "Your operation at a glance",
+                    "heading": "See your regional operation in one place",
+                    "text": "Follow your orders and coordinate the different stages of your operation through one point of contact. As you enter another market, we adapt the regional model to your needs so you can grow with greater operational visibility.",
+                    "btn": {
+                        "label": "Explore the platform",
+                        "url": "#evaluacion"
+                    },
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-house",
+                                "Home"
+                            ],
+                            [
+                                "fa-table-cells-large",
+                                "Orders"
+                            ],
+                            [
+                                "fa-warehouse",
+                                "Inventory"
+                            ],
+                            [
+                                "fa-truck",
+                                "Shipments"
+                            ],
+                            [
+                                "fa-wallet",
+                                "Collections"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reports"
+                            ]
+                        ],
+                        "nav_on": 1,
+                        "title": "Orders",
+                        "tabs": [
+                            "All",
+                            "Mexico",
+                            "Colombia",
+                            "Peru"
+                        ],
+                        "filters": [
+                            "search:Search order, customer or tracking…",
+                            "Last 30 days"
+                        ],
+                        "columns": [
+                            "Order",
+                            "Country",
+                            "Customer",
+                            "Status",
+                            "Date"
+                        ],
+                        "rows": [
+                            [
+                                "KI-78456",
+                                "MX",
+                                "Ana Torres",
+                                {
+                                    "pill": "info",
+                                    "text": "In transit"
+                                },
+                                "Apr 12, 2026"
+                            ],
+                            [
+                                "KI-78455",
+                                "CO",
+                                "Juan Pérez",
+                                {
+                                    "pill": "ok",
+                                    "text": "Delivered"
+                                },
+                                "Apr 11, 2026"
+                            ],
+                            [
+                                "KI-78454",
+                                "PE",
+                                "María López",
+                                {
+                                    "pill": "warn",
+                                    "text": "Preparing"
+                                },
+                                "Apr 11, 2026"
+                            ],
+                            [
+                                "KI-78453",
+                                "MX",
+                                "Carlos Ruiz",
+                                {
+                                    "pill": "ok",
+                                    "text": "Delivered"
+                                },
+                                "Apr 10, 2026"
+                            ],
+                            [
+                                "KI-78452",
+                                "CO",
+                                "Sofía Ramírez",
+                                {
+                                    "pill": "info",
+                                    "text": "In transit"
+                                },
+                                "Apr 10, 2026"
+                            ]
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Your next market",
+                    "heading": "Let’s talk about your next market",
+                    "text": "Tell us what you sell, where you want to operate and how many orders you expect. We’ll review the logistics and payment setup that fits your expansion plans.",
+                    "btn": {
+                        "label": "Plan my expansion",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/expandirse-en-latam/3.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "escalar-mi-operacion:en": {
+        "title": "Scale My Operations",
+        "lang": "en",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "heading": "Grow your sales. Stay in control of every order.",
+                    "subtitle": "Expand your operations across Mexico, Colombia, Peru, and the United States with a logistics solution that connects inventory, order fulfillment, and delivery. Kiki coordinates each stage and gives you the visibility to make informed decisions as order volumes grow.",
+                    "btn_primary": {
+                        "label": "Design my logistics solution",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "See how it works",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/escalar-mi-operacion/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "heading": "More sales call for an operation that can keep up.",
+                    "text": "As order volumes increase or you enter a new market, storage, picking, packing, shipping, and tracking become more complex. Managing these steps separately makes it harder to spot issues and deliver a consistent customer experience.",
+                    "solucion": "Kiki connects these stages so you can expand with a clearer view of what is happening in every market.",
+                    "items": [
+                        {
+                            "icon": "fa-building-columns",
+                            "title": "Inventory ready for growth",
+                            "text": "We coordinate storage and inventory management around your products, markets, and order volumes."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Orders connected to fulfillment",
+                            "text": "We bring your order information together to support preparation, dispatch, and tracking."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Deliveries you can follow",
+                            "text": "We coordinate last-mile delivery and help you track each shipment from dispatch to delivery."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/escalar-mi-operacion/2.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "A simple, connected process",
+                    "heading": "From your products to new markets",
+                    "sub": "We connect the stages of your logistics operation so you can manage more orders and expand your reach.",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "We understand your operation",
+                            "text": "We review where you sell, the products you handle, your order volume, and the markets you want to reach."
+                        },
+                        {
+                            "icon": "fa-gear",
+                            "title": "We prepare the operation",
+                            "text": "We define a storage, inventory, and order processing model suited to your business."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "We coordinate every order",
+                            "text": "We connect preparation, dispatch, and delivery with the information needed to track each order."
+                        },
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "We support your growth",
+                            "text": "We review operational performance and adjust the model as your volumes and needs change."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibility and control",
+                    "heading": "A clear view of your operations",
+                    "text": "See your orders, inventory, and shipments in one platform. Find out which orders are being prepared, which are on their way, and which have been delivered, so you can act on timely information.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Orders"
+                            ],
+                            [
+                                "fa-warehouse",
+                                "Inventory"
+                            ],
+                            [
+                                "fa-file-lines",
+                                "Fulfillment"
+                            ],
+                            [
+                                "fa-truck",
+                                "Shipments"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reports"
+                            ]
+                        ],
+                        "title": "Orders",
+                        "filters": [
+                            "All markets",
+                            "All statuses",
+                            "All time",
+                            "search:"
+                        ],
+                        "columns": [
+                            "Order",
+                            "Market",
+                            "Status",
+                            "Delivery"
+                        ],
+                        "rows": [
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx",
+                                    "text": "Mexico"
+                                },
+                                {
+                                    "pill": "warn",
+                                    "text": "Preparing"
+                                },
+                                "—"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co",
+                                    "text": "Colombia"
+                                },
+                                {
+                                    "pill": "info",
+                                    "text": "In transit"
+                                },
+                                "—"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "pe",
+                                    "text": "Peru"
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Delivered"
+                                },
+                                "—"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                "United States",
+                                {
+                                    "pill": "warn",
+                                    "text": "Preparing"
+                                },
+                                "—"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx",
+                                    "text": "Mexico"
+                                },
+                                {
+                                    "pill": "info",
+                                    "text": "In transit"
+                                },
+                                "—"
+                            ]
+                        ],
+                        "aside": {
+                            "title": "Operations",
+                            "cards": [
+                                {
+                                    "icon": "fa-check",
+                                    "tone": "ok",
+                                    "title": "Ready to ship",
+                                    "bar": 72
+                                },
+                                {
+                                    "icon": "fa-truck",
+                                    "title": "In transit",
+                                    "bar": 48
+                                },
+                                {
+                                    "icon": "fa-warehouse",
+                                    "title": "Available inventory",
+                                    "bar": 85
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "One operation. More room to grow.",
+                    "heading": "Expand into more markets with connected logistics.",
+                    "text": "Coordinate inventory, fulfillment, and last-mile delivery across Mexico, Colombia, Peru, and the United States. Keep a unified view of your orders as your operation adapts to the pace of your business.",
+                    "btn": {
+                        "label": "Design my logistics solution",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/escalar-mi-operacion/5.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Get started today",
+                    "heading": "Let’s talk about scaling your operations",
+                    "text": "Tell us where you sell, how many orders you manage, and where you want to grow. We’ll work with you to identify the right logistics solution for your business.",
+                    "btn": {
+                        "label": "Design my logistics solution",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/expandirse-en-latam/3.webp",
+                    "labels": [
+                        [
+                            "fa-location-dot",
+                            "Where you sell"
+                        ],
+                        [
+                            "fa-chart-simple",
+                            "Order volume"
+                        ],
+                        [
+                            "fa-earth-americas",
+                            "Expansion markets"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "planear-mi-expansion:en": {
+        "title": "Plan My Expansion",
+        "lang": "en",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "heading": "Bring your offers to LATAM with a plan for each market.",
+                    "subtitle": "Mexico, Colombia, and Peru present different opportunities for CPA networks. Kiki helps you assess where to launch, prepare each offer’s operations, and identify the information you need before scaling.",
+                    "btn_primary": {
+                        "label": "Plan my expansion",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "Explore the markets",
+                        "url": "#mercados"
+                    },
+                    "img": "/assets/images/soluciones/planear-mi-expansion/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "heading": "A strong offer needs more than traffic to grow.",
+                    "text": [
+                        "Consumer interest is only one part of the decision. Before launching a campaign, you need to understand market demand, viable pricing, payment options, delivery conditions, and product requirements in each country.",
+                        "With Kiki, you can turn that assessment into an operational plan: select your markets, prepare inventory and fulfillment, define the order journey, and track the outcomes that generate revenue."
+                    ],
+                    "items": [
+                        {
+                            "icon": "fa-users",
+                            "title": "Market and consumer",
+                            "text": "Assess digital demand and adapt your message, price, and buying experience to each country."
+                        },
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Offer viability",
+                            "text": "Review the product, documentation, payment model, costs, and margin before committing media budget."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Launch operations",
+                            "text": "Prepare inventory, order management, confirmation, delivery, and collections for the offer’s requirements."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/planear-mi-expansion/2.webp"
+                }
+            },
+            {
+                "type": "paises",
+                "data": {
+                    "id": "mercados",
+                    "eyebrow": "Three markets to explore",
+                    "heading": "Where could your next offer work?",
+                    "items": [
+                        {
+                            "code": "mx",
+                            "pais": "Mexico",
+                            "stats": [
+                                {
+                                    "value": "77.2 M",
+                                    "label": "digital buyers"
+                                },
+                                {
+                                    "value": "MXN 941 billion",
+                                    "label": "online retail sales"
+                                }
+                            ],
+                            "source": "2025 · AMVO",
+                            "eval_label": "What to assess",
+                            "eval": [
+                                "AMVO reports 77.2 million digital buyers and MXN 941 billion in online retail sales for 2025. INEGI estimates 104.9 million internet users, representing 86.1% of people aged six and older, in the same year.",
+                                "What to assess for a CPA offer: priority audiences and regions, pricing in Mexican pesos, category demand, acquisition cost, delivery coverage, and final order outcomes. The size of the market makes it particularly useful to test selected areas and audiences before expanding your investment."
+                            ],
+                            "enfoque": "Test approach: one offer, a defined audience, and clear measures of confirmed, delivered, and profitable orders.",
+                            "enfoque_icon": "fa-crosshairs"
+                        },
+                        {
+                            "code": "co",
+                            "pais": "Colombia",
+                            "stats": [
+                                {
+                                    "value": "684.6 M",
+                                    "label": "online purchases"
+                                },
+                                {
+                                    "value": "COP 105.7 trillion",
+                                    "label": "online sales"
+                                }
+                            ],
+                            "source": "2025 · CCCE",
+                            "eval_label": "What to assess",
+                            "eval": [
+                                "In 2025, the Colombian Chamber of Electronic Commerce reported COP 105.7 trillion in online sales at constant prices and 684.6 million online purchases. The average nominal transaction value was COP 212,373. Bank-account debit or PSE accounted for 57.2% of transaction value.",
+                                "What to assess for a CPA offer: pricing in Colombian pesos, your audience’s payment preferences, order confirmation, city-level coverage, and delivery costs. The overall e-commerce average transaction value provides market context; it does not predict the right price for a specific offer."
+                            ],
+                            "enfoque": "Test approach: measure the full journey from lead to delivered order and funds collected.",
+                            "enfoque_icon": "fa-truck"
+                        },
+                        {
+                            "code": "pe",
+                            "pais": "Peru",
+                            "stats": [
+                                {
+                                    "value": "18.7 M",
+                                    "label": "online buyers"
+                                },
+                                {
+                                    "value": "8.8%",
+                                    "label": "retail penetration"
+                                }
+                            ],
+                            "source": "2024–2025 · CAPECE",
+                            "eval_label": "What to assess",
+                            "eval": [
+                                "CAPECE’s Peru E-commerce Observatory 2024–2025 reports 18.7 million online buyers, 335,000 businesses selling online, and 8.8% e-commerce penetration in retail. It also estimates that marketplaces account for 40% of e-commerce activity.",
+                                "What to assess for a CPA offer: pricing in soles, regional demand, product availability, payment options, and delivery performance. The role of marketplaces makes it useful to study buyers’ expectations around convenience and trust, even when your offer is sold through its own landing page."
+                            ],
+                            "enfoque": "Test approach: validate one region and audience before expanding coverage and budget.",
+                            "enfoque_icon": "fa-credit-card"
+                        }
+                    ],
+                    "btn": {
+                        "label": "Assess my offer for LATAM",
+                        "url": "#evaluacion"
+                    }
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "A process for better decisions",
+                    "heading": "From opportunity to launch",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Assess the offer",
+                            "text": "We review the category, product, audience, value proposition, target price, and markets of interest."
+                        },
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Choose a test market",
+                            "text": "We assess demand, commercial conditions, payment options, delivery coverage, and applicable product requirements."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Prepare the operation",
+                            "text": "We define how inventory, orders, confirmation, fulfillment, delivery, and collections will work."
+                        },
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Measure before scaling",
+                            "text": "We compare investment and outcomes by country to determine which offer, audience, or market deserves more budget."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibility for CPA networks",
+                    "heading": "Look beyond the leads.",
+                    "text": "A campaign can generate sign-ups without producing profitable orders. To decide where to scale, connect traffic performance to operational results.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-earth-americas",
+                                "Markets"
+                            ],
+                            [
+                                "fa-tag",
+                                "Offers"
+                            ],
+                            [
+                                "fa-table-cells-large",
+                                "Orders"
+                            ],
+                            [
+                                "fa-truck",
+                                "Deliveries"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reports"
+                            ]
+                        ],
+                        "title": "Markets",
+                        "filters": [
+                            "All countries",
+                            "All offers",
+                            "Last 30 days",
+                            "search:"
+                        ],
+                        "columns": [
+                            "Country",
+                            "Offer",
+                            "Leads",
+                            "Confirmed",
+                            "Delivered",
+                            "Collected",
+                            "Margin"
+                        ],
+                        "rows": [
+                            [
+                                {
+                                    "map": "mx",
+                                    "text": "Mexico"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "bar": 62
+                                }
+                            ],
+                            [
+                                {
+                                    "map": "co",
+                                    "text": "Colombia"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "bar": 48
+                                }
+                            ],
+                            [
+                                {
+                                    "map": "pe",
+                                    "text": "Peru"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "bar": 55
+                                }
+                            ]
+                        ],
+                        "aside": {
+                            "title": "Key metrics",
+                            "icon": "fa-circle-info",
+                            "cards": [
+                                {
+                                    "icon": "fa-users",
+                                    "title": "Confirmation rate",
+                                    "bar": 68
+                                },
+                                {
+                                    "icon": "fa-truck",
+                                    "title": "Delivery rate",
+                                    "bar": 74
+                                },
+                                {
+                                    "icon": "fa-dollar-sign",
+                                    "tone": "ok",
+                                    "title": "Margin per delivered order",
+                                    "bar": 52
+                                }
+                            ]
+                        }
+                    },
+                    "summary_title": "Suggested view by country and offer:",
+                    "summary": [
+                        [
+                            "Acquisition",
+                            "Spend, leads, and CPL"
+                        ],
+                        [
+                            "Orders",
+                            "Created and confirmed"
+                        ],
+                        [
+                            "Operations",
+                            "Dispatched, delivered, and returned"
+                        ],
+                        [
+                            "Results",
+                            "Collections, total cost, and margin"
+                        ]
+                    ],
+                    "note": "Compare the confirmation rate, delivery rate among confirmed orders, and margin per delivered order. This helps you identify which offers attract clicks and which can support sustainable growth."
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "A strategy for each market",
+                    "heading": "Test with purpose. Scale with evidence.",
+                    "text": "Mexico, Colombia, and Peru call for different combinations of pricing, messaging, payment options, and operations. Kiki connects market planning with logistics execution to help you launch offers, track their performance, and expand those that show potential.",
+                    "btn": {
+                        "label": "Plan my expansion",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/planear-mi-expansion/5.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Get started today",
+                    "heading": "Let’s talk about your next offer in LATAM.",
+                    "text": "Tell us what product you want to launch, whom you want to reach, which countries you are considering, and your expected order volume. We’ll review the commercial and operational conditions needed to design a market test.",
+                    "btn": {
+                        "label": "Plan my expansion",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/expandirse-en-latam/3.webp",
+                    "labels": [
+                        [
+                            "fa-cube",
+                            "Your offer"
+                        ],
+                        [
+                            "fa-location-dot",
+                            "Target countries"
+                        ],
+                        [
+                            "fa-chart-simple",
+                            "Expected volume"
+                        ],
+                        [
+                            "fa-dollar-sign",
+                            "Payment model"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "vender-con-cod:en": {
+        "title": "Sell with COD",
+        "lang": "en",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "crumb": "Cash on delivery",
+                    "heading": "Sell with Cash on Delivery across LATAM",
+                    "subtitle": "Let customers pay when their order arrives. Kiki connects order confirmation, fulfillment, delivery, payment collection and reconciliation in one coordinated COD operation across Mexico, Colombia and Peru.",
+                    "btn_primary": {
+                        "label": "Build my COD operation",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "See how it works",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/vender-con-cod/2.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "eyebrow": "Why sell with COD",
+                    "heading": "COD works when every order is managed beyond checkout",
+                    "text": "An order placed is not yet an order delivered or paid for. Incorrect addresses, missed deliveries and unclear collection records can affect your results. Kiki helps you manage each stage so you can see what happened to every order and what was collected.",
+                    "items": [
+                        {
+                            "icon": "fa-mobile-screen",
+                            "title": "Confirm orders",
+                            "text": "Check order details and contact customers before dispatch, according to the workflow defined for your business."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Coordinate deliveries",
+                            "text": "Prepare orders, assign deliveries and follow their status across your target markets."
+                        },
+                        {
+                            "icon": "fa-wallet",
+                            "title": "Track collections",
+                            "text": "Connect delivery outcomes with payment records to support reconciliation and settlement."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/vender-con-cod/1.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "How it works",
+                    "heading": "From order to collection: one connected process",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Configure your COD operation",
+                            "text": "We define the countries, products, order flow and payment terms that fit your business."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Confirm and prepare orders",
+                            "text": "Orders enter the operation for confirmation, inventory allocation and fulfillment."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Deliver and manage exceptions",
+                            "text": "We coordinate last-mile delivery and follow up on incidents or rescheduling when needed."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "Reconcile and settle",
+                            "text": "We consolidate order, delivery and collection information so you can track results and reconcile the funds collected."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibility across your operation",
+                    "heading": "Know what happens after each order is placed",
+                    "text": "See which orders are confirmed, in transit, delivered, rescheduled or returned. Connecting these outcomes with collection data helps you identify where orders are being lost and make better decisions about campaigns, products and markets.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Orders"
+                            ],
+                            [
+                                "fa-warehouse",
+                                "Inventory"
+                            ],
+                            [
+                                "fa-truck",
+                                "Shipments"
+                            ],
+                            [
+                                "fa-wallet",
+                                "Collections"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reports"
+                            ]
+                        ],
+                        "title": "Orders",
+                        "tabs": [
+                            "All",
+                            "Confirmed",
+                            "In transit",
+                            "Delivered",
+                            "Rescheduled",
+                            "Returned"
+                        ],
+                        "filters": [
+                            "search:Search orders, customer or tracking…",
+                            "Last 30 days"
+                        ],
+                        "columns": [
+                            "Order",
+                            "Customer",
+                            "Country",
+                            "Status",
+                            "Last update"
+                        ],
+                        "rows": [
+                            [
+                                "KI-101248",
+                                "Ana Torres",
+                                "Mexico",
+                                {
+                                    "pill": "info",
+                                    "text": "Confirmed"
+                                },
+                                "Apr 12, 2026"
+                            ],
+                            [
+                                "KI-101247",
+                                "Luis García",
+                                "Colombia",
+                                {
+                                    "pill": "warn",
+                                    "text": "In transit"
+                                },
+                                "Apr 11, 2026"
+                            ],
+                            [
+                                "KI-101246",
+                                "Sofía Ramírez",
+                                "Peru",
+                                {
+                                    "pill": "ok",
+                                    "text": "Delivered"
+                                },
+                                "Apr 10, 2026"
+                            ],
+                            [
+                                "KI-101245",
+                                "Carlos Díaz",
+                                "Mexico",
+                                {
+                                    "pill": "warn",
+                                    "text": "Rescheduled"
+                                },
+                                "Apr 10, 2026"
+                            ],
+                            [
+                                "KI-101244",
+                                "Valentina Cruz",
+                                "Colombia",
+                                {
+                                    "pill": "bad",
+                                    "text": "Returned"
+                                },
+                                "Apr 09, 2026"
+                            ]
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "A solution for brands in LATAM",
+                    "heading": "COD for your regional growth",
+                    "text": "Whether you run a direct-to-consumer brand or manage high-volume offers, your COD operation needs to fit your order volume and target countries. Kiki brings the logistics and payment stages together so you can expand with a clearer view of delivery and collection performance.",
+                    "btn": {
+                        "label": "Build my COD operation",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/vender-con-cod/5.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Get started today",
+                    "heading": "Let’s design your COD operation",
+                    "text": "Tell us what you sell, where you want to deliver and how many orders you expect each month. We’ll review the operational model that fits your business.",
+                    "btn": {
+                        "label": "Build my COD operation",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/vender-con-cod/6.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "kiki-pay:en": {
+        "title": "Kiki Pay",
+        "lang": "en",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "heading": "More ways to pay. One connected operation.",
+                    "subtitle": "Offer shoppers payment options suited to their market through a checkout experience developed by Kiki. The payment outcome is linked to the order, helping your team follow the commercial and logistics process in one place.",
+                    "btn_primary": {
+                        "label": "Explore Kiki Pay",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "See how it works",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/kiki-pay/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "heading": "A sale does not end when a shopper places an order.",
+                    "text": "At checkout, a shopper may prefer a bank transfer, need to use a card, or look for a familiar local option. If the available method does not fit their situation, completing the purchase becomes harder.",
+                    "solucion": "Kiki Pay brings the options enabled for your operation into one checkout and connects the outcome to order management. Your team can see the difference between an order placed, a payment attempt, and a confirmed payment.",
+                    "items": [
+                        {
+                            "icon": "fa-globe",
+                            "title": "Options suited to each market",
+                            "text": "Present the alternatives available for your operation according to the country and enabled integrations."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "A checkout experience developed by Kiki",
+                            "text": "Shoppers review their order and choose how to pay. They complete the remaining steps in the relevant provider’s environment."
+                        },
+                        {
+                            "icon": "fa-link",
+                            "title": "Payments linked to orders",
+                            "text": "View the payment status alongside the order information to determine what needs to happen next."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/kiki-pay/2.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "A connected experience",
+                    "heading": "From order to payment outcome",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "We receive the order",
+                            "text": "Order information enters Kiki’s platform."
+                        },
+                        {
+                            "icon": "fa-link",
+                            "title": "We share a payment link",
+                            "text": "The shopper opens a checkout to review the purchase and the available options."
+                        },
+                        {
+                            "icon": "fa-credit-card",
+                            "title": "The shopper chooses how to pay",
+                            "text": "They select an option and complete the steps required by the payment service provider."
+                        },
+                        {
+                            "icon": "fa-circle-check",
+                            "title": "We update the order status",
+                            "text": "The reported outcome is linked to the order so your team can continue managing it."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "paises",
+                "data": {
+                    "id": "mercados",
+                    "layout": "split",
+                    "eyebrow": "Mexico, Colombia, and Peru",
+                    "heading": "Designed around local payment habits.",
+                    "text": "Shoppers do not pay the same way in every market. Kiki Pay is designed to bring together local options in Mexico, Colombia, and Peru, according to the methods and integrations available for each operation.",
+                    "items": [
+                        {
+                            "code": "mx",
+                            "pais": "Mexico",
+                            "text": "Explore the options enabled for your shoppers and follow the payment outcome alongside the order."
+                        },
+                        {
+                            "code": "co",
+                            "pais": "Colombia",
+                            "text": "Offer alternatives suited to the local market and review the result of each payment attempt in your order workflow."
+                        },
+                        {
+                            "code": "pe",
+                            "pais": "Peru",
+                            "text": "Add the options available for your operation to a buying experience connected with Kiki."
+                        }
+                    ],
+                    "btn": {
+                        "label": "Ask about payment options for my operation",
+                        "url": "#evaluacion"
+                    }
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibility and control",
+                    "heading": "Know the status of every payment attempt.",
+                    "text": "See which orders have a confirmed payment, which need follow-up, and which have a failed or expired attempt. Keeping payment attempts separate from confirmed payments helps your team make informed decisions before moving an order forward.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Orders"
+                            ],
+                            [
+                                "fa-wallet",
+                                "Payments"
+                            ],
+                            [
+                                "fa-scale-balanced",
+                                "Reconciliation"
+                            ],
+                            [
+                                "fa-building-columns",
+                                "Settlement"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reports"
+                            ]
+                        ],
+                        "title": "Orders",
+                        "filters": [
+                            "All countries",
+                            "All options",
+                            "All statuses"
+                        ],
+                        "columns": [
+                            "Order",
+                            "Country",
+                            "Selected option",
+                            "Payment status",
+                            "Next action"
+                        ],
+                        "rows": [
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Payment confirmed"
+                                },
+                                "Continue with the operation"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "warn",
+                                    "text": "Pending"
+                                },
+                                "Review status"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "pe"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "bad",
+                                    "text": "Failed attempt"
+                                },
+                                "Retry payment"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "mute",
+                                    "text": "Expired"
+                                },
+                                "Follow up with the shopper"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co"
+                                },
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Payment confirmed"
+                                },
+                                "Continue with the operation"
+                            ]
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "Payments and orders in one operation",
+                    "heading": "Connect checkout with what happens next.",
+                    "text": "Kiki Pay links checkout to Kiki LATAM’s order management. Your team can follow the payment outcome and use that information to coordinate the next step, from handling an issue to preparing an order, according to the conditions set for your operation.",
+                    "btn": {
+                        "label": "Explore Kiki Pay",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/kiki-pay/6.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Get started today",
+                    "heading": "Let’s talk about how your shoppers pay.",
+                    "text": "Tell us where you sell, how you receive orders, and which payment options you want to offer. We’ll review the available methods, the shopper journey, and how to connect payment with your logistics operation.",
+                    "btn": {
+                        "label": "Ask about Kiki Pay for my business",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/kiki-pay/5.webp",
+                    "labels": [
+                        [
+                            "fa-location-dot",
+                            "Markets where you sell"
+                        ],
+                        [
+                            "fa-store",
+                            "Sales channels"
+                        ],
+                        [
+                            "fa-credit-card",
+                            "Payment options"
+                        ],
+                        [
+                            "fa-table-cells-large",
+                            "Order management"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "logra-mas-entregas-efectivas:en": {
+        "title": "Achieve More Successful Deliveries",
+        "lang": "en",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "crumb": "Delivery success",
+                    "heading": "Achieve more successful deliveries",
+                    "subtitle": "Every order that fails to reach the customer affects your results. Kiki combines address validation, call center support and a platform where you can reassign unsuccessful deliveries for another attempt.",
+                    "btn_primary": {
+                        "label": "Improve my delivery success rate",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "See how it works",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/logra-mas-entregas-efectivas/2.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "eyebrow": "Prevent and resolve issues",
+                    "heading": "Take action before and after each delivery attempt",
+                    "text": "An incomplete address can prevent a parcel from reaching its destination. A customer who is unavailable can cause a failed attempt. And an unsuccessful delivery left unmanaged may end in a return.",
+                    "solucion": "Our solution supports your operation at three key points:",
+                    "items": [
+                        {
+                            "icon": "fa-location-dot",
+                            "title": "Address validation",
+                            "text": "Identify incomplete or inconsistent addresses before dispatch so the information can be corrected and failed attempts caused by address issues can be avoided."
+                        },
+                        {
+                            "icon": "fa-headset",
+                            "title": "Call center",
+                            "text": "Contact customers according to the workflow defined for your operation. Confirming details and following up on orders helps resolve issues that could affect delivery."
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "title": "Reassignment through the platform",
+                            "text": "When a delivery is unsuccessful, you can review the order in Kiki’s platform and assign it again for another day. A new attempt gives the order another opportunity to reach the customer."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/logra-mas-entregas-efectivas/1.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "A simple, connected process",
+                    "heading": "How you manage each order",
+                    "steps": [
+                        {
+                            "icon": "fa-clipboard-list",
+                            "title": "Validate the address",
+                            "text": "We review destination details to identify information that needs correction."
+                        },
+                        {
+                            "icon": "fa-user",
+                            "title": "Confirm the information",
+                            "text": "Our call center follows the rules agreed for your operation and records the outcome of the contact."
+                        },
+                        {
+                            "icon": "fa-truck",
+                            "title": "Track the delivery attempt",
+                            "text": "You can see whether an order was delivered or marked as unsuccessful."
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "title": "Decide whether to try again",
+                            "text": "In the platform, you review unsuccessful deliveries and reassign selected orders for delivery on another day."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Delivery reassignment",
+                    "heading": "From an unsuccessful attempt to a new opportunity",
+                    "text": "Your team decides which orders to reassign in the platform.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Orders"
+                            ],
+                            [
+                                "fa-warehouse",
+                                "Inventory"
+                            ],
+                            [
+                                "fa-truck",
+                                "Shipments"
+                            ],
+                            [
+                                "fa-user",
+                                "Customers"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reports"
+                            ]
+                        ],
+                        "title": "Order details",
+                        "back": true,
+                        "detail": {
+                            "order": "Order KI-38472",
+                            "status": "Unsuccessful delivery",
+                            "info": {
+                                "Customer": "Mariana Torres",
+                                "Address": "Av. Siempre Viva 1234, Lima, Peru",
+                                "Last attempt": "Mar 12, 2026, 2:15 p.m."
+                            },
+                            "link": "View delivery history",
+                            "action": {
+                                "title": "Reassign delivery",
+                                "text": "Select another date for a new delivery attempt.",
+                                "field": "Select another date",
+                                "value": "Mar 18, 2026",
+                                "btn": "Reassign delivery"
+                            },
+                            "result": {
+                                "title": "Scheduled for another attempt",
+                                "text": "The order has been reassigned and is scheduled for a new delivery attempt.",
+                                "field": "New delivery date",
+                                "value": "Mar 18, 2026",
+                                "link": "View order"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "eyebrow": "Visibility across every order outcome",
+                    "heading": "Delivery success is the metric that matters",
+                    "text": "See how many orders reach customers and which remain undelivered after an attempt. Understanding why deliveries fail—and giving eligible orders another attempt—helps you make better decisions about your operation.",
+                    "btn": {
+                        "label": "Improve my delivery success rate",
+                        "url": "#evaluacion"
+                    },
+                    "chips": [
+                        {
+                            "icon": "fa-truck",
+                            "label": "Delivery attempt"
+                        },
+                        {
+                            "icon": "fa-circle-xmark",
+                            "label": "Unsuccessful delivery",
+                            "tone": "bad"
+                        },
+                        {
+                            "icon": "fa-calendar-days",
+                            "label": "Reassigned by your team"
+                        },
+                        {
+                            "icon": "fa-truck-fast",
+                            "label": "New attempt"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Get started today",
+                    "heading": "Keep working on orders that can still be delivered",
+                    "text": "Tell us your current delivery success rate, monthly order volume and target markets. We’ll review how address validation, call center support and delivery reassignment can fit into your process.",
+                    "btn": {
+                        "label": "Improve my delivery success rate",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/logra-mas-entregas-efectivas/5.webp"
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    },
+    "recauda-y-recibe:en": {
+        "title": "Collect and Get Paid",
+        "lang": "en",
+        "sections": [
+            {
+                "type": "hero",
+                "data": {
+                    "crumb": "Collection and settlement",
+                    "heading": "Collect payments across LATAM. Get paid in your currency.",
+                    "subtitle": "Sell in Mexico, Colombia and Peru while Kiki coordinates the collection and international settlement of your sales. See what has been collected, what remains pending and how much money you will receive under the terms agreed for your operation.",
+                    "btn_primary": {
+                        "label": "Design my collection solution",
+                        "url": "#evaluacion"
+                    },
+                    "btn_secondary": {
+                        "label": "See how it works",
+                        "url": "#como-funciona"
+                    },
+                    "img": "/assets/images/soluciones/recauda-y-recibe/1.webp"
+                }
+            },
+            {
+                "type": "propuesta",
+                "data": {
+                    "heading": "Knowing how much you sold is not enough. You need to know how much was collected.",
+                    "text": "Several steps must align between an order being placed and the money reaching your business. When orders, deliveries and collections are reviewed separately, it becomes harder to spot discrepancies and understand the financial results of each market.",
+                    "solucion": "Kiki connects this information so you can follow the money from your sales.",
+                    "items": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Collections linked to orders",
+                            "text": "We match each collection to its order and, when applicable, to the delivery outcome."
+                        },
+                        {
+                            "icon": "fa-chart-simple",
+                            "title": "Sales and collection reconciliation",
+                            "text": "We bring the information together so you can review what was sold, what was collected and which orders need attention."
+                        },
+                        {
+                            "icon": "fa-globe",
+                            "title": "International settlement",
+                            "text": "We arrange the transfer of the money from your sales according to the currency, schedule and terms agreed for your business."
+                        }
+                    ],
+                    "img": "/assets/images/soluciones/recauda-y-recibe/2.webp"
+                }
+            },
+            {
+                "type": "proceso",
+                "data": {
+                    "eyebrow": "A simple, connected process",
+                    "heading": "From order to settlement",
+                    "steps": [
+                        {
+                            "icon": "fa-file-lines",
+                            "title": "Record the sale",
+                            "text": "The order enters the operation with the information needed to track it."
+                        },
+                        {
+                            "icon": "fa-magnifying-glass",
+                            "title": "Identify the collection",
+                            "text": "We record the payment status and link it to the corresponding order."
+                        },
+                        {
+                            "icon": "fa-cube",
+                            "title": "Reconcile the information",
+                            "text": "We compare orders, delivery outcomes and collections to identify discrepancies before settlement."
+                        },
+                        {
+                            "icon": "fa-building-columns",
+                            "title": "Transfer the money from your sales",
+                            "text": "We prepare settlement and transfer the money according to the agreed terms."
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "dashboard",
+                "data": {
+                    "eyebrow": "Visibility and control",
+                    "heading": "A clear view of what you will receive",
+                    "text": "See which orders have been collected, which remain pending and which sales are included in each settlement. This visibility helps you review discrepancies and plan your operation with more accurate information.",
+                    "mock": {
+                        "nav": [
+                            [
+                                "fa-table-cells-large",
+                                "Orders"
+                            ],
+                            [
+                                "fa-wallet",
+                                "Collections"
+                            ],
+                            [
+                                "fa-scale-balanced",
+                                "Reconciliation"
+                            ],
+                            [
+                                "fa-building-columns",
+                                "Settlement"
+                            ],
+                            [
+                                "fa-chart-simple",
+                                "Reports"
+                            ]
+                        ],
+                        "title": "Orders",
+                        "filters": [
+                            "All countries",
+                            "All collection statuses",
+                            "All settlements"
+                        ],
+                        "columns": [
+                            "Order",
+                            "Country",
+                            "Collection status",
+                            "Settlement"
+                        ],
+                        "rows": [
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx",
+                                    "text": "MX"
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Collected"
+                                },
+                                {
+                                    "link": "Included in settlement"
+                                }
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co",
+                                    "text": "CO"
+                                },
+                                {
+                                    "pill": "warn",
+                                    "text": "Pending"
+                                },
+                                "Under review"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "pe",
+                                    "text": "PE"
+                                },
+                                {
+                                    "pill": "mute",
+                                    "text": "Under review"
+                                },
+                                "Under review"
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "mx",
+                                    "text": "MX"
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Collected"
+                                },
+                                {
+                                    "link": "Included in settlement"
+                                }
+                            ],
+                            [
+                                {
+                                    "skel": 1
+                                },
+                                {
+                                    "map": "co",
+                                    "text": "CO"
+                                },
+                                {
+                                    "pill": "ok",
+                                    "text": "Collected"
+                                },
+                                {
+                                    "link": "Included in settlement"
+                                }
+                            ]
+                        ],
+                        "aside": {
+                            "title": "Settlement",
+                            "icon": "fa-building-columns",
+                            "cards": [
+                                {
+                                    "icon": "fa-check",
+                                    "tone": "ok",
+                                    "title": "Included in settlement",
+                                    "text": "Orders with successful collections included in your settlement, under the terms agreed for your operation."
+                                },
+                                {
+                                    "icon": "fa-clock",
+                                    "tone": "warn",
+                                    "title": "Under review",
+                                    "text": "Pending orders or collections under review that will be included in an upcoming settlement once resolved."
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "type": "banda",
+                "data": {
+                    "heading": "One view of all your markets",
+                    "text": "Connect orders and collections from Mexico, Colombia and Peru and reconcile your sales in one place.",
+                    "btn": {
+                        "label": "Design my collection solution",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/recauda-y-recibe/5.webp"
+                }
+            },
+            {
+                "type": "cierre",
+                "data": {
+                    "eyebrow": "Get started today",
+                    "heading": "Let’s talk about your collection operation",
+                    "text": "Tell us where you sell, your order volume and the currency in which you need to receive the money from your sales. We’ll review the collection and settlement model that fits your business.",
+                    "btn": {
+                        "label": "Design my collection solution",
+                        "url": "#evaluacion"
+                    },
+                    "img": "/assets/images/soluciones/recauda-y-recibe/6.webp",
+                    "labels": [
+                        [
+                            "fa-location-dot",
+                            "Where you sell"
+                        ],
+                        [
+                            "fa-chart-simple",
+                            "Order volume"
+                        ],
+                        [
+                            "fa-dollar-sign",
+                            "Payout currency"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "form"
+            }
+        ]
+    }
+}

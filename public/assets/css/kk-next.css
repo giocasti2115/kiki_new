@@ -1,0 +1,8 @@
+/* Solo en Next.js: enlaces a páginas que aún no existen (sin clic). */
+a.is-soon { cursor: default; }
+a.is-soon:hover { transform: none !important; box-shadow: none !important; }
+.mega-link.is-soon { opacity: .5; }
+.mega-link.is-soon .mega-link-arrow { visibility: hidden; }
+.mega-highlight a.is-soon, .blog_link_action.is-soon, .blog-pill.is-soon { opacity: .55; }
+.main_btn.is-soon { opacity: .6; filter: grayscale(.3); }
+.kk-foot .is-soon { opacity: .6; }
