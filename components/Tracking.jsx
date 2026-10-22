@@ -31,9 +31,6 @@ const T = {
     detail: 'Detalle completo', detailHelp: 'Historial consolidado con la información enviada por la red logística.',
     cols: ['Fecha', 'Estado', 'Descripción', 'Ubicación'],
     detailEmpty: 'Mostraremos el detalle una vez existan movimientos.',
-    help: '¿Necesitas ayuda con tu guía?',
-    helpText: 'Nuestro equipo puede validar datos adicionales o escalar incidencias con la transportadora.',
-    write: 'Escríbenos',
     noData: 'Sin dato', update: 'Actualización', noDesc: 'Sin descripción adicional', noDescShort: 'Sin descripción',
     querying: 'Consultando la guía en la red de Kiki...',
     notFound: 'No encontramos información para este número de guía.',
@@ -60,9 +57,6 @@ const T = {
     detail: 'Full detail', detailHelp: 'Consolidated history with the information sent by the logistics network.',
     cols: ['Date', 'Status', 'Description', 'Location'],
     detailEmpty: 'We will show the detail once there is activity.',
-    help: 'Need help with your shipment?',
-    helpText: 'Our team can validate additional details or escalate issues with the carrier.',
-    write: 'Contact us',
     noData: 'No data', update: 'Update', noDesc: 'No additional description', noDescShort: 'No description',
     querying: 'Checking your tracking number on the Kiki network...',
     notFound: 'We could not find information for this tracking number.',
@@ -212,96 +206,86 @@ export default function Tracking({ lang = 'es' }) {
         </div>
       </section>
 
-      <section className="tracking-data" id="trackingData">
-        <div className="container">
-          {result && (
-            <>
-              <div className="tracking-summary-grid">
-                <article className="tracking-summary-card">
-                  <span>{t.status}</span>
-                  <Pill status={result.status} fallback={t.tracking} />
-                  <p className="tracking-helper">{result.detail}</p>
-                </article>
-                <article className="tracking-summary-card">
-                  <span>{t.guide}</span>
-                  <strong>{result.guide || query}</strong>
-                  <p className="tracking-helper">{t.carrier + result.carrier}</p>
-                </article>
-                <article className="tracking-summary-card">
-                  <span>{t.updated}</span>
-                  <strong>{fmt(result.lastUpdate)}</strong>
-                  <p className="tracking-helper">{result.location ? t.lastLoc + result.location : t.location}</p>
-                </article>
-                <article className="tracking-summary-card">
-                  <span>{t.eta}</span>
-                  <strong>{result.eta ? fmt(result.eta).split(',')[0] : t.noData}</strong>
-                  <p className="tracking-helper">{t.etaHelp}</p>
-                </article>
-              </div>
-
-              <div className="tracking-timeline-card">
-                <div className="d-flex justify-content-between align-items-center flex-wrap gap-3 mb-4">
-                  <div>
-                    <h3 className="main_heading mb-2">{t.timeline}</h3>
-                    <p className="pairagraph m-0">{t.timelineHelp}</p>
-                  </div>
-                  <Pill status={result.status} fallback={t.tracking} />
-                </div>
-                {timeline.length ? (
-                  <ol className="tracking-timeline">
-                    {timeline.map((e, i) => (
-                      <li className={`tracking-timeline-item ${tone(e.status)}`.trim()} key={i}>
-                        <div className="tracking-timeline-marker" />
-                        <p className="tracking-helper mb-1">{fmt(e.date)}</p>
-                        <h4>{e.status}</h4>
-                        <p>{[e.description, e.location].filter(Boolean).join(' · ') || t.noDesc}</p>
-                      </li>
-                    ))}
-                  </ol>
-                ) : (
-                  <div className="tracking-empty-state">{t.timelineEmpty}</div>
-                )}
-              </div>
-
-              <div className="tracking-table-card">
-                <div className="mb-3">
-                  <h3 className="main_heading mb-1">{t.detail}</h3>
-                  <p className="pairagraph m-0">{t.detailHelp}</p>
-                </div>
-                {result.events.length ? (
-                  <div className="table-responsive">
-                    <table className="tracking-table">
-                      <thead>
-                        <tr>{t.cols.map((c) => <th key={c}>{c}</th>)}</tr>
-                      </thead>
-                      <tbody>
-                        {result.events.map((e, i) => (
-                          <tr key={i}>
-                            <td>{fmt(e.date)}</td>
-                            <td>{e.status}</td>
-                            <td>{e.description || t.noDescShort}</td>
-                            <td>{e.location || '—'}</td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
-                ) : (
-                  <div className="tracking-empty-state">{t.detailEmpty}</div>
-                )}
-              </div>
-            </>
-          )}
-
-          <div className="tracking-support-card">
-            <div>
-              <h4 className="mb-1">{t.help}</h4>
-              <p className="mb-0">{t.helpText}</p>
+      {result && (
+        <section className="tracking-data" id="trackingData">
+          <div className="container">
+            <div className="tracking-summary-grid">
+              <article className="tracking-summary-card">
+                <span>{t.status}</span>
+                <Pill status={result.status} fallback={t.tracking} />
+                <p className="tracking-helper">{result.detail}</p>
+              </article>
+              <article className="tracking-summary-card">
+                <span>{t.guide}</span>
+                <strong>{result.guide || query}</strong>
+                <p className="tracking-helper">{t.carrier + result.carrier}</p>
+              </article>
+              <article className="tracking-summary-card">
+                <span>{t.updated}</span>
+                <strong>{fmt(result.lastUpdate)}</strong>
+                <p className="tracking-helper">{result.location ? t.lastLoc + result.location : t.location}</p>
+              </article>
+              <article className="tracking-summary-card">
+                <span>{t.eta}</span>
+                <strong>{result.eta ? fmt(result.eta).split(',')[0] : t.noData}</strong>
+                <p className="tracking-helper">{t.etaHelp}</p>
+              </article>
             </div>
-            <a className="main_btn" href="mailto:tracking@kikilogistics.co">{t.write}</a>
+
+            <div className="tracking-timeline-card">
+              <div className="d-flex justify-content-between align-items-center flex-wrap gap-3 mb-4">
+                <div>
+                  <h3 className="main_heading mb-2">{t.timeline}</h3>
+                  <p className="pairagraph m-0">{t.timelineHelp}</p>
+                </div>
+                <Pill status={result.status} fallback={t.tracking} />
+              </div>
+              {timeline.length ? (
+                <ol className="tracking-timeline">
+                  {timeline.map((e, i) => (
+                    <li className={`tracking-timeline-item ${tone(e.status)}`.trim()} key={i}>
+                      <div className="tracking-timeline-marker" />
+                      <p className="tracking-helper mb-1">{fmt(e.date)}</p>
+                      <h4>{e.status}</h4>
+                      <p>{[e.description, e.location].filter(Boolean).join(' · ') || t.noDesc}</p>
+                    </li>
+                  ))}
+                </ol>
+              ) : (
+                <div className="tracking-empty-state">{t.timelineEmpty}</div>
+              )}
+            </div>
+
+            <div className="tracking-table-card">
+              <div className="mb-3">
+                <h3 className="main_heading mb-1">{t.detail}</h3>
+                <p className="pairagraph m-0">{t.detailHelp}</p>
+              </div>
+              {result.events.length ? (
+                <div className="table-responsive">
+                  <table className="tracking-table">
+                    <thead>
+                      <tr>{t.cols.map((c) => <th key={c}>{c}</th>)}</tr>
+                    </thead>
+                    <tbody>
+                      {result.events.map((e, i) => (
+                        <tr key={i}>
+                          <td>{fmt(e.date)}</td>
+                          <td>{e.status}</td>
+                          <td>{e.description || t.noDescShort}</td>
+                          <td>{e.location || '—'}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              ) : (
+                <div className="tracking-empty-state">{t.detailEmpty}</div>
+              )}
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
     </main>
   );
 }

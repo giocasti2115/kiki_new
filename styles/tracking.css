@@ -1,5 +1,5 @@
 /* Rastreo de pedidos (prototipo de la versión HTML; temporal hasta el diseño de Marketing). */
-.tracking-hero { padding: 140px 0 40px; background: linear-gradient(180deg, #e3f3fd 0%, #ffffff 100%); }
+.tracking-hero { padding: 140px 0 80px; background: linear-gradient(180deg, #e3f3fd 0%, #ffffff 100%); }
 .tracking-hero-card {
   display: flex;
   flex-wrap: wrap;
@@ -98,21 +98,6 @@
 .tracking-table td { padding: 14px 18px; border-bottom: 1px solid #edf2ff; font-size: 15px; }
 .tracking-table th { font-size: 13px; color: #6f7c99; text-transform: uppercase; letter-spacing: .08em; }
 .tracking-empty-state { padding: 24px; text-align: center; border-radius: 18px; background: #f5f8ff; color: #4b5570; font-weight: 500; }
-.tracking-support-card {
-  margin-top: 40px;
-  padding: 28px;
-  border-radius: 26px;
-  background: linear-gradient(120deg, #091e42 0%, #0f3a75 100%);
-  color: #fff;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 18px;
-  align-items: center;
-  justify-content: space-between;
-}
-.tracking-support-card h4 { color: #fff; }
-.tracking-support-card p { margin: 0; color: rgba(255, 255, 255, .8); }
-.tracking-support-card .main_btn { background: #ffd84d; color: #0f1f3d; }
 .tracking-data .is-hidden,
 .tracking-hero .is-hidden { display: none !important; }
 
