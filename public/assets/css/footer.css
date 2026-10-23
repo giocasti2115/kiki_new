@@ -174,7 +174,7 @@ header .navbar-nav .features_list .nav-link.is-active {
   .kiki-expansion-float:hover .kiki-expansion-float__icon,.kiki-meeting-float:hover .kiki-meeting-float__calendar{position:static;width:40px;height:40px;transform:rotate(-5deg)}
 }
 
-/* Escritorio: al hacer scroll los botones se reducen al ícono y se expanden al pasar el mouse */
+/* Escritorio: los botones se muestran como ícono y se expanden al pasar el mouse */
 @media (min-width:769px){
   .kiki-meeting-float,.kiki-expansion-float{transition:width .25s ease,padding .25s ease,transform 180ms ease,box-shadow 180ms ease,background-color 180ms ease}
   .kiki-meeting-float__copy,.kiki-expansion-float__copy{transition:opacity .2s ease}

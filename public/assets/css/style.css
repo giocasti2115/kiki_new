@@ -6401,7 +6401,7 @@ html {
 .hero-flag--co { top: 18%; left: 4%; animation-delay: 0s; }
 .hero-flag--mx { top: 14%; right: 4%; animation-delay: -1.2s; }
 .hero-flag--pe { top: 58%; left: 0; animation-delay: -2.5s; }
-.hero-flag--us { top: 42%; right: 0; animation-delay: -3.7s; }
+.hero-flag--us { top: 40%; right: 10%; animation-delay: -3.7s; }
 
 @keyframes hero-flag-float {
     0%, 100% { transform: translateY(0); }
