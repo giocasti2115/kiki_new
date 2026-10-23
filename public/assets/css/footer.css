@@ -180,12 +180,12 @@ header .navbar-nav .features_list .nav-link.is-active {
   .kiki-meeting-float__copy,.kiki-expansion-float__copy{transition:opacity .2s ease}
   .kiki-meeting-float.is-compact,.kiki-expansion-float.is-compact{width:68px;padding-left:0;padding-right:0}
   .is-compact .kiki-meeting-float__copy,.is-compact .kiki-expansion-float__copy{opacity:0;visibility:hidden}
-  .kiki-meeting-float.is-compact .kiki-meeting-float__calendar{right:50%;transform:translate(50%,-50%) rotate(-5deg)}
-  .kiki-expansion-float.is-compact .kiki-expansion-float__icon{right:50%;transform:translate(50%,-50%) rotate(-5deg)}
+  .kiki-meeting-float.is-compact .kiki-meeting-float__calendar{right:50%;width:50px;height:50px;transform:translate(50%,-50%) rotate(-5deg)}
+  .kiki-expansion-float.is-compact .kiki-expansion-float__icon{right:50%;width:48px;height:48px;transform:translate(50%,-50%) rotate(-5deg)}
   .kiki-meeting-float.is-compact:hover,.kiki-meeting-float.is-compact:focus-visible{width:180px;padding:10px 50px 10px 28px}
   .kiki-expansion-float.is-compact:hover,.kiki-expansion-float.is-compact:focus-visible{width:180px;padding:10px 48px 10px 24px}
   .is-compact:hover .kiki-meeting-float__copy,.is-compact:hover .kiki-expansion-float__copy,
   .is-compact:focus-visible .kiki-meeting-float__copy,.is-compact:focus-visible .kiki-expansion-float__copy{opacity:1;visibility:visible}
-  .kiki-meeting-float.is-compact:hover .kiki-meeting-float__calendar{right:-14px;transform:translateY(-54%) rotate(-9deg) scale(1.06)}
-  .kiki-expansion-float.is-compact:hover .kiki-expansion-float__icon{right:-10px;transform:translateY(-54%) rotate(-9deg) scale(1.06)}
+  .kiki-meeting-float.is-compact:hover .kiki-meeting-float__calendar{right:-14px;width:72px;height:72px;transform:translateY(-54%) rotate(-9deg) scale(1.06)}
+  .kiki-expansion-float.is-compact:hover .kiki-expansion-float__icon{right:-10px;width:58px;height:58px;transform:translateY(-54%) rotate(-9deg) scale(1.06)}
 }
