@@ -33,7 +33,7 @@
     margin: 0 0 14px;
     font-size: clamp(1.7rem, 2.8vw, 2.35rem);
     line-height: 1.18;
-    font-weight: 800;
+    font-weight: 600;
     letter-spacing: -.02em;
     color: var(--svc-navy);
 }
@@ -85,8 +85,8 @@
     margin: 0 0 18px;
     font-size: clamp(2rem, 3.4vw, 3rem);
     line-height: 1.08;
-    font-weight: 800;
-    letter-spacing: -.03em;
+    font-weight: 600;
+    letter-spacing: -.025em;
     color: var(--svc-navy);
 }
 .svc-hero__title span { display: block; color: var(--svc-accent); }

@@ -6457,9 +6457,8 @@ html {
 /* Botones: bloque compacto (el texto ya no se parte en pedazos al envolver) */
 a.main_btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; text-align: center; line-height: 1.3; }
 @media (max-width: 575.98px) {
-    /* Hero del home: botones apilados a todo el ancho */
-    .home_content .mt-4 { display: flex; flex-direction: column; gap: 16px; }
-    .home_content .mt-4 .main_btn { width: 100%; margin-left: 0 !important; padding: 14px 20px; }
+    /* Hero del home: botón principal a todo el ancho */
+    .kk-hero-actions .main_btn { width: 100%; padding: 14px 20px; }
 }
 
 /* ==========================================================================
@@ -6539,3 +6538,58 @@ a.main_btn { display: inline-flex; align-items: center; justify-content: center;
     from { opacity: 0; transform: translate(-50%, -6px); }
     to { opacity: 1; transform: translate(-50%, 0); }
 }
+
+/* ==========================================================================
+   Ajustes visuales (referencia: shiprocket.in)
+   ========================================================================== */
+
+/* Hero: un solo botón principal; el segundo como enlace secundario */
+.kk-hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 28px; }
+.kk-link-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 0;
+    font-weight: 600;
+    color: #0c1838;
+    text-decoration: none;
+    border-bottom: 2px solid rgba(31, 111, 229, .35);
+    transition: color .2s ease, border-color .2s ease, gap .2s ease;
+}
+.kk-link-secondary:hover { color: #1f6fe5; border-color: #1f6fe5; gap: 12px; }
+@media (max-width: 575.98px) { .kk-hero-actions { flex-direction: column; } }
+
+/* Hero: banderas más pequeñas y quietas, para que la foto respire */
+.hero-flag { width: clamp(44px, 4.6vw, 64px); padding: 3px; animation-duration: 7s; box-shadow: 0 10px 22px -12px rgba(13, 27, 76, .4), 0 0 0 1px rgba(13, 27, 76, .06); }
+
+/* Títulos con peso más liviano */
+.main_heading { font-weight: 500; letter-spacing: -.01em; }
+.home_section .home_content h1,
+.home_section .home_content h1 span { font-weight: 500; }
+
+/* Tarjetas: se elevan al pasar el mouse */
+.sol-pcard, .sol-step, .sol-country, .svc-card, .svc-tall > *, .svc-step, .svc-country, .svc-feat,
+.blog_box_custom {
+    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+}
+.sol-pcard:hover, .sol-step:hover, .sol-country:hover, .svc-card:hover, .svc-tall > *:hover, .svc-step:hover, .svc-country:hover,
+.blog_box_custom:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 22px 44px -24px rgba(13, 27, 76, .35);
+    border-color: rgba(31, 111, 229, .3);
+}
+/* Tarjetas con enlace: la flecha avanza al pasar el mouse */
+.blog_box_custom .blog_link_action i { transition: transform .25s ease; }
+.blog_box_custom:hover .blog_link_action i { transform: translateX(6px); }
+@media (prefers-reduced-motion: reduce) {
+    .sol-pcard:hover, .sol-step:hover, .sol-country:hover, .svc-card:hover, .svc-tall > *:hover, .svc-step:hover, .svc-country:hover,
+    .blog_box_custom:hover { transform: none; }
+}
+
+/* Home: más aire entre secciones y fondos alternados (blanco / gris muy claro) */
+#hero ~ section { padding-top: 104px !important; padding-bottom: 104px !important; }
+#motor, #objetivos, #hero ~ .Get_in_touch, #conocimiento { background-color: #fff; }
+#ecosistema, #hero ~ .differential-section, #historias-exito { background: #f6f9fc !important; }
+#objetivos, #conocimiento { background-image: none; }
+@media (max-width: 991.98px) { #hero ~ section { padding-top: 80px !important; padding-bottom: 80px !important; } }
+@media (max-width: 575.98px) { #hero ~ section { padding-top: 64px !important; padding-bottom: 64px !important; } }

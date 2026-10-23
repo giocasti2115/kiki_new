@@ -294,3 +294,15 @@ document.addEventListener("DOMContentLoaded", function () {
     heroSection.scrollIntoView({ behavior: "smooth", block: "start" });
   });
 });
+
+// Botones flotantes: se reducen al ícono después del primer scroll (en móvil ya son íconos).
+document.addEventListener("DOMContentLoaded", function () {
+  var floats = document.querySelectorAll(".kiki-meeting-float, .kiki-expansion-float");
+  if (!floats.length) return;
+  var update = function () {
+    var compact = window.scrollY > 240;
+    floats.forEach(function (el) { el.classList.toggle("is-compact", compact); });
+  };
+  update();
+  window.addEventListener("scroll", update, { passive: true });
+});
