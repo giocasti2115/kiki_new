@@ -6461,3 +6461,81 @@ a.main_btn { display: inline-flex; align-items: center; justify-content: center;
     .home_content .mt-4 { display: flex; flex-direction: column; gap: 16px; }
     .home_content .mt-4 .main_btn { width: 100%; margin-left: 0 !important; padding: 14px 20px; }
 }
+
+/* ==========================================================================
+   Navbar y menús desplegables (referencia: shiprocket.in)
+   Barra translúcida y más delgada; al hacer scroll se vuelve casi sólida.
+   Menús compactos: panel blanco plano, filas sin tarjeta, íconos pequeños.
+   ========================================================================== */
+@media (min-width: 992px) {
+    header { padding: 12px 0; }
+    header .navbar > .container {
+        padding: 8px 12px 8px 24px;
+        background: rgba(255, 255, 255, .55);
+        border-color: rgba(255, 255, 255, .7);
+        box-shadow: 0 4px 24px rgba(15, 23, 42, .05);
+        backdrop-filter: blur(14px) saturate(160%);
+        -webkit-backdrop-filter: blur(14px) saturate(160%);
+    }
+    header.header--scrolled .navbar > .container {
+        background: rgba(255, 255, 255, .88);
+        border-color: rgba(148, 163, 184, .25);
+        box-shadow: 0 8px 28px rgba(15, 23, 42, .08);
+    }
+    header .navbar-nav .nav-link { padding: 8px 12px; font-size: 15px; }
+    header .navbar-nav .nav-link:hover,
+    header .navbar-nav .nav-item.active .nav-link { background: rgba(31, 111, 229, .07); }
+
+    .mega-menu {
+        top: 84px;
+        width: max-content;
+        min-width: 0;
+        max-width: min(1040px, calc(100vw - 32px));
+        padding: 20px 22px;
+        border-radius: 16px;
+        background: #fff;
+        border: 1px solid #e8edf5;
+        box-shadow: 0 18px 44px rgba(15, 23, 42, .12);
+        color: #0f172a;
+        animation: kk-mega-in .18s ease-out;
+    }
+    .mega-menu::before { content: none; }
+    .mega-grid { gap: 8px 28px; }
+    .mega-category { flex: 1 1 240px; min-width: 240px; max-width: 320px; }
+    .mega-category h4 {
+        margin: 0 0 6px;
+        padding-left: 10px;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: .08em;
+        color: #8a94a6;
+    }
+    .mega-links { gap: 2px; }
+    .mega-link {
+        align-items: flex-start;
+        gap: 12px;
+        padding: 8px 10px;
+        border: 0;
+        border-radius: 10px;
+        background: transparent;
+    }
+    .mega-link:hover { transform: none; background: #f3f7fc; border-color: transparent; box-shadow: none; }
+    .mega-link-icon { width: 30px; height: 30px; border-radius: 8px; font-size: 13px; }
+    .mega-link-title { display: block; font-size: 14px; line-height: 1.3; color: #0f172a; }
+    .mega-link:hover .mega-link-title { color: #1f6fe5; }
+    .mega-link-desc { margin: 2px 0 0; font-size: 12px; line-height: 1.4; color: #8a94a6; }
+    .mega-link-arrow { display: none; }
+    .mega-highlight {
+        margin-top: 10px;
+        padding: 12px 14px;
+        border: 0;
+        border-radius: 12px;
+        background: #f7f9fb;
+    }
+    .mega-highlight p { margin: 0 0 6px; font-size: 13px; color: #44546b; }
+    .mega-highlight a { font-size: 12px; font-weight: 600; letter-spacing: .04em; }
+}
+@keyframes kk-mega-in {
+    from { opacity: 0; transform: translate(-50%, -6px); }
+    to { opacity: 1; transform: translate(-50%, 0); }
+}
