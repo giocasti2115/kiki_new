@@ -19,16 +19,33 @@ window.addEventListener("load", function() {
   });
 }, false);
 
+// Menú móvil: abre/cierra el panel lateral y bloquea el scroll de la página mientras está abierto.
+function kkToggleMenu(open) {
+  $('.sidebar').toggleClass('open', open);
+  $('.overlay').toggle(open);
+  $('html').toggleClass('kk-menu-open', open);
+}
+
 $('.menu').on('click', function() {
-  $('.overlay').show();
-  $('nav').toggleClass("open");
+  kkToggleMenu(!$('.sidebar').hasClass('open'));
+}).on('keydown', function(e) {
+  if (e.key === 'Enter' || e.key === ' ') {
+    e.preventDefault();
+    kkToggleMenu(true);
+  }
 });
 
-$('.overlay').on('click', function() {
-  if ($('nav').hasClass('open')) {
-    $('nav').removeClass('open');
-  }
-  $(this).hide();
+$('.overlay, .sidebar-close').on('click', function() {
+  kkToggleMenu(false);
+});
+
+// Enlaces a secciones de la misma página: cerrar el menú al navegar.
+$('.sidebar a[href*="#"]').on('click', function() {
+  kkToggleMenu(false);
+});
+
+$(document).on('keydown', function(e) {
+  if (e.key === 'Escape' && $('.sidebar').hasClass('open')) kkToggleMenu(false);
 });
 
 document.addEventListener("DOMContentLoaded", function () {

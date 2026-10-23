@@ -6453,3 +6453,11 @@ html {
 /* Historias de clientes: título en azul oscuro, como el resto de secciones */
 .success-heading .main_heading { color: #0c1838; }
 #ecosistema .services-tabs { max-width: 900px; margin-left: auto; margin-right: auto; }
+
+/* Botones: bloque compacto (el texto ya no se parte en pedazos al envolver) */
+a.main_btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; text-align: center; line-height: 1.3; }
+@media (max-width: 575.98px) {
+    /* Hero del home: botones apilados a todo el ancho */
+    .home_content .mt-4 { display: flex; flex-direction: column; gap: 16px; }
+    .home_content .mt-4 .main_btn { width: 100%; margin-left: 0 !important; padding: 14px 20px; }
+}

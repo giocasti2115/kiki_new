@@ -161,7 +161,15 @@ header .navbar-nav .features_list .nav-link.is-active {
 .kiki-meeting-float:hover .kiki-meeting-float__calendar,.kiki-meeting-float:focus-visible .kiki-meeting-float__calendar{transform:translateY(-54%) rotate(-9deg) scale(1.06)}
 .kiki-meeting-float:active{transform:translateY(1px) scale(.985);box-shadow:0 3px 0 rgb(174 157 0 / .64),0 7px 0 rgb(0 0 0 / .14)}
 .kiki-meeting-float:focus-visible{outline:3px solid #21B5EA;outline-offset:5px}
+/* Debajo del header (1400) para no tapar los menús desplegables */
+.kiki-expansion-float,.kiki-meeting-float{z-index:1300}
+.kk-menu-open .kiki-expansion-float,.kk-menu-open .kiki-meeting-float{visibility:hidden}
+/* Móvil: botones circulares con solo el ícono (el texto queda para lectores de pantalla) */
 @media (max-width:768px){
-  .kiki-expansion-float{right:10px;top:auto;bottom:82px}
-  .kiki-meeting-float{right:10px;top:auto;bottom:165px}
+  .kiki-expansion-float,.kiki-meeting-float{top:auto;right:14px;width:58px;min-height:58px;height:58px;padding:0;justify-content:center;border-radius:50%}
+  .kiki-expansion-float{bottom:18px}
+  .kiki-meeting-float{bottom:88px}
+  .kiki-expansion-float__copy,.kiki-meeting-float__copy{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+  .kiki-expansion-float__icon,.kiki-meeting-float__calendar,
+  .kiki-expansion-float:hover .kiki-expansion-float__icon,.kiki-meeting-float:hover .kiki-meeting-float__calendar{position:static;width:40px;height:40px;transform:rotate(-5deg)}
 }

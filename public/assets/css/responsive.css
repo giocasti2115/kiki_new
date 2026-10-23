@@ -610,3 +610,94 @@ html {
 
 
 
+
+/* ==========================================================================
+   Menú móvil (referencia: shiprocket.in): panel lateral con cabecera fija,
+   filas con flecha, selector de idioma y botón de rastreo a todo el ancho.
+   ========================================================================== */
+html.kk-menu-open { overflow: hidden; }
+.overlay { z-index: 1500; background-color: rgba(11, 23, 54, .45); }
+.sidebar {
+    left: auto;
+    right: 0;
+    width: min(400px, 100%);
+    padding: 0;
+    opacity: 1;
+    color: #0c1838;
+    transform: translateX(105%);
+    transition: transform .3s ease;
+    z-index: 1600;
+}
+.sidebar.open { left: auto; transform: none; box-shadow: -12px 0 40px rgba(11, 23, 54, .25); }
+.sidebar .nav-header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px;
+    background: #fff;
+    border-bottom: 1px solid #eef1f6;
+}
+.sidebar .sidebar-logo img { display: block; width: 52px; height: auto; }
+.sidebar-close {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    border: 1px solid #e2e8f2;
+    border-radius: 50%;
+    background: #fff;
+    color: #0c1838;
+    font-size: 1.15rem;
+}
+.sidebar-close:hover { background: #f2f7fd; }
+.sidebar .navbar-nav { margin: 0 !important; padding: 4px 20px 32px; }
+.sidebar .navbar-nav > li { border-bottom: 1px solid #eef1f6; }
+.sidebar details { margin: 0; padding: 0; border: 0 !important; }
+.sidebar details summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0;
+    font-size: 17px;
+    font-weight: 600;
+    color: #0c1838;
+    cursor: pointer;
+    list-style: none;
+}
+.sidebar details summary::-webkit-details-marker { display: none; }
+.sidebar details summary::after {
+    content: "\f078";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    font-size: 13px;
+    color: #7b8aa0;
+    transition: transform .2s ease;
+}
+.sidebar details[open] summary::after { transform: rotate(180deg); }
+.sidebar details .main_menu { margin: 0 0 12px !important; }
+.sidebar details ul li { padding: 0; }
+.sidebar details ul li a {
+    display: block;
+    padding: 9px 12px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #44546b;
+}
+.sidebar details ul li a:hover { background: #f2f7fd; color: #1f6fe5; }
+.sidebar .navbar-nav .nav-item .nav-link { padding: 16px 0; font-size: 17px; font-weight: 600; color: #0c1838; }
+.sidebar .navbar-nav > li.d-flex { padding: 20px 0 8px; border-bottom: 0; }
+.sidebar .navbar-nav > li.d-flex .nav-link {
+    padding: 8px 20px !important;
+    border: 1px solid #d7e3f5;
+    border-radius: 999px;
+    font-size: 14px !important;
+}
+.sidebar .navbar-nav > li.d-flex .nav-link.is-active { background: #1f6fe5; border-color: #1f6fe5; color: #fff; }
+.sidebar .navbar-nav > li:last-child { border-bottom: 0; }
+.sidebar .navbar-nav .main_btn { display: flex !important; width: 100%; padding: 14px 20px; font-size: 16px; }
+.menu { cursor: pointer; }
